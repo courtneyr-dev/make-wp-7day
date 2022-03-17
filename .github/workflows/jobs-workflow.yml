@@ -17,5 +17,10 @@ jobs:
         with:
           comment_tag_name: "JOBS"
           feed_list: "https://jobs.wordpress.net/feed"
-          max_post_count: 50
+          max_post_count: 1000
+          item_exec: |
+                 const DAY = 24 * 60 * 60 * 1000;
+                 const DAYS_AGO = 7;  // 7 days ago
+                 const dateObj = new Date(Date.now() - (DAYS_AGO * DAY));
+                 if (post.date < dateObj) post = null;
  
