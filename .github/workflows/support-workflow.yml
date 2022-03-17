@@ -17,7 +17,7 @@ jobs:
         with:
           comment_tag_name: "SUPPORT"
           feed_list: "https://make.wordpress.org/support/feed"
-                  max_post_count: 1000
+          max_post_count: 1000
           item_exec: |
                  const DAY = 24 * 60 * 60 * 1000;
                  const DAYS_AGO = 7;  // 7 days ago
