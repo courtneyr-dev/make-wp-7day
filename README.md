@@ -128,6 +128,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Adding a Site Tagline to Block Themes](https://learn.wordpress.org/workshop/adding-a-site-tagline-to-block-themes/)
 - [Manage Settings: Privacy](https://learn.wordpress.org/workshop/manage-settings-privacy/)
 <!-- WORKSHOPS:END -->
 
