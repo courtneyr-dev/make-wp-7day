@@ -19,5 +19,7 @@ jobs:
           feed_list: "https://make.wordpress.org/cli/feed"
           max_post_count: 1000
           item_exec: |
-                 const today = new Date();
-                 if ((post.date.getMonth() !== today.getMonth()) && (post.date.getYear() !== today.getYear())) post = null;
+                 const DAY = 24 * 60 * 60 * 1000;
+                 const DAYS_AGO = 7;  // 7 days ago
+                 const dateObj = new Date(Date.now() - (DAYS_AGO * DAY));
+                 if (post.date < dateObj) post = null;
