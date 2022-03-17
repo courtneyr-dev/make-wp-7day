@@ -106,6 +106,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Discussion: Revisiting In-person Regional WordCamps](https://make.wordpress.org/community/2022/03/17/discussion-revisiting-in-person-regional-wordcamps/)
 - [Meetup Organizer Newsletter: March 2022](https://make.wordpress.org/community/2022/03/14/meetup-organizer-newsletter-march-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on March 9, 2022](https://make.wordpress.org/community/2022/03/10/recap-of-the-diverse-speaker-training-group-wpdiversity-on-march-9-2022/)
 <!-- COMMUNITY:END -->
