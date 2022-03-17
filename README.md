@@ -120,7 +120,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TRAINING:START -->
 - [Recap of Training Team meetings, March 15 and 17, 2022](https://make.wordpress.org/training/2022/03/17/recap-of-training-team-meetings-march-15-and-17-2022/)
 - [Meeting Agenda for March 15, 2022](https://make.wordpress.org/training/2022/03/14/meeting-agenda-for-march-15-2022/)
-- [Recap of Training Team meetings, March 8 and 10, 2022](https://make.wordpress.org/training/2022/03/10/recap-of-training-team-meetings-march-8-and-10-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
