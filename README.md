@@ -143,6 +143,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Block Theme Discussions: Presets in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-presets-in-theme-json)
+- [Block Theme Discussions: Supports in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-supports-in-theme-json)
+- [Block Theme Discussions: JSON Schema](https://learn.wordpress.org/?meeting=block-theme-discussions-json-schema)
+- [Block Theme Discussions: Custom Fonts](https://learn.wordpress.org/?meeting=block-theme-discussions-custom-fonts)
 - [I’m New To WordPress: Getting Started For The First Time](https://learn.wordpress.org/?meeting=im-new-to-wordpress-getting-started-for-the-first-time-2)
 <!-- SLS:END -->
 
