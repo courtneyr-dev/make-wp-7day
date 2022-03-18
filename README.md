@@ -261,6 +261,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [X-post: In last week’s Meta meeting,…](https://make.wordpress.org/project/2022/03/18/xpost-in-last-weeks-meta-meeting/)
 - [Proposal to remove spam/dormant Five for the Future pledges](https://make.wordpress.org/project/2022/03/16/proposal-to-remove-spam-dormant-five-for-the-future-pledges/)
 <!-- PROJECT:END -->
 
