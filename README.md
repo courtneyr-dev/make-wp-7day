@@ -281,7 +281,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 5.9.2 Security and Maintenance Release](https://wordpress.org/news/2022/03/wordpress-5-9-2-security-maintenance-release/)
+- [WP Briefing: Episode 27: Is WordPress Made for Me?](https://wordpress.org/news/2022/03/episode-27-is-wordpress-made-for-me/)
 <!-- NEWS:END -->
 
 ## Jobs
