@@ -17,7 +17,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Design
 <!-- DESIGN:START -->
 - [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/design/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
-- [Design Share: Feb 28–Mar 11](https://make.wordpress.org/design/2022/03/14/design-share-feb-28-mar-11/)
 <!-- DESIGN:END -->
 
 ## Mobile
