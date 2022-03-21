@@ -66,6 +66,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Post Tags Block](https://wordpress.org/support/article/post-tags-block/)
 - [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
 - [Post Excerpt Block](https://wordpress.org/support/article/post-excerpt-block/)
 - [Post Title Block](https://wordpress.org/support/article/post-title-block/)
