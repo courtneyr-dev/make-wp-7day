@@ -36,6 +36,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
+- [Accessibility Team Meeting Notes: March 18, 2022](https://make.wordpress.org/accessibility/2022/03/21/accessibility-team-meeting-notes-march-18-2022/)
 - [Accessibility Team Meeting Agenda: March 18, 2022](https://make.wordpress.org/accessibility/2022/03/17/accessibility-team-meeting-agenda-march-18-2022/)
 - [Accessibility Team Meeting Notes: March 4, 2022](https://make.wordpress.org/accessibility/2022/03/16/accessibility-team-meeting-notes-march-4-2022/)
 <!-- ACCESSIBILITY:END -->
