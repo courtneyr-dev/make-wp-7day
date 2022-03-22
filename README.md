@@ -11,7 +11,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new in Gutenberg 12.8? &lpar;16 March&rpar;](https://make.wordpress.org/core/2022/03/16/whats-new-in-gutenberg-12-8-16-march/)
 - [Devchat agenda, March 16, 2022](https://make.wordpress.org/core/2022/03/15/devchat-agenda-march-16-2022/)
 - [Performance team meeting summary 15 March 2022](https://make.wordpress.org/core/2022/03/15/performance-team-meeting-summary-15-march-2022/)
-- [Bug Scrub Schedule for 6.0](https://make.wordpress.org/core/2022/03/15/bug-scrub-schedule-for-6-0/)
 <!-- CORE:END -->
 
 ## Design
