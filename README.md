@@ -232,7 +232,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Openverse
 <!-- OPENVERSE:START -->
 - [A week in Openverse: 2022-03-14 – 2022-03-21](https://make.wordpress.org/openverse/2022/03/21/last-week-openverse-2022-03-14-2022-03-21/)
-- [Community Meeting Recap &lpar;Mar 15th&rpar;](https://make.wordpress.org/openverse/2022/03/15/community-meeting-recap-mar-15th/)
 <!-- OPENVERSE:END -->
 
 ## Photos
