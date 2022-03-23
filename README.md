@@ -11,7 +11,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 22 March 2022](https://make.wordpress.org/core/2022/03/21/performance-chat-agenda-22-march-2022/)
 - [Editor chat summary: Wednesday, 16 March 2022](https://make.wordpress.org/core/2022/03/18/editor-chat-summary-wednesday-16-march-2022/)
 - [Dev Chat summary, March 16, 2022](https://make.wordpress.org/core/2022/03/17/devchat-summary-march-16-2022/)
-- [Bug Scrub for Two-Factor plugin](https://make.wordpress.org/core/2022/03/16/bug-scrub-for-two-factor-plugin/)
 <!-- CORE:END -->
 
 ## Design
