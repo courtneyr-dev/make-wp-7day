@@ -158,7 +158,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Call for Testing: WordPress for iOS 19.5](https://make.wordpress.org/test/2022/03/21/xpost-call-for-testing-wordpress-for-ios-19-5/)
 - [X-post: Call for Testing: WordPress for Android 19.5](https://make.wordpress.org/test/2022/03/21/xpost-call-for-testing-wordpress-for-android-19-5/)
 - [FSE Program: Bring your questions – Round Three](https://make.wordpress.org/test/2022/03/16/fse-program-bring-your-questions-round-three/)
-- [Test Team Chat Summary: 15 March 2022](https://make.wordpress.org/test/2022/03/16/test-team-chat-summary-15-march-2022/)
 <!-- TEST:END -->
 
 ## TV
