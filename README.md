@@ -52,6 +52,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [Working on WordPress release 6.0 – Selecting Trac tickets for DevNotes](https://make.wordpress.org/docs/2022/03/23/working-on-wordpress-release-6-0-selecting-trac-tickets-for-devnotes/)
 - [Summary of Docs Team Meeting March 22, 2022](https://make.wordpress.org/docs/2022/03/23/summary-of-docs-team-meeting-march-22-2022/)
 - [Agenda for docs team bi-weekly meeting 22 March 2022](https://make.wordpress.org/docs/2022/03/22/agenda-for-docs-team-bi-weekly-meeting-22-march-2022/)
 <!-- DOCS:END -->
