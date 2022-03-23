@@ -54,7 +54,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Documentation
 <!-- DOCS:START -->
 - [Agenda for docs team bi-weekly meeting 22 March 2022](https://make.wordpress.org/docs/2022/03/22/agenda-for-docs-team-bi-weekly-meeting-22-march-2022/)
-- [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/docs/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
 <!-- DOCS:END -->
 
 ### Support Articles
