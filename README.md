@@ -77,7 +77,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Themes Team Meeting Notes – March 22, 2022](https://make.wordpress.org/themes/2022/03/22/themes-team-meeting-notes-march-22-2022/)
 - [Themes team meeting agenda for March 22, 2022](https://make.wordpress.org/themes/2022/03/21/themes-team-meeting-agenda-for-march-22-2022/)
 - [Gutenberg + Themes: Week of March 14th, 2022](https://make.wordpress.org/themes/2022/03/18/gutenberg-themes-week-of-march-14th-2022/)
-- [X-post: Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/themes/2022/03/16/xpost-coming-soon-block-pattern-directory-submissions/)
 <!-- THEMES:END -->
 
 ## Plugins
