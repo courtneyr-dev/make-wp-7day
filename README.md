@@ -101,7 +101,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Meta
 <!-- META:START -->
 - [In last week’s Meta meeting,…](https://make.wordpress.org/meta/2022/03/18/in-last-weeks-meta-meeting/)
-- [Coming soon: Block Pattern Directory Submissions](https://make.wordpress.org/meta/2022/03/16/coming-soon-block-pattern-directory-submissions/)
 <!-- META:END -->
 
 ## Training
