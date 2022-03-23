@@ -243,6 +243,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
+- [Removal of the Zamir Plugin](https://make.wordpress.org/project/2022/03/23/removal-of-the-zamir-plugin/)
 - [X-post: In last week’s Meta meeting,…](https://make.wordpress.org/project/2022/03/18/xpost-in-last-weeks-meta-meeting/)
 <!-- PROJECT:END -->
 
