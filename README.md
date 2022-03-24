@@ -179,7 +179,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Luca Rodino: Il mondo Cookieless che verrà: i cambiamenti in arrivo e come prepararci](https://wordpress.tv/2022/03/17/luca-rodino-il-mondo-cookieless-che-verra-i-cambiamenti-in-arrivo-e-come-prepararci/)
 - [Dennis Ploetner: Contribuire ad un progetto open source](https://wordpress.tv/2022/03/17/dennis-ploetner-contribuire-ad-un-progetto-open-source/)
 - [Giacomo Cariulo: Da freelance ad agenzia. Skills e tools](https://wordpress.tv/2022/03/17/giacomo-cariulo-da-freelance-ad-agenzia-skills-e-tools/)
-- [Andrea Paternostro, Max Nardini: Creare pagine di ricerca e filtro con effetto wow &lpar;quasi&rpar; senza codice](https://wordpress.tv/2022/03/17/andrea-paternostro-max-nardini-creare-pagine-di-ricerca-e-filtro-con-effetto-wow-quasi-senza-codice/)
 <!-- WPTV:END -->
 
 ## Marketing
