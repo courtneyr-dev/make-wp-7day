@@ -70,6 +70,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [BorderBoxControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-box-control/)
 - [BorderControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-control/)
 <!-- DEVHUB:END -->
 
