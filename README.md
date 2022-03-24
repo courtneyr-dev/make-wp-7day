@@ -169,10 +169,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WPTV:START -->
 - [WordPress for Writers: Launching your Writer Website](https://wordpress.tv/2022/03/21/wordpress-for-writers-launching-your-writer-website/)
 - [Jorge González: Introducción a las Core Web Vitals](https://wordpress.tv/2022/03/21/jorge-gonzalez-introduccion-core-web-vitals/)
-- [Piermario Orecchioni: Perche dovreste voler bene a Gutenberg e come iniziare a farlo](https://wordpress.tv/2022/03/17/piermario-orecchioni-perche-dovreste-voler-bene-a-gutenberg-e-come-iniziare-a-farlo/)
-- [Gaia Mazzucco, Andrea Giglio: La centralità dell’individuo all’interno dell’ambito IT](https://wordpress.tv/2022/03/17/gaia-mazzucco-andrea-giglio-la-centralita-dellindividuo-allinterno-dellambito-it/)
-- [Matteo Spirandelli, Alessandro Labianca: Closing Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-alessandro-labianca-closing-remarks-wordpress-meetup-day-2022/)
-- [Alessandro Vercellotti: Novità gdpr 2022](https://wordpress.tv/2022/03/17/alessandro-vercellotti-novita-gdpr-2022/)
 <!-- WPTV:END -->
 
 ## Marketing
