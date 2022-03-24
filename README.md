@@ -176,9 +176,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Gaia Mazzucco, Andrea Giglio: La centralità dell’individuo all’interno dell’ambito IT](https://wordpress.tv/2022/03/17/gaia-mazzucco-andrea-giglio-la-centralita-dellindividuo-allinterno-dellambito-it/)
 - [Matteo Spirandelli, Alessandro Labianca: Closing Remarks WordPress Meetup Day 2022](https://wordpress.tv/2022/03/17/matteo-spirandelli-alessandro-labianca-closing-remarks-wordpress-meetup-day-2022/)
 - [Alessandro Vercellotti: Novità gdpr 2022](https://wordpress.tv/2022/03/17/alessandro-vercellotti-novita-gdpr-2022/)
-- [Luca Rodino: Il mondo Cookieless che verrà: i cambiamenti in arrivo e come prepararci](https://wordpress.tv/2022/03/17/luca-rodino-il-mondo-cookieless-che-verra-i-cambiamenti-in-arrivo-e-come-prepararci/)
-- [Dennis Ploetner: Contribuire ad un progetto open source](https://wordpress.tv/2022/03/17/dennis-ploetner-contribuire-ad-un-progetto-open-source/)
-- [Giacomo Cariulo: Da freelance ad agenzia. Skills e tools](https://wordpress.tv/2022/03/17/giacomo-cariulo-da-freelance-ad-agenzia-skills-e-tools/)
 <!-- WPTV:END -->
 
 ## Marketing
