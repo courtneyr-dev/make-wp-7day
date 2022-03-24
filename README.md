@@ -67,7 +67,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
 - [Post Excerpt Block](https://wordpress.org/support/article/post-excerpt-block/)
 - [Post Title Block](https://wordpress.org/support/article/post-title-block/)
-- [Post Featured Image Block](https://wordpress.org/support/article/post-featured-image-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
