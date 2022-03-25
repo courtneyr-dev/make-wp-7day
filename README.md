@@ -136,10 +136,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Exploring Block Layout, Alignment, and Dimensions &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions-part-2)
 - [Builder Basics: Headers and Footers in Full Site Editing](https://learn.wordpress.org/?meeting=builder-basics-headers-and-footers-in-full-site-editing)
 - [Builder Basics: Designing with Columns, Group, and Row Blocks &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-designing-with-columns-group-and-row-blocks-part-2)
-- [Block Theme Discussions: Presets in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-presets-in-theme-json)
-- [Block Theme Discussions: Supports in theme.json](https://learn.wordpress.org/?meeting=block-theme-discussions-supports-in-theme-json)
-- [Block Theme Discussions: JSON Schema](https://learn.wordpress.org/?meeting=block-theme-discussions-json-schema)
-- [Block Theme Discussions: Custom Fonts](https://learn.wordpress.org/?meeting=block-theme-discussions-custom-fonts)
 <!-- SLS:END -->
 
 ## Test
