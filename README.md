@@ -62,7 +62,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Post Date Block](https://wordpress.org/support/article/post-date-block/)
 - [Post Tags Block](https://wordpress.org/support/article/post-tags-block/)
 - [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
-- [Post Excerpt Block](https://wordpress.org/support/article/post-excerpt-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
