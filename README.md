@@ -57,6 +57,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Post Content Block](https://wordpress.org/support/article/post-content-block/)
 - [Pinterest Embed](https://wordpress.org/support/article/pinterest-embed/)
 - [Submit your Block Pattern to the Directory](https://wordpress.org/support/article/submit-your-block-pattern-to-the-directory/)
 - [Post Date Block](https://wordpress.org/support/article/post-date-block/)
