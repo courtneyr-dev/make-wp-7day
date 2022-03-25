@@ -40,7 +40,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for [One Click Upsell Funnel for WooCommerce]](https://make.wordpress.org/polyglots/2022/03/22/pte-request-for-one-click-upsell-funnel-for-woocommerce/)
 - [PTE Request for Customer Reviews for WooCommerce](https://make.wordpress.org/polyglots/2022/03/21/pte-request-for-customer-reviews-for-woocommerce-17/)
 - [I am the author of…](https://make.wordpress.org/polyglots/2022/03/20/i-am-the-author-of-6/)
-- [PTE Request for Slimstat Analytics &lpar;wp-slimstat&rpar;](https://make.wordpress.org/polyglots/2022/03/18/pte-request-for-slimstat-analytics-wp-slimstat/)
 <!-- POLYGLOTS:END -->
 
 ## Support
