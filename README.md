@@ -227,7 +227,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Plugin Review Team: 21 March 2022](https://make.wordpress.org/updates/2022/03/22/plugin-review-team-21-march-2022/)
 - [Test Team Update for 21 March 2022](https://make.wordpress.org/updates/2022/03/21/test-team-update-for-21-march-2022/)
 - [Documentation Team Update – March 21, 2022](https://make.wordpress.org/updates/2022/03/21/documentation-team-update-march-21-2022/)
-- [X-post: In last week’s Meta meeting,…](https://make.wordpress.org/updates/2022/03/18/xpost-in-last-weeks-meta-meeting/)
 <!-- UPDATES:END -->
 
 ## Project
