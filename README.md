@@ -31,6 +31,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/03/26/post-title-pte-request-for-visidea/)
 - [PTE Request for Aruba HiSpeed Cache](https://make.wordpress.org/polyglots/2022/03/24/pte-request-for-aruba-hispeed-cache/)
 - [PTE Request for [WP Job Openings – Job Listing, Career Page and Recruitment Plugin]](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-job-openings-job-listing-career-page-and-recruitment-plugin/)
 - [PTE Request for WP User Frontend](https://make.wordpress.org/polyglots/2022/03/23/pte-request-for-wp-user-frontend/)
