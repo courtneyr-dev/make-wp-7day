@@ -132,9 +132,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
 - [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
 - [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://learn.wordpress.org/?meeting=creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template)
-- [Builder Basics: Exploring Block Layout, Alignment, and Dimensions &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-exploring-block-layout-alignment-and-dimensions-part-2)
-- [Builder Basics: Headers and Footers in Full Site Editing](https://learn.wordpress.org/?meeting=builder-basics-headers-and-footers-in-full-site-editing)
-- [Builder Basics: Designing with Columns, Group, and Row Blocks &lpar;Part 2&rpar;](https://learn.wordpress.org/?meeting=builder-basics-designing-with-columns-group-and-row-blocks-part-2)
 <!-- SLS:END -->
 
 ## Test
