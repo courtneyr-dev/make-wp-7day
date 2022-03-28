@@ -214,6 +214,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Test Team Update for 28 March 2022](https://make.wordpress.org/updates/2022/03/28/test-team-update-for-28-march-2022/)
 - [Documentation Team Update – March 28, 2022](https://make.wordpress.org/updates/2022/03/28/documentation-team-update-march-28-2022/)
 - [Themes team update March 22, 2022](https://make.wordpress.org/updates/2022/03/22/themes-team-update-march-22-2022/)
 - [Mobile Team Update – March 22th](https://make.wordpress.org/updates/2022/03/22/mobile-team-update-march-22th/)
