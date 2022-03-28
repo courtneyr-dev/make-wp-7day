@@ -116,7 +116,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Adding a Site Tagline to Block Themes](https://learn.wordpress.org/workshop/adding-a-site-tagline-to-block-themes/)
+- [Taking Advantage of Query Loops](https://learn.wordpress.org/workshop/taking-advantage-of-query-loops/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
