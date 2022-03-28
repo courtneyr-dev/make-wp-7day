@@ -74,7 +74,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Themes
 <!-- THEMES:START -->
 - [Themes Team Meeting Notes – March 22, 2022](https://make.wordpress.org/themes/2022/03/22/themes-team-meeting-notes-march-22-2022/)
-- [Themes team meeting agenda for March 22, 2022](https://make.wordpress.org/themes/2022/03/21/themes-team-meeting-agenda-for-march-22-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
