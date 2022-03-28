@@ -63,7 +63,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Submit your Block Pattern to the Directory](https://wordpress.org/support/article/submit-your-block-pattern-to-the-directory/)
 - [Post Date Block](https://wordpress.org/support/article/post-date-block/)
 - [Post Tags Block](https://wordpress.org/support/article/post-tags-block/)
-- [Post Categories Block](https://wordpress.org/support/article/post-categories-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
