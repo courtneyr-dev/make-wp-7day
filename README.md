@@ -131,7 +131,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- SLS:START -->
 - [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
 - [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
-- [Creating A Sidebar For Your Posts Using The Full Site Editing Blank Template](https://learn.wordpress.org/?meeting=creating-a-sidebar-for-your-posts-using-the-full-site-editing-blank-template)
 <!-- SLS:END -->
 
 ## Test
