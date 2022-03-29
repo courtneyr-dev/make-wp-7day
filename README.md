@@ -157,6 +157,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Notes: Global Marketing Team – 23 March 2022](https://make.wordpress.org/marketing/2022/03/29/notes-global-marketing-team-23-march-2022/)
 - [Agenda: Global Marketing Team, 23 March 2022](https://make.wordpress.org/marketing/2022/03/23/agenda-global-marketing-team-23-march-2022/)
 - [Notes: Global Marketing Team – 16 March 2022](https://make.wordpress.org/marketing/2022/03/23/notes-global-marketing-team-march-16-2022/)
 <!-- MARKETING:END -->
