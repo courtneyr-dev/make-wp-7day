@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [A Week in Core – March 28, 2022](https://make.wordpress.org/core/2022/03/29/a-week-in-core-march-28-2022/)
 - [Enabling WebP by default](https://make.wordpress.org/core/2022/03/28/enabling-webp-by-default/)
 - [Performance Chat Agenda: 29 March 2022](https://make.wordpress.org/core/2022/03/28/performance-chat-agenda-29-march-2022/)
 - [Editor chat summary: 23 March, 2022](https://make.wordpress.org/core/2022/03/24/editor-chat-summary-23-march-2022/)
