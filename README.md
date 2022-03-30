@@ -223,7 +223,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Jobs
 <!-- JOBS:START -->
 - [https://secure.collage.co/jobs/saucal/76](https://jobs.wordpress.net/job/https-secure-collage-co-jobs-saucal-76/)
-- [Fix WordPress errors](https://jobs.wordpress.net/job/fix-wordpress-errors/)
 - [BackEnd Developer](https://jobs.wordpress.net/job/backend-developer-2/)
 - [Long-term Development on Popular Plugins &lpar;Part or Full time&rpar;](https://jobs.wordpress.net/job/long-term-development-on-popular-plugins-part-or-full-time-2/)
 - [WordPress Developer at Baeldung](https://jobs.wordpress.net/job/wordpress-developer-at-baeldung/)
