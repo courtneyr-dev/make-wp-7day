@@ -80,7 +80,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- COMMUNITY:START -->
 - [Proposal: Steps to Integrate #WPDiversity into WordPress Event Organizing](https://make.wordpress.org/community/2022/03/30/proposal-steps-to-integrate-wpdiversity-into-wordpress-event-organizing/)
 - [Report: Allyship and Diverse Speaker Workshops February 2022](https://make.wordpress.org/community/2022/03/25/report-allyship-and-diverse-speaker-workshops-february-2022/)
-- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on March 23, 2022](https://make.wordpress.org/community/2022/03/23/recap-of-the-diverse-speaker-training-group-wpdiversity-on-march-23-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
