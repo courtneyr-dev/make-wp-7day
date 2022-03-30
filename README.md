@@ -133,7 +133,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Test
 <!-- TEST:START -->
 - [X-post: Test Team Update for 28 March 2022](https://make.wordpress.org/test/2022/03/28/xpost-test-team-update-for-28-march-2022/)
-- [X-post: Migrating WordPress E2E tests to Playwright](https://make.wordpress.org/test/2022/03/23/xpost-migrating-wordpress-e2e-tests-to-playwright/)
 <!-- TEST:END -->
 
 ## TV
