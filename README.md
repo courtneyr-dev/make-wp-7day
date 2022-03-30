@@ -238,7 +238,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [BackEnd Developer](https://jobs.wordpress.net/job/backend-developer-2/)
 - [Long-term Development on Popular Plugins &lpar;Part or Full time&rpar;](https://jobs.wordpress.net/job/long-term-development-on-popular-plugins-part-or-full-time-2/)
 - [WordPress Developer at Baeldung](https://jobs.wordpress.net/job/wordpress-developer-at-baeldung/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-749/)
 - [Senior PHP/WordPress Developer](https://jobs.wordpress.net/job/senior-php-wordpress-developer-4/)
 - [WordPress &amp; Full Stack Web Developer &lpar;6 month contract, minimum&rpar;](https://jobs.wordpress.net/job/wordpress-full-stack-web-developer-6-month-contract-minimum/)
 - [Frontend Web Designer – WordPress, Elementor, HTML,CSS](https://jobs.wordpress.net/job/frontend-web-designer-wordpress-elementor-htmlcss-3/)
