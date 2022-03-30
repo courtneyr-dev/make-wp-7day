@@ -52,7 +52,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Documentation
 <!-- DOCS:START -->
 - [Onboarding sessions – live!](https://make.wordpress.org/docs/2022/03/28/onboarding-sessions-live/)
-- [Working on WordPress release 6.0 – Selecting Trac tickets for DevNotes](https://make.wordpress.org/docs/2022/03/23/working-on-wordpress-release-6-0-selecting-trac-tickets-for-devnotes/)
 <!-- DOCS:END -->
 
 ### Support Articles
