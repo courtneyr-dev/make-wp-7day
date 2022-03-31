@@ -61,7 +61,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [BorderBoxControl](https://developer.wordpress.org/block-editor/reference-guides/components/border-box-control/)
+- [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
+- [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
 <!-- DEVHUB:END -->
 
 ## Themes
