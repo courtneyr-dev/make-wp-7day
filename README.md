@@ -77,6 +77,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/community/2022/04/01/xpost-whats-new-on-learnwp-in-march-2022/)
 - [Proposal: Steps to Integrate #WPDiversity into WordPress Event Organizing](https://make.wordpress.org/community/2022/03/30/proposal-steps-to-integrate-wpdiversity-into-wordpress-event-organizing/)
 - [Report: Allyship and Diverse Speaker Workshops February 2022](https://make.wordpress.org/community/2022/03/25/report-allyship-and-diverse-speaker-workshops-february-2022/)
 <!-- COMMUNITY:END -->
