@@ -208,7 +208,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
-- [Removal of the Zamir Plugin](https://make.wordpress.org/project/2022/03/23/removal-of-the-zamir-plugin/)
+- [Discussion: Contrib Handbook, Part 1](https://make.wordpress.org/project/2022/04/01/discussion-contrib-handbook-part-1/)
 <!-- PROJECT:END -->
 
 ## Systems
