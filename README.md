@@ -88,8 +88,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Recap of Training Team meetings, March 29 and 31, 2022](https://make.wordpress.org/training/2022/04/01/recap-of-training-team-meetings-march-29-and-31-2022/)
 - [Meeting Agenda for March 29, 2022](https://make.wordpress.org/training/2022/03/29/meeting-agenda-for-march-29-2022/)
-- [Recap of Training Team meeting March 22 &amp; 24](https://make.wordpress.org/training/2022/03/25/recap-of-training-team-meeting-march-22-24/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
