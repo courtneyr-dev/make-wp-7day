@@ -153,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Strukturierte Daten in der Suchmaschine](https://wordpress.tv/2022/03/29/strukturierte-daten-in-der-suchmaschine/)
 - [Hello Blocks! Coding a custom block](https://wordpress.tv/2022/03/29/hello-blocks-coding-a-custom-block/)
 - [Nick Diego: Builder Basics – Exploring Block Layout, Alignment, Dimensions, and Space](https://wordpress.tv/2022/03/28/nick-diego-builder-basics-exploring-block-layout-alignment-dimensions-and-spac/)
-- [Taking Advantage of Query Loops](https://wordpress.tv/2022/03/25/taking-advantage-of-query-loops/)
 <!-- WPTV:END -->
 
 ## Marketing
