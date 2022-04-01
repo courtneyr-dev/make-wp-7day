@@ -224,7 +224,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## News
 <!-- NEWS:START -->
 - [People of WordPress: Juan Aldasoro](https://wordpress.org/news/2022/03/people-of-wordpress-juanfra-aldasoro/)
-- [Get Creative with the All-New Pattern Creator](https://wordpress.org/news/2022/03/get-creative-with-the-all-new-pattern-creator/)
 <!-- NEWS:END -->
 
 ## Jobs
