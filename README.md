@@ -108,7 +108,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Taking Advantage of Query Loops](https://learn.wordpress.org/workshop/taking-advantage-of-query-loops/)
+- [Displaying the Post Comments block in Block Themes](https://learn.wordpress.org/workshop/displaying-the-post-comments-block-in-block-themes/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
