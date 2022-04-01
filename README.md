@@ -188,6 +188,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
+- [Community Meeting Recap &lpar;March 29th&rpar;](https://make.wordpress.org/openverse/2022/03/29/community-meeting-recap-march-29th/)
 - [A week in Openverse: 2022-03-21 – 2022-03-28](https://make.wordpress.org/openverse/2022/03/28/last-week-openverse-2022-03-21-2022-03-28/)
 <!-- OPENVERSE:END -->
 
