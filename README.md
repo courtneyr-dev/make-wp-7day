@@ -237,5 +237,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Partnerships Specialist &lpar;Affiliate / Influencer Marketing&rpar;](https://jobs.wordpress.net/job/astra-partnerships-specialist-affiliate-influencer-marketing/)
 - [BackEnd Developer](https://jobs.wordpress.net/job/backend-developer-2/)
 - [Long-term Development on Popular Plugins &lpar;Part or Full time&rpar;](https://jobs.wordpress.net/job/long-term-development-on-popular-plugins-part-or-full-time-2/)
-- [WordPress Developer at Baeldung](https://jobs.wordpress.net/job/wordpress-developer-at-baeldung/)
 <!-- JOBS:END -->
