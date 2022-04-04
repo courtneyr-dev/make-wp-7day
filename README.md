@@ -205,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [What’s new on LearnWP in March 2022](https://make.wordpress.org/updates/2022/04/01/whats-new-on-learnwp-in-march-2022/)
 - [Themes team update March 29, 2022](https://make.wordpress.org/updates/2022/03/29/themes-team-update-march-29-2022/)
 - [Plugin Review Team: 28 March 2022](https://make.wordpress.org/updates/2022/03/28/plugin-review-team-28-march-2022/)
-- [Test Team Update for 28 March 2022](https://make.wordpress.org/updates/2022/03/28/test-team-update-for-28-march-2022/)
 <!-- UPDATES:END -->
 
 ## Project
