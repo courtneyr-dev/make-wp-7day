@@ -156,7 +156,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress im Terminal – Bash, SSH und WP-CLI](https://wordpress.tv/2022/03/29/wordpress-im-terminal-bash-ssh-und-wp-cli/)
 - [Strukturierte Daten in der Suchmaschine](https://wordpress.tv/2022/03/29/strukturierte-daten-in-der-suchmaschine/)
 - [Hello Blocks! Coding a custom block](https://wordpress.tv/2022/03/29/hello-blocks-coding-a-custom-block/)
-- [Nick Diego: Builder Basics – Exploring Block Layout, Alignment, Dimensions, and Space](https://wordpress.tv/2022/03/28/nick-diego-builder-basics-exploring-block-layout-alignment-dimensions-and-spac/)
 <!-- WPTV:END -->
 
 ## Marketing
