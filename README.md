@@ -133,7 +133,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Test
 <!-- TEST:START -->
 - [FSE Program Testing Call #13: Authoring an Author Template](https://make.wordpress.org/test/2022/03/31/fse-program-testing-call-13-authoring-an-author-template/)
-- [X-post: Test Team Update for 28 March 2022](https://make.wordpress.org/test/2022/03/28/xpost-test-team-update-for-28-march-2022/)
 <!-- TEST:END -->
 
 ## TV
