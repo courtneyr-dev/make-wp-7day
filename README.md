@@ -132,6 +132,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for iOS 19.6](https://make.wordpress.org/test/2022/04/04/xpost-call-for-testing-wordpress-for-ios-19-6/)
 - [FSE Program Testing Call #13: Authoring an Author Template](https://make.wordpress.org/test/2022/03/31/fse-program-testing-call-13-authoring-an-author-template/)
 <!-- TEST:END -->
 
