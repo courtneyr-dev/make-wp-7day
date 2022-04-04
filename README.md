@@ -126,8 +126,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
-- [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-3)
-- [Create a Magazine Layout with the WordPress Gutenberg Block Editor](https://learn.wordpress.org/?meeting=create-a-magazine-layout-with-the-wordpress-gutenberg-block-editor)
+- [Adding Custom CSS to your WordPress Site](https://learn.wordpress.org/?meeting=adding-custom-css-to-your-wordpress-site)
 <!-- SLS:END -->
 
 ## Test
