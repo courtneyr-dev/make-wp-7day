@@ -52,7 +52,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
-- [Onboarding sessions – live!](https://make.wordpress.org/docs/2022/03/28/onboarding-sessions-live/)
+- [Agenda for docs team bi-weekly meeting 5 April 2022](https://make.wordpress.org/docs/2022/04/05/agenda-for-docs-team-bi-weekly-meeting-5-april-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
