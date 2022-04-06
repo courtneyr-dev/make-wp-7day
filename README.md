@@ -155,7 +155,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## WPTV videos
 <!-- WPTV:START -->
 - [WordPress 6.0 Product Walk-Through](https://wordpress.tv/2022/04/06/wordpress-6-0-product-walk-through/)
-- [Milana Cap, Birgit Pauli-Haack, Courtney Engle Robertson, Femy Praseeth, Akira Tachibana: WordPress release 6.0 Trac ticket triage for docs](https://wordpress.tv/2022/03/30/milana-cap-birgit-pauli-haack-courtney-engle-robertson-femy-praseeth-akira-tachibana-wordpress-release-6-0-trac-ticket-triage-for-docs/)
 <!-- WPTV:END -->
 
 ## Marketing
