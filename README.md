@@ -9,7 +9,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: April 6th, 2022](https://make.wordpress.org/core/2022/04/04/editor-chat-agenda-april-6th-2022/)
 - [Performance Chat Agenda: 5 April 2022](https://make.wordpress.org/core/2022/04/04/performance-chat-agenda-5-april-2022/)
 - [Dev Chat Summary: March 30, 2022](https://make.wordpress.org/core/2022/03/31/dev-chat-summary-march-30-2022/)
-- [WordPress 5.9.3 RC 1](https://make.wordpress.org/core/2022/03/30/wordpress-5-9-3-rc-1/)
 <!-- CORE:END -->
 
 ## Design
