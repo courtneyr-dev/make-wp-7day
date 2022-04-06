@@ -12,7 +12,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress 5.9.3 RC 1](https://make.wordpress.org/core/2022/03/30/wordpress-5-9-3-rc-1/)
 - [Editor chat summary: 30 March, 2022](https://make.wordpress.org/core/2022/03/30/editor-chat-summary-30-march-2022/)
 - [6.0 Product Walk-Through](https://make.wordpress.org/core/2022/03/30/6-0-product-walk-through/)
-- [What’s new in Gutenberg 12.9? &lpar;30 March&rpar;](https://make.wordpress.org/core/2022/03/30/whats-new-in-gutenberg-12-9-30-march/)
 <!-- CORE:END -->
 
 ## Design
