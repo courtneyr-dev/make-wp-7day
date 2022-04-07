@@ -154,6 +154,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Difference between Reusable Blocks, Block Patterns, Templates and Template Parts](https://wordpress.tv/2022/04/07/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 - [WordPress 6.0 Product Walk-Through](https://wordpress.tv/2022/04/06/wordpress-6-0-product-walk-through/)
 <!-- WPTV:END -->
 
