@@ -96,7 +96,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Brand Guideline Additional Consideration](https://make.wordpress.org/training/2022/04/01/brand-guideline-additional-consideration/)
 - [March 2022 Sprint Retrospective](https://make.wordpress.org/training/2022/04/01/march-2022-sprint-retrospective/)
 - [April 2022 Sprint](https://make.wordpress.org/training/2022/04/01/april-2022-sprint/)
-- [Recap of Training Team meetings, March 29 and 31, 2022](https://make.wordpress.org/training/2022/04/01/recap-of-training-team-meetings-march-29-and-31-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
