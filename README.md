@@ -89,6 +89,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Recap of Training Team meetings, April 5 and 7, 2022](https://make.wordpress.org/training/2022/04/08/recap-of-training-team-meetings-april-5-and-7-2022/)
 - [Demo Sites for Learn WordPress Users](https://make.wordpress.org/training/2022/04/07/demo-sites-for-learn-wordpress-users/)
 - [Meeting Agenda for Week Beginning April 4, 2022](https://make.wordpress.org/training/2022/04/04/meeting-agenda-for-week-beginning-april-4-2022/)
 - [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/training/2022/04/01/xpost-whats-new-on-learnwp-in-march-2022/)
