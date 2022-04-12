@@ -53,7 +53,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- DOCS:START -->
 - [Summary of Docs team meeting Apr 5, 2022](https://make.wordpress.org/docs/2022/04/06/summary-of-docs-team-meeting-apr-5-2022/)
 - [X-post: Brand Guideline Additional Consideration](https://make.wordpress.org/docs/2022/04/05/xpost-brand-guideline-additional-consideration/)
-- [Agenda for docs team bi-weekly meeting 5 April 2022](https://make.wordpress.org/docs/2022/04/05/agenda-for-docs-team-bi-weekly-meeting-5-april-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
