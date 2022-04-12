@@ -222,7 +222,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 5.9.3 Maintenance Release](https://wordpress.org/news/2022/04/wordpress-5-9-3-maintenance-release/)
+- [WordPress 6.0 Beta 1](https://wordpress.org/news/2022/04/wordpress-6-0-beta-1/)
 <!-- NEWS:END -->
 
 ## Jobs
