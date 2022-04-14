@@ -80,7 +80,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Community
 <!-- COMMUNITY:START -->
 - [Return to In-Person Events: Share Your Challenges](https://make.wordpress.org/community/2022/04/11/return-to-in-person-events-share-your-challenges/)
-- [Community Team Meeting Agenda 7 Apr 2022](https://make.wordpress.org/community/2022/04/07/community-team-meeting-agenda-7-apr-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
