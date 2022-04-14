@@ -103,7 +103,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Submitting Block Patterns to the Directory](https://learn.wordpress.org/workshop/submitting-block-patterns-to-the-directory/)
-- [The Difference Between Reusable Blocks, Block Patterns, Templates &amp; Template Parts](https://learn.wordpress.org/workshop/the-difference-between-reusable-blocks-block-patterns-templates-and-template-parts/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
