@@ -122,7 +122,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Test
 <!-- TEST:START -->
 - [Help Wanted: Test WordPress 6.0](https://make.wordpress.org/test/2022/04/12/help-wanted-test-wordpress-6-0/)
-- [Help Test the Comments Blocks for WordPress 6.0](https://make.wordpress.org/test/2022/04/08/help-test-the-comments-blocks-for-wordpress-6-0/)
 <!-- TEST:END -->
 
 ## TV
