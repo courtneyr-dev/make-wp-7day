@@ -118,7 +118,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- SLS:START -->
 - [Testing WordPress Together: Authoring an Author Template](https://learn.wordpress.org/?meeting=testing-wordpress-together-authoring-an-author-template)
 - [How to Make a WordPress Blog in 2022](https://learn.wordpress.org/?meeting=how-to-make-a-wordpress-blog-in-2022)
-- [Hello Blocks! Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-2)
 <!-- SLS:END -->
 
 ## Test
