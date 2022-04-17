@@ -42,7 +42,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/04/12/pte-request-for-8/)
 - [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/04/11/post-title-pte-request-for-visidea-2/)
 - [PTE and Review Request for EventPrime](https://make.wordpress.org/polyglots/2022/04/11/pte-and-review-request-for-eventprime/)
-- [PTE Request for [SaleSmartly – Live Chat &amp; Chat Bot Integrate]](https://make.wordpress.org/polyglots/2022/04/10/pte-request-for-salesmartly-live-chat-chat-bot-integrate/)
 <!-- POLYGLOTS:END -->
 
 ## Support
