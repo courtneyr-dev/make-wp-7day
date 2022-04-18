@@ -41,7 +41,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Agenda: Weekly Polyglots Chat – Apr. 13, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/04/12/agenda-weekly-polyglots-chat-apr-13-2022-1300-utc/)
 - [PTE Request for…](https://make.wordpress.org/polyglots/2022/04/12/pte-request-for-8/)
 - [&lpar;Post Title&rpar; PTE Request for Visidea](https://make.wordpress.org/polyglots/2022/04/11/post-title-pte-request-for-visidea-2/)
-- [PTE and Review Request for EventPrime](https://make.wordpress.org/polyglots/2022/04/11/pte-and-review-request-for-eventprime/)
 <!-- POLYGLOTS:END -->
 
 ## Support
