@@ -119,7 +119,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
-- [Help Wanted: Test WordPress 6.0](https://make.wordpress.org/test/2022/04/12/help-wanted-test-wordpress-6-0/)
+- [X-post: Call for Testing: WordPress for iOS 19.7](https://make.wordpress.org/test/2022/04/19/xpost-call-for-testing-wordpress-for-ios-19-7/)
 <!-- TEST:END -->
 
 ## TV
