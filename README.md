@@ -133,6 +133,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Adding Custom CSS to Your WordPress Site](https://wordpress.tv/2022/04/18/adding-custom-css-to-your-wordpress-site/)
 - [Fearless Theme Switching](https://wordpress.tv/2022/04/15/fearless-theme-switching/)
 - [Testing WordPress 6.0: Authoring an Author Template](https://wordpress.tv/2022/04/15/testing-wordpress-6-0-authoring-an-author-template/)
 - [Podcasting with WordPress](https://wordpress.tv/2022/04/13/podcasting-with-wordpress/)
