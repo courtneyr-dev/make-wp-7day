@@ -76,6 +76,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: Migrating Contributor Training to Learn WordPress](https://make.wordpress.org/community/2022/04/19/xpost-migrating-contributor-training-to-learn-wordpress/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 14, 2022](https://make.wordpress.org/community/2022/04/14/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-14-2022/)
 <!-- COMMUNITY:END -->
 
