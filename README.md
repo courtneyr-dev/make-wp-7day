@@ -81,7 +81,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
-- [Gutenberg Landing Page: Kick-Off](https://make.wordpress.org/meta/2022/04/12/gutenberg-landing-page-kick-off/)
+- [X-post: Migrating Contributor Training to Learn WordPress](https://make.wordpress.org/meta/2022/04/19/xpost-migrating-contributor-training-to-learn-wordpress/)
 <!-- META:END -->
 
 ## Training
