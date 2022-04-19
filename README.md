@@ -12,7 +12,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Devchat summary, April 13, 2022](https://make.wordpress.org/core/2022/04/14/devchat-summary-april-13-2022/)
 - [Core Styles and Theme Customization: the next steps](https://make.wordpress.org/core/2022/04/13/core-styles-and-theme-customization-the-next-steps/)
 - [Dev Chat agenda, April 13, 2022](https://make.wordpress.org/core/2022/04/12/dev-chat-agenda-april-14-2022/)
-- [Performance team meeting summary 12 April 2022](https://make.wordpress.org/core/2022/04/12/performance-team-meeting-summary-12-april-2022/)
 <!-- CORE:END -->
 
 ## Design
