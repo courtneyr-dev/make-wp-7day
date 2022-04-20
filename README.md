@@ -218,5 +218,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product Manager &lpar;Product Owner&rpar;](https://jobs.wordpress.net/job/product-manager-product-owner/)
 - [Technical Support Specialist / Junior PHP Developer](https://jobs.wordpress.net/job/technical-support-specialist-junior-php-developer/)
 - [Jr WordPress Developer – 100% remote](https://jobs.wordpress.net/job/jr-wordpress-developer-100-remote/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-753/)
 <!-- JOBS:END -->
