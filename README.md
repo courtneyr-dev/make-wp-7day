@@ -27,7 +27,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Accessibility
 <!-- ACCESSIBILITY:START -->
-- [Accessibility Team Meeting Agenda: April 15, 2022](https://make.wordpress.org/accessibility/2022/04/13/accessibility-team-meeting-agenda-april-15-2022/)
+- [X-post: WordPress 6.0 Accessibility Improvements](https://make.wordpress.org/accessibility/2022/04/20/xpost-wordpress-6-0-accessibility-improvements/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
