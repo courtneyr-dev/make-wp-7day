@@ -46,7 +46,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
-- [X-post: What’s new on LearnWP in March 2022](https://make.wordpress.org/support/2022/04/xpost-whats-new-on-learnwp-in-march-2022/)
+- [Agenda for the April 21 2022 support meeting](https://make.wordpress.org/support/2022/04/agenda-for-the-april-21-2022-support-meeting/)
 <!-- SUPPORT:END -->
 
 ## Documentation
