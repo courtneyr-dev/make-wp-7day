@@ -113,7 +113,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
-- [Testing WordPress Together: Authoring an Author Template](https://learn.wordpress.org/?meeting=testing-wordpress-together-authoring-an-author-template)
+- [Using the Navigation block](https://learn.wordpress.org/?meeting=using-the-navigation-block)
+- [Creating a Restaurant Website with the Block Editor](https://learn.wordpress.org/?meeting=creating-a-restaurant-website-with-the-block-editor)
 <!-- SLS:END -->
 
 ## Test
