@@ -137,6 +137,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Using Block Patterns](https://wordpress.tv/2022/04/21/using-block-patterns-2/)
 - [Finding Images Using the WordPress Photo Directory](https://wordpress.tv/2022/04/20/finding-images-using-the-wordpress-photo-directory/)
 - [Finding Images Using Openverse](https://wordpress.tv/2022/04/20/finding-images-using-openverse/)
 - [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/04/20/understanding-the-page-editor-vs-site-editor/)
