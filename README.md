@@ -224,6 +224,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress – Mid Level – Full Stack Software Engineer](https://jobs.wordpress.net/job/wordpress-mid-level-full-stack-software-engineer/)
 - [Blog writer](https://jobs.wordpress.net/job/blog-writer-4/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-755/)
-- [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-754/)
-- [Product Manager &lpar;Product Owner&rpar;](https://jobs.wordpress.net/job/product-manager-product-owner/)
 <!-- JOBS:END -->
