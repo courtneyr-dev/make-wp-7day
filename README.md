@@ -205,6 +205,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
+- [Email forwarder hosting@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-hostingwordpress-org-for-helpscout/)
 - [Email forwarder reports@wordpress.org for HelpScout](https://make.wordpress.org/systems/2022/04/22/email-forwarder-reportswordpress-org-for-helpscout/)
 <!-- SYSTEMS:END -->
 
