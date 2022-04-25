@@ -17,7 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
-- [Design Team Show &amp; Tell — April 2022](https://make.wordpress.org/design/2022/04/13/design-team-show-tell-april-2022/)
+- [Design Share: Apr 11–22](https://make.wordpress.org/design/2022/04/25/design-share-apr-11-22/)
 <!-- DESIGN:END -->
 
 ## Mobile
