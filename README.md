@@ -11,7 +11,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Status of Webfonts API for WordPress 6.0 Inclusion](https://make.wordpress.org/core/2022/04/22/status-of-webfonts-api-for-wordpress-6-0-inclusion/)
 - [Dev Chat Summary, April 20, 2022](https://make.wordpress.org/core/2022/04/22/dev-chat-summary-april-20-2022/)
 - [WordPress 6.0 Accessibility Improvements](https://make.wordpress.org/core/2022/04/20/wordpress-6-0-accessibility-improvements/)
-- [Dev Chat Agenda, April 20, 2022](https://make.wordpress.org/core/2022/04/19/dev-chat-agenda-april-20-2022/)
 <!-- CORE:END -->
 
 ## Design
