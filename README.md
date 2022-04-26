@@ -93,7 +93,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TRAINING:START -->
 - [Recap of Training Team meetings, April 19 and 21, 2022](https://make.wordpress.org/training/2022/04/21/recap-of-training-team-meetings-april-19-and-21-2022/)
 - [Meeting Agenda for Week Beginning April 18, 2022](https://make.wordpress.org/training/2022/04/19/meeting-agenda-for-week-beginning-april-18-2022/)
-- [Migrating Contributor Training to Learn WordPress](https://make.wordpress.org/training/2022/04/19/migrating-contributor-training-to-learn-wordpress/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
