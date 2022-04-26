@@ -210,7 +210,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 6.0 Beta 2](https://wordpress.org/news/2022/04/wordpress-6-0-beta-2/)
+- [WordPress 6.0 Beta 3](https://wordpress.org/news/2022/04/wordpress-6-0-beta-3/)
 <!-- NEWS:END -->
 
 ## Jobs
