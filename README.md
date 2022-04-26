@@ -90,6 +90,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for April 27, 2022](https://make.wordpress.org/training/2022/04/26/meeting-agenda-for-april-27-2022/)
 - [Recap of Training Team meetings, April 19 and 21, 2022](https://make.wordpress.org/training/2022/04/21/recap-of-training-team-meetings-april-19-and-21-2022/)
 <!-- TRAINING:END -->
 
