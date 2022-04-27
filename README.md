@@ -103,7 +103,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Finding Images Using the WordPress Photo Directory](https://learn.wordpress.org/workshop/finding-images-using-the-wordpress-photo-directory/)
-- [Finding Images Using Openverse](https://learn.wordpress.org/workshop/finding-images-using-openverse/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
