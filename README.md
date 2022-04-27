@@ -47,7 +47,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
-- [Agenda for the April 21 2022 support meeting](https://make.wordpress.org/support/2022/04/agenda-for-the-april-21-2022-support-meeting/)
+- [Off forum support requests](https://make.wordpress.org/support/2022/04/off-forum-support-requests/)
 <!-- SUPPORT:END -->
 
 ## Documentation
