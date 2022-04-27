@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Exploration to enable better Developer and Visitor Experiences with blocks](https://make.wordpress.org/core/2022/04/27/exploration-to-enable-better-developer-and-visitor-experiences-with-blocks/)
 - [An Update on Preferred Languages](https://make.wordpress.org/core/2022/04/27/an-update-on-preferred-languages/)
 - [Performance team meeting summary 26 April 2022](https://make.wordpress.org/core/2022/04/26/performance-team-meeting-summary-26-april-2022/)
 - [A Week in Core – April 25, 2022](https://make.wordpress.org/core/2022/04/25/a-week-in-core-april-25-2022/)
