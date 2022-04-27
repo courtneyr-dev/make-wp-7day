@@ -60,8 +60,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [ToggleGroupControlOptionBase](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-base/)
-- [ToggleGroupControlOptionIcon](https://developer.wordpress.org/block-editor/reference-guides/components/toggle-group-control-option-icon/)
+- [@wordpress/preferences-persistence](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences-persistence/)
 <!-- DEVHUB:END -->
 
 ## Themes
