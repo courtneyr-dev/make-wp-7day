@@ -78,8 +78,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Community
 <!-- COMMUNITY:START -->
 - [WPDiversity is Expanding to APAC!](https://make.wordpress.org/community/2022/04/22/wpdiversity-is-expanding-to-apac/)
-- [Announcement: Updated COVID-19 guidelines for official WordPress events](https://make.wordpress.org/community/2022/04/21/announcement-updated-covid-19-guidelines-for-official-wordpress-events/)
-- [Meetup Organizer Newsletter: April 2022](https://make.wordpress.org/community/2022/04/21/meetup-organizer-newsletter-april-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
