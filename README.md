@@ -82,7 +82,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
-- [X-post: Migrating Contributor Training to Learn WordPress](https://make.wordpress.org/meta/2022/04/19/xpost-migrating-contributor-training-to-learn-wordpress/)
+- [Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/meta/2022/04/28/proposal-make-wordpress-team-or-project-updates/)
 <!-- META:END -->
 
 ## Training
