@@ -46,6 +46,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/support/2022/04/xpost-proposal-make-wordpress-team-or-project-updates/)
 - [Off forum support requests](https://make.wordpress.org/support/2022/04/off-forum-support-requests/)
 <!-- SUPPORT:END -->
 
