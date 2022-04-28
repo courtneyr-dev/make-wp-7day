@@ -143,7 +143,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Applying Duotone Filters to Change Color Effects](https://wordpress.tv/2022/04/25/applying-duotone-filters-to-change-color-effects/)
 - [Nahuai Badiola: Novedades de WordPress, descubre cómo ahorrar tiempo](https://wordpress.tv/2022/04/24/nahuai-badiola-novedades-wordpress-descubre-como-ahorrar-tiempo/)
 - [Using Block Patterns](https://wordpress.tv/2022/04/21/using-block-patterns-2/)
-- [Finding Images Using the WordPress Photo Directory](https://wordpress.tv/2022/04/20/finding-images-using-the-wordpress-photo-directory/)
 <!-- WPTV:END -->
 
 ## Marketing
