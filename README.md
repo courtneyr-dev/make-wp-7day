@@ -90,7 +90,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of Training Team meetings, April 26 and 28, 2022](https://make.wordpress.org/training/2022/04/28/recap-of-training-team-meetings-april-26-and-28-2022/)
 - [X-post: An Update on Preferred Languages](https://make.wordpress.org/training/2022/04/27/xpost-an-update-on-preferred-languages/)
 - [Meeting Agenda for April 27, 2022](https://make.wordpress.org/training/2022/04/26/meeting-agenda-for-april-27-2022/)
-- [Recap of Training Team meetings, April 19 and 21, 2022](https://make.wordpress.org/training/2022/04/21/recap-of-training-team-meetings-april-19-and-21-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
