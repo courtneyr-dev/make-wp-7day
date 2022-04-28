@@ -138,6 +138,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPressformance. Cacheando, que es gerundio](https://wordpress.tv/2022/04/28/javier-casares-wordpressformance-cacheando-gerundio/)
+- [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2022/04/28/fran-torres-wordpress-framework-no-habian-contado/)
 - [Applying Duotone Filters to Change Color Effects](https://wordpress.tv/2022/04/25/applying-duotone-filters-to-change-color-effects/)
 - [Nahuai Badiola: Novedades de WordPress, descubre cómo ahorrar tiempo](https://wordpress.tv/2022/04/24/nahuai-badiola-novedades-wordpress-descubre-como-ahorrar-tiempo/)
 <!-- WPTV:END -->
