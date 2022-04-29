@@ -57,7 +57,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
-- [Site Tagline Block](https://wordpress.org/support/article/site-tagline-block/)
+- [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
