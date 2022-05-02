@@ -78,7 +78,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
-- [WPDiversity is Expanding to APAC!](https://make.wordpress.org/community/2022/04/22/wpdiversity-is-expanding-to-apac/)
+- [X-post: Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/community/2022/05/02/xpost-proposal-make-wordpress-team-or-project-updates/)
 <!-- COMMUNITY:END -->
 
 ## Meta
