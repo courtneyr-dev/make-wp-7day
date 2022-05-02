@@ -118,7 +118,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Builder Basics: Working with Templates in Full Site Editing &lpar;Part 1&rpar;](https://learn.wordpress.org/?meeting=builder-basics-working-with-templates-in-full-site-editing-part-1)
 - [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://learn.wordpress.org/?meeting=testing-wordpress-together-new-interactivity-features-for-recipe-websites)
 - [Open Source Principles and WordPress](https://learn.wordpress.org/?meeting=open-source-principles-and-wordpress)
-- [WordPress 5.9 Lookback &amp; 6.0 Look ahead](https://learn.wordpress.org/?meeting=wordpress-5-9-lookback-6-0-look-ahead)
 <!-- SLS:END -->
 
 ## Test
