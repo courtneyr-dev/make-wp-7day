@@ -79,6 +79,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; on April 25, 2022](https://make.wordpress.org/community/2022/05/02/recap-of-the-diverse-speaker-training-group-wpdiversity-on-april-25-2022/)
 - [X-post: Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/community/2022/05/02/xpost-proposal-make-wordpress-team-or-project-updates/)
 <!-- COMMUNITY:END -->
 
