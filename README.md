@@ -172,7 +172,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
-- [WordPress Hosting and WebP support](https://make.wordpress.org/hosting/2022/03/30/wordpress-hosting-and-webp-support/)
+- [Get ready for WordPress 6.0](https://make.wordpress.org/hosting/2022/05/04/get-ready-for-wordpress-6-0/)
 <!-- HOSTING:END -->
 
 ## Tide
