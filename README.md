@@ -42,7 +42,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hello Polyglots,](https://make.wordpress.org/polyglots/2022/05/03/hello-polyglots-295/)
 - [WordPress 6.0 ready to be translated](https://make.wordpress.org/polyglots/2022/05/02/wordpress-6-0-ready-to-be-translated/)
 - [PTE Request for [One Click Upsell Funnel for WooCommerce]](https://make.wordpress.org/polyglots/2022/04/29/pte-request-for-one-click-upsell-funnel-for-woocommerce-2/)
-- [PTE Request for Advanced Ads](https://make.wordpress.org/polyglots/2022/04/28/pte-request-for-advanced-ads-10/)
 <!-- POLYGLOTS:END -->
 
 ## Support
