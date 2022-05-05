@@ -140,11 +140,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a Restaurant Website with the Block Editor](https://wordpress.tv/2022/05/05/creating-a-restaurant-website-with-the-block-editor/)
 - [Choosing and Installing a Plugin](https://wordpress.tv/2022/05/05/choosing-and-installing-a-plugin/)
 - [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://wordpress.tv/2022/05/02/testing-wordpress-together-new-interactivity-features-for-recipe-websites/)
 - [Sarah Snow: How to Make a WordPress Blog &lpar;2022 Edition&rpar;](https://wordpress.tv/2022/04/28/sarah-snow-how-to-make-a-wordpress-blog-2022-edition/)
-- [WordPressformance. Cacheando, que es gerundio](https://wordpress.tv/2022/04/28/javier-casares-wordpressformance-cacheando-gerundio/)
-- [WordPress como framework: Lo que no te habían contado](https://wordpress.tv/2022/04/28/fran-torres-wordpress-framework-no-habian-contado/)
 <!-- WPTV:END -->
 
 ## Marketing
