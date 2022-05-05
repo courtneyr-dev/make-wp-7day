@@ -140,6 +140,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Choosing and Installing a Plugin](https://wordpress.tv/2022/05/05/choosing-and-installing-a-plugin/)
 - [Testing WordPress Together: New Interactivity Features for Recipe Websites](https://wordpress.tv/2022/05/02/testing-wordpress-together-new-interactivity-features-for-recipe-websites/)
 - [Sarah Snow: How to Make a WordPress Blog &lpar;2022 Edition&rpar;](https://wordpress.tv/2022/04/28/sarah-snow-how-to-make-a-wordpress-blog-2022-edition/)
 - [WordPressformance. Cacheando, que es gerundio](https://wordpress.tv/2022/04/28/javier-casares-wordpressformance-cacheando-gerundio/)
