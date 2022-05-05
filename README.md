@@ -62,7 +62,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [@wordpress/preferences-persistence](https://developer.wordpress.org/block-editor/reference-guides/packages/packages-preferences-persistence/)
+- [How To Get Your Pull Request Reviewed?](https://developer.wordpress.org/block-editor/contributors/code/how-to-get-your-pull-request-reviewed/)
 <!-- DEVHUB:END -->
 
 ## Themes
