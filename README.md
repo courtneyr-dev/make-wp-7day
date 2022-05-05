@@ -199,7 +199,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Systems
 <!-- SYSTEMS:START -->
-- [Mobile release tools unable to fetch from GlotPress](https://make.wordpress.org/systems/2022/05/05/mobile-release-tools-unable-to-fetch-from-glotpress/)
 - [SSL cert expired for plugins-svn.bbpress.org](https://make.wordpress.org/systems/2022/04/29/ssl-cert-expired-for-plugins-svn-bbpress-org/)
 <!-- SYSTEMS:END -->
 
