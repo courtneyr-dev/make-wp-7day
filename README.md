@@ -101,7 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Searching and Installing a Plugin](https://learn.wordpress.org/workshop/searching-and-installing-a-plugin/)
+- [Choosing and Installing a Plugin](https://learn.wordpress.org/workshop/searching-and-installing-a-plugin/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
