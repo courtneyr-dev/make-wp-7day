@@ -56,7 +56,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Support Articles
 <!-- HELPHUB:START -->
 - [CSS](https://wordpress.org/support/article/css/)
-- [Wolfram Embed](https://wordpress.org/support/article/wolfram-embed/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
