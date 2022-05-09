@@ -66,7 +66,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
-- [Latest changes in Gutenberg + Themes: 13.0 release](https://make.wordpress.org/themes/2022/04/28/latest-changes-in-gutenberg-themes-13-0-release/)
+- [Themes team meeting agenda for May 10, 2022](https://make.wordpress.org/themes/2022/05/09/themes-team-meeting-agenda-for-may-10-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
