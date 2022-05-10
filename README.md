@@ -37,7 +37,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampaignDot translation](https://make.wordpress.org/polyglots/2022/05/08/campaigndot-translation/)
 - [i would like to join…](https://make.wordpress.org/polyglots/2022/05/05/i-would-like-to-join/)
 - [PTE Request for FAPI Member](https://make.wordpress.org/polyglots/2022/05/05/pte-request-for-fapi-member/)
-- [Agenda: Weekly Polyglots Chat – May. 4, 2022 &lpar;07:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/03/agenda-weekly-polyglots-chat-may-4-2022-0700-utc/)
 <!-- POLYGLOTS:END -->
 
 ## Support
