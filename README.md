@@ -85,6 +85,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for May 10 – 12, 2022](https://make.wordpress.org/training/2022/05/10/meeting-agenda-for-may-10-12-2022/)
 - [Recap of Training Team meeting May 3 &amp; 5](https://make.wordpress.org/training/2022/05/05/recap-of-training-team-meeting-may-3-5/)
 - [The Training Team Faculty Program is now live](https://make.wordpress.org/training/2022/05/05/the-training-team-faculty-program-is-now-live/)
 <!-- TRAINING:END -->
