@@ -202,6 +202,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WP, PHP developer, site optimisation](https://jobs.wordpress.net/job/wp-php-developer-site-optimisation/)
 - [WooCommerce developer](https://jobs.wordpress.net/job/woocommerce-developer-8/)
 - [WordPress Continuous Integration Engineer](https://jobs.wordpress.net/job/wordpress-continuous-integration-engineer/)
 - [WordPress developer – Location: Rajkot 1+ year of experience](https://jobs.wordpress.net/job/wordpress-developer-location-rajkot-1-year-of-experience/)
@@ -211,5 +212,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Product Manager](https://jobs.wordpress.net/job/product-manager-2/)
 - [Website Update Using WordPress](https://jobs.wordpress.net/job/website-update-using-word-press/)
 - [Backend WP/Budyypress/LEMP](https://jobs.wordpress.net/job/backend-wp-budyypress-lemp/)
-- [[Astra] Senior Web Designer](https://jobs.wordpress.net/job/astra-senior-web-designer/)
 <!-- JOBS:END -->
