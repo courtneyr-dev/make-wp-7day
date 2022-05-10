@@ -11,7 +11,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Block Locking Settings in WordPress 6.0](https://make.wordpress.org/core/2022/05/05/block-locking-settings-in-wordpress-6-0/)
 - [Updates to the @wordpress/create-block templating system](https://make.wordpress.org/core/2022/05/05/updates-to-the-wordpress-create-block-templating-system/)
 - [WordPress 6.0 Release Candidate Phase](https://make.wordpress.org/core/2022/05/04/wordpress-6-0-release-candidate-phase/)
-- [Dev Chat Agenda, May 4, 2022](https://make.wordpress.org/core/2022/05/03/dev-chat-agenda-may-4-2022/)
 <!-- CORE:END -->
 
 ## Design
