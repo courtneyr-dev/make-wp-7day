@@ -198,7 +198,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## News
 <!-- NEWS:START -->
 - [The Month in WordPress – April 2022](https://wordpress.org/news/2022/05/the-month-in-wordpress-april-2022/)
-- [WordPress 6.0 Release Candidate 1](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-1/)
 <!-- NEWS:END -->
 
 ## Jobs
