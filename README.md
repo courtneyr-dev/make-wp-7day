@@ -140,7 +140,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Marketing
 <!-- MARKETING:START -->
 - [Agenda: Global Marketing Meeting, May 4, 2022](https://make.wordpress.org/marketing/2022/05/04/agenda-global-marketing-meeting-may-4-2022/)
-- [Notes: Global Marketing Meeting, April 27, 2022](https://make.wordpress.org/marketing/2022/05/03/notes-global-marketing-meeting-april-27-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
