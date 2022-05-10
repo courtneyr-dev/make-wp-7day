@@ -182,7 +182,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Updates
 <!-- UPDATES:START -->
 - [Documentation Team Update – May 9, 2022](https://make.wordpress.org/updates/2022/05/09/documentation-team-update-may-9-2022/)
-- [Mobile Team Update – May 3rd](https://make.wordpress.org/updates/2022/05/03/mobile-team-update-may-3rd-2/)
 <!-- UPDATES:END -->
 
 ## Project
