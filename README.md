@@ -50,7 +50,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
-- [Summary of Docs Team Meeting April 19, 2022](https://make.wordpress.org/docs/2022/04/22/summary-of-docs-team-meeting-april-19-2022/)
+- [Summary of Docs Team Meeting May 10, 2022](https://make.wordpress.org/docs/2022/05/11/summary-of-docs-team-meeting-may-10-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
