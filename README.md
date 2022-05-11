@@ -101,6 +101,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/workshop/understanding-the-page-editor-vs-site-editor/)
 - [Choosing and Installing a Plugin](https://learn.wordpress.org/workshop/searching-and-installing-a-plugin/)
 <!-- WORKSHOPS:END -->
 
