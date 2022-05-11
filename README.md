@@ -29,6 +29,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Review and PTE Request](https://make.wordpress.org/polyglots/2022/05/11/review-and-pte-request-7/)
 - [Weekly Polyglots Chat – May 11, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/05/10/weekly-polyglots-chat-may-11-2022-1300-utc/)
 - [PTE Request for two plugins &lpar;Russian&rpar;](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-two-plugins-russian/)
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-jetpack-wp-security-backup-speed-growth-6/)
