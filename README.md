@@ -138,6 +138,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Website Auditing – Be the conversion Hero](https://wordpress.tv/2022/05/11/website-auditing-be-the-conversion-hero/)
 - [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/05/11/understanding-the-page-editor-vs-site-editor-2/)
 - [How to Scale WooCommerce](https://wordpress.tv/2022/05/11/how-to-scale-woocommerce/)
 - [Como escolher e instalar plugins](https://wordpress.tv/2022/05/10/como-escolher-e-instalar-plugins/)
