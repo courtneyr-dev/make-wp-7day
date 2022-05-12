@@ -39,8 +39,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for Jetpack – WP Security, Backup, Speed, &amp; Growth](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-jetpack-wp-security-backup-speed-growth-6/)
 - [PTE Request for Fast eBay Listings](https://make.wordpress.org/polyglots/2022/05/09/pte-request-for-fast-ebay-listings/)
 - [CampaignDot translation](https://make.wordpress.org/polyglots/2022/05/08/campaigndot-translation/)
-- [i would like to join…](https://make.wordpress.org/polyglots/2022/05/05/i-would-like-to-join/)
-- [PTE Request for FAPI Member](https://make.wordpress.org/polyglots/2022/05/05/pte-request-for-fapi-member/)
 <!-- POLYGLOTS:END -->
 
 ## Support
