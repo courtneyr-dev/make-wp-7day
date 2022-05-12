@@ -31,6 +31,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/05/12/hi-dear-mentors-we-have-82/)
 - [PTE Request for srs-player](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-srs-player/)
 - [PTE Request for CLICKSKEKS I…](https://make.wordpress.org/polyglots/2022/05/11/pte-request-for-clickskeks-i/)
 - [Review and PTE Request](https://make.wordpress.org/polyglots/2022/05/11/review-and-pte-request-7/)
