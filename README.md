@@ -205,7 +205,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## News
 <!-- NEWS:START -->
 - [WordPress 6.0 Release Candidate 2 &lpar;RC2&rpar; Now Available for Testing](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-2-rc2-now-available-for-testing/)
-- [The Month in WordPress – April 2022](https://wordpress.org/news/2022/05/the-month-in-wordpress-april-2022/)
 <!-- NEWS:END -->
 
 ## Jobs
