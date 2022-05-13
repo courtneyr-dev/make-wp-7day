@@ -58,7 +58,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
-- [Blocks](https://wordpress.org/support/article/adding-content-with-blocks/)
+- [What is a Block?](https://wordpress.org/support/article/working-with-blocks/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
