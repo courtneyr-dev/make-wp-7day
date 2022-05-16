@@ -47,7 +47,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Support
 <!-- SUPPORT:START -->
 - [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/support/2022/05/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
-- [Agenda for the 12 May 2022 Support Team meeting](https://make.wordpress.org/support/2022/05/agenda-for-the-12-may-2022-support-team-meeting/)
 <!-- SUPPORT:END -->
 
 ## Documentation
