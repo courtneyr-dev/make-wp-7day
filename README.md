@@ -188,6 +188,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Documentation Team Update – May 16, 2022](https://make.wordpress.org/updates/2022/05/16/documentation-team-update-may-16-2022/)
 - [Plugin Review Team Status: 9 May ’22](https://make.wordpress.org/updates/2022/05/10/plugin-review-team-status-9-may-22/)
 - [Themes team update May 10, 2022](https://make.wordpress.org/updates/2022/05/10/themes-team-update-may-10-2022/)
 <!-- UPDATES:END -->
