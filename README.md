@@ -112,7 +112,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Social Learning Spaces
 <!-- SLS:START -->
 - [Bloggers: Own your Content and Share it Everywhere](https://learn.wordpress.org/?meeting=bloggers-own-your-content-and-share-it-everywhere)
-- [Hello Blocks! Creating a Custom Block](https://learn.wordpress.org/?meeting=hello-blocks-creating-a-custom-block)
 <!-- SLS:END -->
 
 ## Test
