@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor chat agenda: 18th May 2022](https://make.wordpress.org/core/2022/05/16/editor-chat-agenda-18th-may-2022/)
 - [Editor chat summary: 11 May, 2022](https://make.wordpress.org/core/2022/05/16/editor-chat-summary-11-may-2022/)
 - [What’s new in Gutenberg 13.2? &lpar;May 11&rpar;](https://make.wordpress.org/core/2022/05/12/whats-new-in-gutenberg-13-2-may-11/)
 - [Dev Chat Summary, May 11, 2022](https://make.wordpress.org/core/2022/05/11/dev-chat-summary-may-11-2022/)
