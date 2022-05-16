@@ -144,7 +144,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Robert Windisch: How to Scale WooCommerce](https://wordpress.tv/2022/05/11/how-to-scale-woocommerce/)
 - [Como escolher e instalar plugins](https://wordpress.tv/2022/05/10/como-escolher-e-instalar-plugins/)
 - [Open-Source Principles and WordPress](https://wordpress.tv/2022/05/09/open-source-principles-and-wordpress/)
-- [Showcasing Content with Query Loops](https://wordpress.tv/2022/05/09/showcasing-content-with-query-loops/)
 <!-- WPTV:END -->
 
 ## Marketing
