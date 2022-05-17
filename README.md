@@ -115,6 +115,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Call for Testing: WordPress for Android 19.9](https://make.wordpress.org/test/2022/05/17/xpost-call-for-testing-wordpress-for-android-19-9/)
 - [X-post: Call for Testing: WordPress for iOS 19.9](https://make.wordpress.org/test/2022/05/16/xpost-call-for-testing-wordpress-for-ios-19-9/)
 <!-- TEST:END -->
 
