@@ -44,6 +44,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
+- [X-post: What’s new on LearnWP in April 2022](https://make.wordpress.org/support/2022/05/xpost-whats-new-on-learnwp-in-april-2022/)
 - [X-post: Proposal to Start a News blog on developer.WordPress.org](https://make.wordpress.org/support/2022/05/xpost-proposal-to-start-a-news-blog-on-developer-wordpress-org/)
 <!-- SUPPORT:END -->
 
