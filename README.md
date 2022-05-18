@@ -146,7 +146,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Taking Advantage of Query Loops](https://wordpress.tv/2022/05/12/taking-advantage-of-query-loops-2/)
 - [Website Auditing – Be the conversion Hero](https://wordpress.tv/2022/05/11/website-auditing-be-the-conversion-hero/)
 - [Understanding the Page Editor vs. Site Editor](https://wordpress.tv/2022/05/11/understanding-the-page-editor-vs-site-editor-2/)
-- [Robert Windisch: How to Scale WooCommerce](https://wordpress.tv/2022/05/11/how-to-scale-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
