@@ -182,7 +182,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Openverse
 <!-- OPENVERSE:START -->
 - [Openverse maintainers welcome Rebecca Widom as a new committer](https://make.wordpress.org/openverse/2022/05/11/openverse-maintainers-welcome-rebecca-widom-as-a-new-committer/)
-- [Community Meeting Recap &lpar;May 10&rpar;](https://make.wordpress.org/openverse/2022/05/11/community-meeting-recap-may-10/)
 <!-- OPENVERSE:END -->
 
 ## Photos
