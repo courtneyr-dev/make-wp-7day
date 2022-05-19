@@ -139,8 +139,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 2&rpar;](https://wordpress.tv/2022/05/15/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-2/)
 - [Dominik Liss: Make WordPress hack-proof](https://wordpress.tv/2022/05/15/dominik-liss-make-wordpress-hack-proof/)
 - [Stefan Krajczar: WooCommerce-Setup for the European Market &amp; GDPR](https://wordpress.tv/2022/05/14/stefan-krajczar-woocommerce-setup-for-the-european-market-gdpr/)
-- [Franz Enzenhofer: Diversity of Content – The SEO superpower and how to use it with WordPress](https://wordpress.tv/2022/05/12/franz-enzenhofer-diversity-of-content-the-seo-superpower-and-how-to-use-it-with-wordpress/)
-- [Taking Advantage of Query Loops](https://wordpress.tv/2022/05/12/taking-advantage-of-query-loops-2/)
 <!-- WPTV:END -->
 
 ## Marketing
