@@ -109,7 +109,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Social Learning Spaces
 <!-- SLS:START -->
 - [I want a Website, not a Blog!](https://learn.wordpress.org/?meeting=i-want-a-website-not-a-blog)
-- [Bloggers: Own your Content and Share it Everywhere](https://learn.wordpress.org/?meeting=bloggers-own-your-content-and-share-it-everywhere)
 <!-- SLS:END -->
 
 ## Test
