@@ -215,6 +215,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Need Senior WP Developer for Developing Plugin from Scratch](https://jobs.wordpress.net/job/need-senior-wp-developer-for-developing-plugin-from-scratch/)
 - [WordPress Tech Support Contractor &lpar;NA Timezones ONLY&rpar;](https://jobs.wordpress.net/job/wordpress-tech-support-contractor-na-timezones-only/)
 - [WordPress PHP Developer wanted](https://jobs.wordpress.net/job/wordpress-php-developer-wanted/)
-- [Principal Software Engineer, WordPress Platform](https://jobs.wordpress.net/job/principal-software-engineer-wordpress-platform/)
-- [Senior Software Development Engineer – Managed WordPress](https://jobs.wordpress.net/job/senior-software-development-engineer-managed-wordpress/)
 <!-- JOBS:END -->
