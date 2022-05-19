@@ -218,6 +218,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress PHP Developer wanted](https://jobs.wordpress.net/job/wordpress-php-developer-wanted/)
 - [Principal Software Engineer, WordPress Platform](https://jobs.wordpress.net/job/principal-software-engineer-wordpress-platform/)
 - [Senior Software Development Engineer – Managed WordPress](https://jobs.wordpress.net/job/senior-software-development-engineer-managed-wordpress/)
-- [Quality Assurance Engineer](https://jobs.wordpress.net/job/quality-assurance-engineer/)
-- [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-88/)
 <!-- JOBS:END -->
