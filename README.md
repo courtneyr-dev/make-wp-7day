@@ -214,6 +214,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Agile Process Leader &lpar;Scrum Master&rpar;](https://jobs.wordpress.net/job/agile-process-leader-scrum-master/)
+- [WordPress Plugin Web Developer &lpar;PHP&rpar; for UpdraftPlus Company](https://jobs.wordpress.net/job/wordpress-plugin-web-developer-php-for-updraftplus-company/)
 - [Quality Assurance and Support Engineer](https://jobs.wordpress.net/job/quality-assurance-and-support-engineer/)
 - [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-2/)
 - [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar;](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-2/)
