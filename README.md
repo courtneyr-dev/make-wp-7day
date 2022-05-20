@@ -100,7 +100,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Understanding the Page Editor vs. Site Editor](https://learn.wordpress.org/workshop/understanding-the-page-editor-vs-site-editor/)
+- [Getting to know the WordPress Dashboard](https://learn.wordpress.org/workshop/getting-to-know-the-wordpress-dashboard/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
