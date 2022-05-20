@@ -197,7 +197,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
-- [Discussion: Contrib Handbook, Part 2](https://make.wordpress.org/project/2022/04/29/discussion-contrib-handbook-part-2/)
+- [Defining Five for the Future Pledges &amp; Contributions](https://make.wordpress.org/project/2022/05/20/defining-five-for-the-future-pledges-contributions/)
 <!-- PROJECT:END -->
 
 ## Systems
