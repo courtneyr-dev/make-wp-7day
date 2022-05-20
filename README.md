@@ -194,6 +194,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Share a Warm Fuzzy!](https://make.wordpress.org/updates/2022/05/20/share-a-warm-fuzzy/)
 - [Mobile Team Update – May 18th](https://make.wordpress.org/updates/2022/05/18/mobile-team-update-may-18th-3/)
 - [Plugin Review Team Update: 16 May 2022](https://make.wordpress.org/updates/2022/05/17/plugin-review-team-update-16-may-2022/)
 - [Documentation Team Update – May 16, 2022](https://make.wordpress.org/updates/2022/05/16/documentation-team-update-may-16-2022/)
