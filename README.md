@@ -112,6 +112,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Let’s build a homepage together](https://learn.wordpress.org/?meeting=lets-build-a-homepage-together)
 - [I want a Website, not a Blog!](https://learn.wordpress.org/?meeting=i-want-a-website-not-a-blog)
 <!-- SLS:END -->
 
