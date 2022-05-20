@@ -220,6 +220,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [CampusPress Support Enthusiast](https://jobs.wordpress.net/job/campuspress-support-enthusiast-2/)
 - [Remote Product Engineer &lpar;WordPress/WooCommerce&rpar;](https://jobs.wordpress.net/job/remote-product-engineer-wordpress-woocommerce-2/)
 - [Need Senior WP Developer for Developing Plugin from Scratch](https://jobs.wordpress.net/job/need-senior-wp-developer-for-developing-plugin-from-scratch/)
-- [WordPress Tech Support Contractor &lpar;NA Timezones ONLY&rpar;](https://jobs.wordpress.net/job/wordpress-tech-support-contractor-na-timezones-only/)
-- [WordPress PHP Developer wanted](https://jobs.wordpress.net/job/wordpress-php-developer-wanted/)
 <!-- JOBS:END -->
