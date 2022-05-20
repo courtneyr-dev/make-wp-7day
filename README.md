@@ -136,6 +136,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Getting to know the WordPress Dashboard](https://wordpress.tv/2022/05/19/getting-to-know-the-wordpress-dashboard/)
 - [Bloggers: Own your Content and Share it Everywhere](https://wordpress.tv/2022/05/19/bloggers-own-your-content-and-share-it-everywhere/)
 - [Esther Solà: Actualizaciones en WordPress &lpar;casi&rpar; sin problemas](https://wordpress.tv/2022/05/17/esther-sola-actualizaciones-wordpress-casi-sin-problemas/)
 - [Maximilian Reimann-Gajdusek: WooCommerce SEO – How to optimise your WooCommerce setup](https://wordpress.tv/2022/05/16/maximilian-reimann-gajdusek-woocommerce-seo-how-to-optimise-your-woocommerce-setup/)
