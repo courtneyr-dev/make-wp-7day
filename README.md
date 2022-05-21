@@ -62,6 +62,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [wp-config.php](https://developer.wordpress.org/apis/wp-config-php/)
 - [Part 4: Building a _Create page_ form](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/4-building-a-create-page-form/)
 <!-- DEVHUB:END -->
 
