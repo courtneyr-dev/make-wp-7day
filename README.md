@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Performance Chat Agenda: 24 May 2022](https://make.wordpress.org/core/2022/05/23/performance-chat-agenda-24-may-2022/)
 - [Editor chat agenda: 25th May 2022](https://make.wordpress.org/core/2022/05/23/editor-chat-agenda-25th-may-2022/)
 - [WordPress 6.0 Release Candidate 4 &lpar;RC4&rpar; Now Available for Testing](https://make.wordpress.org/core/2022/05/20/wordpress-6-0-release-candidate-4-rc4-now-available-for-testing/)
 - [Core Editor Improvement: Creating &amp; containing containers](https://make.wordpress.org/core/2022/05/20/core-editor-improvement-creating-containing-containers/)
