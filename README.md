@@ -15,7 +15,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
-- [Poll: Finding a new meeting time](https://make.wordpress.org/design/2022/05/13/poll-finding-a-new-meeting-time/)
+- [Design Share: May 9–20](https://make.wordpress.org/design/2022/05/23/design-share-may-9-20/)
 <!-- DESIGN:END -->
 
 ## Mobile
