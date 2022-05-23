@@ -116,6 +116,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Website Security For Solopreneurs](https://learn.wordpress.org/?meeting=website-security-for-solopreneurs)
 - [Supercharging your Website with Custom Post Types and Custom Fields](https://learn.wordpress.org/?meeting=supercharging-your-website-with-custom-post-types-and-custom-fields)
 - [Let’s build a homepage together](https://learn.wordpress.org/?meeting=lets-build-a-homepage-together)
 <!-- SLS:END -->
