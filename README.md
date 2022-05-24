@@ -238,7 +238,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 6.0 Release Candidate 3 &lpar;RC3&rpar; Now Available for Testing](https://wordpress.org/news/2022/05/wordpress-6-0-release-candidate-3-rc3-now-available-for-testing/)
+- [WordPress 6.0 “Arturo”](https://wordpress.org/news/2022/05/arturo/)
 <!-- NEWS:END -->
 
 ## Jobs
