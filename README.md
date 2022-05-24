@@ -56,6 +56,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Site Title Block](https://wordpress.org/support/article/site-title-block/)
 - [Additional guide to using the Site Editor](https://wordpress.org/support/article/additional-guide-to-using-the-site-editor/)
 <!-- HELPHUB:END -->
 
