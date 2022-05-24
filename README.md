@@ -144,6 +144,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Daniel Muñoz de Arenillas: ¿WordPress contamina?](https://wordpress.tv/2022/05/24/daniel-munoz-arenillas-wordpress-contamina-como-tener-una-web-respetuosa-planeta-puede/)
 - [WordCamp Irún: Cierre WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-cierre-wordcamp-irun-2022/)
 - [WordCamp Irún: Presentación WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-presentacion-wordcamp-irun-2022/)
 - [Eva Farutxo Jiménez: Fotografía de producto creatíva DIY](https://wordpress.tv/2022/05/24/eva-farutxo-jimenez-fotografia-producto-creativa-diy/)
