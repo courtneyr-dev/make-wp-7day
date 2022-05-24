@@ -125,6 +125,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test – 24 May 2022](https://make.wordpress.org/test/2022/05/24/week-in-test-24-may-2022/)
 - [Week in Test – 17 May 2022](https://make.wordpress.org/test/2022/05/18/week-in-test-17-may-2022/)
 <!-- TEST:END -->
 
