@@ -244,6 +244,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Senior Product Designer, eCommerce &lpar;Store&rpar;](https://jobs.wordpress.net/job/senior-product-designer-ecommerce-store/)
 - [Senior Fullstack Developer &lpar;PHP, Reactjs&rpar;](https://jobs.wordpress.net/job/senior-fullstack-developer-php-reactjs/)
 - [Senior WordPress Developer](https://jobs.wordpress.net/job/senior-wordpress-developer-89/)
 - [Migration expert](https://jobs.wordpress.net/job/migration-expert/)
