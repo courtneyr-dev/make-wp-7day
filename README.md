@@ -92,7 +92,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Seeking Feedback on Annual Meetup Survey for 2021-2022](https://make.wordpress.org/community/2022/05/20/seeking-feedback-on-annual-meetup-survey-for-2021-2022/)
 - [Meetup Organizer Newsletter: May 2022](https://make.wordpress.org/community/2022/05/20/meetup-organizer-newsletter-may-2022/)
 - [WordCamp Europe 2022 Contributor Day: Plans for the Community Team Table](https://make.wordpress.org/community/2022/05/20/wordcamp-europe-2022-contributor-day-plans-for-the-community-team-table/)
-- [X-post: What’s new on LearnWP in April 2022](https://make.wordpress.org/community/2022/05/18/xpost-whats-new-on-learnwp-in-april-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
