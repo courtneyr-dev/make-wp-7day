@@ -183,9 +183,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [Notes: Global Marketing Meeting, 18 May 2022](https://make.wordpress.org/marketing/2022/05/25/notes-global-marketing-meeting-18-may-2022/)
 - [X-post: What’s new on LearnWP in April 2022](https://make.wordpress.org/marketing/2022/05/18/xpost-whats-new-on-learnwp-in-april-2022/)
-- [Agenda: Global Marketing Meeting, May 18, 2022](https://make.wordpress.org/marketing/2022/05/18/agenda-global-marketing-meeting-may-18-2022/)
-- [Notes: Global Marketing Meeting, 11 May 2022](https://make.wordpress.org/marketing/2022/05/18/notes-global-marketing-meeting-11-may-2022/)
 <!-- MARKETING:END -->
 
 ## CLI
