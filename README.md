@@ -82,7 +82,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
-- [Featured/Beta Plugins Now Limit Changes](https://make.wordpress.org/plugins/2022/04/15/featured-beta-plugins-now-limit-changes/)
+- [Rejoice to sanitize_url&lpar;&rpar;](https://make.wordpress.org/plugins/2022/05/25/rejoice-to-sanitize_url/)
 <!-- PLUGINS:END -->
 
 ## Community
