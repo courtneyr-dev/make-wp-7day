@@ -213,7 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
-- [Recap of team meeting, May 6](https://make.wordpress.org/photos/2022/05/12/recap-of-team-meeting-may-6/)
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/photos/2022/05/26/xpost-announcement-incident-response-training/)
 <!-- PHOTOS:END -->
 
 ## Updates
