@@ -82,6 +82,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/plugins/2022/05/26/xpost-announcement-incident-response-training/)
 - [Rejoice to sanitize_url&lpar;&rpar;](https://make.wordpress.org/plugins/2022/05/25/rejoice-to-sanitize_url/)
 <!-- PLUGINS:END -->
 
