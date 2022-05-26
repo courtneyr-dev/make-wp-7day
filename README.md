@@ -96,7 +96,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
-- [Proposal: Make WordPress Team or Project Updates](https://make.wordpress.org/meta/2022/04/28/proposal-make-wordpress-team-or-project-updates/)
+- [Theme Review Improvements](https://make.wordpress.org/meta/2022/05/23/theme-reviews-improvements/)
 <!-- META:END -->
 
 ## Training
