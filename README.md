@@ -181,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Joe Wiedemann, Victoria Hufnagl: Efficient content production – with strategy](https://wordpress.tv/2022/05/20/joe-wiedemann-victoria-hufnagl-efficient-content-production-with-strategy/)
 - [Using the Navigation Block](https://wordpress.tv/2022/05/19/using-the-navigation-block/)
 - [Getting to know the WordPress Dashboard](https://wordpress.tv/2022/05/19/getting-to-know-the-wordpress-dashboard/)
-- [Bloggers: Own your Content and Share it Everywhere](https://wordpress.tv/2022/05/19/bloggers-own-your-content-and-share-it-everywhere/)
 <!-- WPTV:END -->
 
 ## Marketing
