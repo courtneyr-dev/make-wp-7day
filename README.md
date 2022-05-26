@@ -182,6 +182,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/marketing/2022/05/26/xpost-announcement-incident-response-training/)
 - [Agenda: Global Marketing Meeting, May 25, 2022](https://make.wordpress.org/marketing/2022/05/25/agenda-global-marketing-meeting-may-25-2022/)
 - [Notes: Global Marketing Meeting, 18 May 2022](https://make.wordpress.org/marketing/2022/05/25/notes-global-marketing-meeting-18-may-2022/)
 <!-- MARKETING:END -->
