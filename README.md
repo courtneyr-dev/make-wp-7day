@@ -206,7 +206,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
-- [Get ready for WordPress 6.0](https://make.wordpress.org/hosting/2022/05/04/get-ready-for-wordpress-6-0/)
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/hosting/2022/05/26/xpost-announcement-incident-response-training/)
 <!-- HOSTING:END -->
 
 ## Tide
