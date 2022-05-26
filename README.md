@@ -105,9 +105,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/training/2022/05/26/xpost-announcement-incident-response-training/)
 - [Meeting Agenda for May 23 – 26, 2022](https://make.wordpress.org/training/2022/05/23/meeting-agenda-for-may-23-26-2022/)
 - [X-post: Seeking Feedback on Annual Meetup Survey for 2021-2022](https://make.wordpress.org/training/2022/05/23/xpost-seeking-feedback-on-annual-meetup-survey-for-2021-2022/)
-- [Recap of Training Team meetings, May 17 &amp; 19￼](https://make.wordpress.org/training/2022/05/19/recap-of-training-team-meetings-may-17-19%ef%bf%bc/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
