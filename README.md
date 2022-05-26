@@ -132,6 +132,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/test/2022/05/26/xpost-announcement-incident-response-training/)
 - [Hallway Hangout: Discussion on Full Site Editing Issues/PRs/Designs &lpar;25 May&rpar;](https://make.wordpress.org/test/2022/05/25/hallway-hangout-discussion-on-full-site-editing-issues-prs-designs-25-may/)
 - [Test Team Rep: Call for Nominations for Remaining Current Term](https://make.wordpress.org/test/2022/05/24/test-test-rep-call-for-nominations-for-remaining-current-term/)
 - [Week in Test – 24 May 2022](https://make.wordpress.org/test/2022/05/24/week-in-test-24-may-2022/)
