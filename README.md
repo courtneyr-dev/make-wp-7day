@@ -98,7 +98,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Regional In-person WordCamps Going Forward](https://make.wordpress.org/community/2022/05/23/regional-in-person-wordcamps-going-forward/)
 - [Seeking Feedback on Annual Meetup Survey for 2021-2022](https://make.wordpress.org/community/2022/05/20/seeking-feedback-on-annual-meetup-survey-for-2021-2022/)
 - [Meetup Organizer Newsletter: May 2022](https://make.wordpress.org/community/2022/05/20/meetup-organizer-newsletter-may-2022/)
-- [WordCamp Europe 2022 Contributor Day: Plans for the Community Team Table](https://make.wordpress.org/community/2022/05/20/wordcamp-europe-2022-contributor-day-plans-for-the-community-team-table/)
 <!-- COMMUNITY:END -->
 
 ## Meta
