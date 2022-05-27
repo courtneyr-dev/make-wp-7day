@@ -181,7 +181,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Miguel Díaz: El ABC de WordPress](https://wordpress.tv/2022/05/22/miguel-diaz-abc-wordpress/)
 - [Ana Cirujano: 7 consejos de diseño UX para vender más con WooCommerce](https://wordpress.tv/2022/05/22/ana-cirujano-7-consejos-disen%cc%83o-ux-para-vender-mas-woocommerce/)
 - [Joe Wiedemann, Victoria Hufnagl: Efficient content production – with strategy](https://wordpress.tv/2022/05/20/joe-wiedemann-victoria-hufnagl-efficient-content-production-with-strategy/)
-- [Using the Navigation Block](https://wordpress.tv/2022/05/19/using-the-navigation-block/)
 <!-- WPTV:END -->
 
 ## Marketing
