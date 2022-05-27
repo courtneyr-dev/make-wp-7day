@@ -121,7 +121,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Getting to know the WordPress Dashboard](https://learn.wordpress.org/workshop/getting-to-know-the-wordpress-dashboard/)
+- [Managing Updates](https://learn.wordpress.org/workshop/managing-updates/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
