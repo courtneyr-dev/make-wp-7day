@@ -172,14 +172,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Pablo Moratinos: Una receta de optimización SEO en Search Console](https://wordpress.tv/2022/05/22/pablo-moratinos-una-receta-de-optimizacion-seo-en-search-console/)
 - [Shaunelle Drake: WordPress – giving everyone a voice](https://wordpress.tv/2022/05/22/shaunelle-drake-wordpress-giving-everyone-a-voice/)
 - [Noelia Jiménez: Cómo sacarle toda la chicha a un blog como herramienta de visibilidad de tu negocio](https://wordpress.tv/2022/05/22/noelia-jimenez-como-sacarle-toda-chicha-blog-como-herramienta-visibilidad-negocio/)
-- [Piccia Neri. Los patrones malvados: si los conoces los evitarás](https://wordpress.tv/2022/05/22/piccia-neri-patrones-malvados-conoces-evitaras/)
-- [Marta Torre: Editor de bloques &lpar;Gutenberg&rpar; De odiarlo a no poder vivir sin él](https://wordpress.tv/2022/05/22/marta-torre-editor-bloques-gutenberg-odiarlo-no-poder-vivir-sin-el/)
-- [Jesús Amieiro: Creando sitios multilingües con WordPress](https://wordpress.tv/2022/05/22/jesus-amieiro-creando-sitios-multilingues-wordpress/)
-- [Joan Vega: No le tengas miedo a los DNS &lpar;Claves, trucos y herramientas para dominar los Domain Name](https://wordpress.tv/2022/05/22/joan-vega-no-tengas-miedo-dns-claves-trucos-herramientas-dominar-domain-name/)
-- [Juan Tejero. WP-CLI: pierde el miedo a la consola](https://wordpress.tv/2022/05/22/juan-tejero-wp-cli-pierde-miedo-consola/)
-- [Enara Franco: Storytelling. No me cuentes historias, cuéntame tu historia](https://wordpress.tv/2022/05/22/enara-franco-storytelling-no-me-cuentes-historias-cuentame-tu-historia/)
-- [Miguel Díaz: El ABC de WordPress](https://wordpress.tv/2022/05/22/miguel-diaz-abc-wordpress/)
-- [Ana Cirujano: 7 consejos de diseño UX para vender más con WooCommerce](https://wordpress.tv/2022/05/22/ana-cirujano-7-consejos-disen%cc%83o-ux-para-vender-mas-woocommerce/)
 <!-- WPTV:END -->
 
 ## Marketing
