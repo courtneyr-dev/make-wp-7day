@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Editor chat agenda: 1st June 2022](https://make.wordpress.org/core/2022/05/30/editor-chat-agenda-1st-june-2022/)
 - [Editor Chat Summary: May 25, 2022](https://make.wordpress.org/core/2022/05/27/editor-chat-summary-may-25-2022/)
 - [WordPress 6.0 ‘Arturo’ Retrospective](https://make.wordpress.org/core/2022/05/27/wordpress-6-0-arturo-retrospective/)
 - [Block Font Sizes and Fluid typography](https://make.wordpress.org/core/2022/05/27/block-font-sizes-and-fluid-typography/)
