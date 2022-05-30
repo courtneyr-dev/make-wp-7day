@@ -102,7 +102,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Meta
 <!-- META:START -->
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/meta/2022/05/26/xpost-announcement-incident-response-training/)
-- [Theme Review Improvements](https://make.wordpress.org/meta/2022/05/23/theme-reviews-improvements/)
 <!-- META:END -->
 
 ## Training
