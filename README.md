@@ -169,7 +169,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Mesa redonda: El futuro del Comercio Local y cómo puede ayudar WordPress](https://wordpress.tv/2022/05/24/mesa-redonda-futuro-comercio-local-y-como-puede-ayudar-wordpress/)
 - [Iñaki Jauregui: ¡Cómo escapar del RGPD, y no morir en el intento!](https://wordpress.tv/2022/05/22/inaki-jauregui-escapar-rgpd-no-morir-intento/)
 - [Diego Nieto: Vende en Marketplaces tus productos desde WooCommerce](https://wordpress.tv/2022/05/22/diego-nieto-vende-marketplaces-productos-woocommerce/)
-- [Pablo Moratinos: Una receta de optimización SEO en Search Console](https://wordpress.tv/2022/05/22/pablo-moratinos-una-receta-de-optimizacion-seo-en-search-console/)
 <!-- WPTV:END -->
 
 ## Marketing
