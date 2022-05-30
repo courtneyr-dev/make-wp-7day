@@ -213,6 +213,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [WP Briefing: Episode 32: An Open Source Reading List](https://wordpress.org/news/2022/05/episode-32-an-open-source-reading-list/)
 - [WordPress 6.0 “Arturo”](https://wordpress.org/news/2022/05/arturo/)
 <!-- NEWS:END -->
 
