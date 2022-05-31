@@ -150,7 +150,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Managing Updates](https://wordpress.tv/2022/05/26/managing-updates/)
 - [Design With Me: Create a Simple Website For Your Small Business](https://wordpress.tv/2022/05/25/design-with-me-create-a-simple-website-for-your-small-business/)
 - [Nestor Angulo de Ugarte: The strange case of malicious favicons](https://wordpress.tv/2022/05/25/nestor-angulo-de-ugarte-the-strange-case-of-malicious-favicons/)
-- [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://wordpress.tv/2022/05/24/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-3/)
 <!-- WPTV:END -->
 
 ## Marketing
