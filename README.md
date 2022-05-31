@@ -201,6 +201,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Mobile Team Update – May 31st](https://make.wordpress.org/updates/2022/05/31/mobile-team-update-may-31st/)
 - [Themes team update May 31, 2022](https://make.wordpress.org/updates/2022/05/31/themes-team-update-may-31-2022/)
 - [Announcement: Incident Response Training](https://make.wordpress.org/updates/2022/05/26/announcement-incident-response-training/)
 - [Themes team update May 24, 2022](https://make.wordpress.org/updates/2022/05/24/themes-team-update-may-24-2022/)
