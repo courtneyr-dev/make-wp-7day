@@ -11,7 +11,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/core/2022/05/26/xpost-announcement-incident-response-training/)
 - [Dev Chat Summary, May 25, 2022](https://make.wordpress.org/core/2022/05/25/dev-chat-summary-may-25-2022/)
 - [Dev Chat Agenda, May 25, 2022](https://make.wordpress.org/core/2022/05/24/dev-chat-agenda-may-25-2022/)
-- [Performance team meeting summary 24 May 2022](https://make.wordpress.org/core/2022/05/24/performance-team-meeting-summary-24-may-2022/)
 <!-- CORE:END -->
 
 ## Design
