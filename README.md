@@ -89,6 +89,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap of the APAC WPDiversity Network Building on May 26, 2022](https://make.wordpress.org/community/2022/05/31/recap-of-the-apac-wpdiversity-network-building-on-may-26-2022/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on May 25, 2022](https://make.wordpress.org/community/2022/05/27/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-may-25-2022/)
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/community/2022/05/26/xpost-announcement-incident-response-training/)
 - [2nd biweekly APAC WPDiversity Network Building &lpar;May 26, 2022&rpar;](https://make.wordpress.org/community/2022/05/25/2nd-biweekly-apac-wpdiversity-network-building-may-26-2022/)
