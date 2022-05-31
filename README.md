@@ -79,7 +79,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Themes
 <!-- THEMES:START -->
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/themes/2022/05/26/xpost-announcement-incident-response-training/)
-- [Themes Team Meeting Notes – May 24, 2022](https://make.wordpress.org/themes/2022/05/24/themes-team-meeting-notes-may-24-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
