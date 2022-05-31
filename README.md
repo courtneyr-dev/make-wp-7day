@@ -151,16 +151,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Design With Me: Create a Simple Website For Your Small Business](https://wordpress.tv/2022/05/25/design-with-me-create-a-simple-website-for-your-small-business/)
 - [Nestor Angulo de Ugarte: The strange case of malicious favicons](https://wordpress.tv/2022/05/25/nestor-angulo-de-ugarte-the-strange-case-of-malicious-favicons/)
 - [Nick Diego: Builder Basics – Working with Templates in Full Site Editing &lpar;Part 3&rpar;](https://wordpress.tv/2022/05/24/nick-diego-builder-basics-working-with-templates-in-full-site-editing-part-3/)
-- [Daniel Muñoz de Arenillas: ¿WordPress contamina?](https://wordpress.tv/2022/05/24/daniel-munoz-arenillas-wordpress-contamina-como-tener-una-web-respetuosa-planeta-puede/)
-- [WordCamp Irún: Cierre WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-cierre-wordcamp-irun-2022/)
-- [WordCamp Irún: Presentación WordCamp Irún 2022](https://wordpress.tv/2022/05/24/wordcamp-irun-presentacion-wordcamp-irun-2022/)
-- [Eva Farutxo Jiménez: Fotografía de producto creatíva DIY](https://wordpress.tv/2022/05/24/eva-farutxo-jimenez-fotografia-producto-creativa-diy/)
-- [Leire Roldán: Aspectos legales y fiscales de los Infoproductos](https://wordpress.tv/2022/05/24/leire-roldan-aspectos-legales-fiscales-infoproductos/)
-- [Sabela Muñiz: Do_action hackathon? Acercar WordPress al mundo real](https://wordpress.tv/2022/05/24/sabela-muniz-do-action-hackathon/)
-- [Néstor Angulo de Ugarte. N1909: El astuto caso del Ransomware en WordPress](https://wordpress.tv/2022/05/24/nestor-angulo-ugarte-n1909-astuto-caso-ransomware-wordpress/)
-- [Jorge Monclús: Sácale chispas a la API Rest de WordPress](https://wordpress.tv/2022/05/24/jorge-monclus-sacale-chispas-api-rest-wordpress/)
-- [Olatz Goicoechea: Optimiza tu presupuesto en publicidad digital](https://wordpress.tv/2022/05/24/olatz-goicoechea-optimiza-presupuesto-publicidad-digital/)
-- [Javi Guembe: ¿Webs para clientes? mejor webs para Stakeholders](https://wordpress.tv/2022/05/24/javi-guembe-webs-clientes-mejor-webs-stakeholders/)
 <!-- WPTV:END -->
 
 ## Marketing
