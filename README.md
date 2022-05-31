@@ -161,7 +161,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Jorge Monclús: Sácale chispas a la API Rest de WordPress](https://wordpress.tv/2022/05/24/jorge-monclus-sacale-chispas-api-rest-wordpress/)
 - [Olatz Goicoechea: Optimiza tu presupuesto en publicidad digital](https://wordpress.tv/2022/05/24/olatz-goicoechea-optimiza-presupuesto-publicidad-digital/)
 - [Javi Guembe: ¿Webs para clientes? mejor webs para Stakeholders](https://wordpress.tv/2022/05/24/javi-guembe-webs-clientes-mejor-webs-stakeholders/)
-- [Mesa redonda: El futuro del Comercio Local y cómo puede ayudar WordPress](https://wordpress.tv/2022/05/24/mesa-redonda-futuro-comercio-local-y-como-puede-ayudar-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
