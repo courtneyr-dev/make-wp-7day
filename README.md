@@ -200,7 +200,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- UPDATES:START -->
 - [Announcement: Incident Response Training](https://make.wordpress.org/updates/2022/05/26/announcement-incident-response-training/)
 - [Themes team update May 24, 2022](https://make.wordpress.org/updates/2022/05/24/themes-team-update-may-24-2022/)
-- [Plugin Review Team Update: 23 May 2022](https://make.wordpress.org/updates/2022/05/24/plugin-review-team-update-23-may-2022/)
 <!-- UPDATES:END -->
 
 ## Project
