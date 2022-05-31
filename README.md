@@ -127,7 +127,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
-- [Website Security For Solopreneurs](https://learn.wordpress.org/?meeting=website-security-for-solopreneurs)
+- [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar;](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required)
+- [Builder Basics: Everything You Need to Know About Patterns](https://learn.wordpress.org/?meeting=builder-basics-everything-you-need-to-know-about-patterns)
 <!-- SLS:END -->
 
 ## Test
