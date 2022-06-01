@@ -153,7 +153,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Matteo Enna: I was a shy guy and I didn’t speak English, but then I discovered WordCamps!](https://wordpress.tv/2022/05/27/matteo-enna-i-was-a-shy-guy-and-i-didnt-speak-english-but-then-i-discovered-wordcamps/)
 - [Managing Updates](https://wordpress.tv/2022/05/26/managing-updates/)
 - [Design With Me: Create a Simple Website For Your Small Business](https://wordpress.tv/2022/05/25/design-with-me-create-a-simple-website-for-your-small-business/)
-- [Nestor Angulo de Ugarte: The strange case of malicious favicons](https://wordpress.tv/2022/05/25/nestor-angulo-de-ugarte-the-strange-case-of-malicious-favicons/)
 <!-- WPTV:END -->
 
 ## Marketing
