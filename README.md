@@ -18,7 +18,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Design
 <!-- DESIGN:START -->
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/design/2022/05/26/xpost-announcement-incident-response-training/)
-- [Proposal: Creation of a @Gutenberg-Design team on GitHub](https://make.wordpress.org/design/2022/05/26/proposal-creation-of-a-gutenberg-design-team-on-github/)
 <!-- DESIGN:END -->
 
 ## Mobile
