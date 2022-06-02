@@ -102,7 +102,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meeting Agenda for May 31 – June 1, 2022](https://make.wordpress.org/training/2022/05/30/meeting-agenda-for-may-31-june-1-2022/)
 - [Training Team Meeting – May 24/26](https://make.wordpress.org/training/2022/05/27/training-team-meeting-may-24-26/)
 - [WCEU ’22 Contributor Day Recap Meeting](https://make.wordpress.org/training/2022/05/26/wceu-22-contributor-day-recap-meeting/)
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/training/2022/05/26/xpost-announcement-incident-response-training/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
