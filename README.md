@@ -55,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Documentation
 <!-- DOCS:START -->
 - [X-post: Announcement: Incident Response Training](https://make.wordpress.org/docs/2022/05/26/xpost-announcement-incident-response-training/)
-- [Summary of Docs Team Meeting May 24, 2022](https://make.wordpress.org/docs/2022/05/26/summary-of-docs-team-meeting-may-24-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
