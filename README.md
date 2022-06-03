@@ -142,7 +142,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Flavia Bernárdez: Cambiar upload y bloque de galería](https://wordpress.tv/2022/05/31/flavia-bernardez-cambiar-upload-y-bloque-de-galeria/)
 - [Miguel Alanís: Fuentes y estilos en FSE](https://wordpress.tv/2022/05/31/miguel-alanis-fuentes-y-estilos-en-fse/)
 - [Destiny Kanno: I want a Website, not a Blog!](https://wordpress.tv/2022/05/27/destiny-kanno-i-want-a-website-not-a-blog/)
-- [Matteo Enna: I was a shy guy and I didn’t speak English, but then I discovered WordCamps!](https://wordpress.tv/2022/05/27/matteo-enna-i-was-a-shy-guy-and-i-didnt-speak-english-but-then-i-discovered-wordcamps/)
 <!-- WPTV:END -->
 
 ## Marketing
