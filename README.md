@@ -106,7 +106,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Managing Updates](https://learn.wordpress.org/workshop/managing-updates/)
+- [Creating Custom Post Types Without Code](https://learn.wordpress.org/workshop/creating-custom-post-types-without-code/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
