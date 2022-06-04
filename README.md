@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Roadmap to 6.1](https://make.wordpress.org/core/2022/06/04/roadmap-to-6-1/)
 - [Editor Chat Summary: June 1st, 2022](https://make.wordpress.org/core/2022/06/01/editor-chat-summary-june-01-2022/)
 - [Two Weeks in Core – May 30, 2022](https://make.wordpress.org/core/2022/06/01/a-week-in-core-may-30-2022/)
 - [Devchat agenda, June 1, 2022](https://make.wordpress.org/core/2022/06/01/devchat-agenda-june-1-2022/)
