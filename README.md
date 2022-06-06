@@ -198,7 +198,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- NEWS:START -->
 - [The Month in WordPress – May 2022](https://wordpress.org/news/2022/06/the-month-in-wordpress-may-2022/)
 - [People of WordPress: Dee Teal](https://wordpress.org/news/2022/05/people-of-wordpress-dee-teal/)
-- [WP Briefing: Episode 32: An Open Source Reading List](https://wordpress.org/news/2022/05/episode-32-an-open-source-reading-list/)
 <!-- NEWS:END -->
 
 ## Jobs
