@@ -19,7 +19,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Mobile
 <!-- MOBILE:START -->
 - [Call for Testing: WordPress for Android 20.0](https://make.wordpress.org/mobile/2022/05/31/call-for-testing-wordpress-for-android-20-0/)
-- [Call for Testing: WordPress for iOS 20.0](https://make.wordpress.org/mobile/2022/05/30/call-for-testing-wordpress-for-ios-20-0/)
 <!-- MOBILE:END -->
 
 ## Accessibility
