@@ -93,9 +93,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda for June 7 – 9, 2022](https://make.wordpress.org/training/2022/06/06/meeting-agenda-for-june-7-9-2022/)
 - [Training Team Meeting Recap – May 31 / June 2](https://make.wordpress.org/training/2022/06/02/training-team-meeting-recap-may-31-june-2/)
 - [WordCamp Europe 2022 Contributor Day](https://make.wordpress.org/training/2022/06/02/wordcamp-europe-2022-contributor-day/)
-- [Meeting Agenda for May 31 – June 1, 2022](https://make.wordpress.org/training/2022/05/30/meeting-agenda-for-may-31-june-1-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
