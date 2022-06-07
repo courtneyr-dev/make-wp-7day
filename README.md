@@ -155,7 +155,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Hosting
 <!-- HOSTING:START -->
 - [WordCamp Europe 2022 Contributor Day: Summary](https://make.wordpress.org/hosting/2022/06/06/wordcamp-europe-2022-contributor-day-summary/)
-- [WordCamp Europe 2022 Contributor Day](https://make.wordpress.org/hosting/2022/05/31/wordcamp-europe-2022-contributor-day/)
 <!-- HOSTING:END -->
 
 ## Tide
