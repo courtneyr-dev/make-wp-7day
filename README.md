@@ -124,7 +124,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TEST:START -->
 - [Hallway Hangout: Discussion on Full Site Editing Issues/PRs/Designs &lpar;1 June&rpar;](https://make.wordpress.org/test/2022/06/02/hallway-hangout-discussion-on-full-site-editing-issues-prs-designs-1-june/)
 - [Core Test Stats for WordPress 6.0](https://make.wordpress.org/test/2022/05/31/core-test-stats-for-wordpress-6-0/)
-- [X-post: Call for Testing: WordPress for Android 20.0](https://make.wordpress.org/test/2022/05/31/xpost-call-for-testing-wordpress-for-android-20-0/)
 <!-- TEST:END -->
 
 ## TV
