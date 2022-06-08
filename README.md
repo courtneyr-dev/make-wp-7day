@@ -82,6 +82,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/community/2022/06/08/xpost-whats-new-on-learnwp-in-may-2022/)
 - [Community Team Meeting Agenda for 2022-06-09](https://make.wordpress.org/community/2022/06/08/community-team-meeting-agenda-for-2022-06-09/)
 <!-- COMMUNITY:END -->
 
