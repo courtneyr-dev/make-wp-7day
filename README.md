@@ -172,10 +172,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Plugin Review Team Update: 6 June 2022](https://make.wordpress.org/updates/2022/06/07/plugin-review-team-update-6-june-2022/)
 - [What’s new on LearnWP in May 2022](https://make.wordpress.org/updates/2022/06/07/whats-new-on-learnwp-in-may-2022/)
 - [Themes team update June 07, 2022](https://make.wordpress.org/updates/2022/06/07/themes-team-update-june-07-2022/)
 - [Documentation Team Update – June 6, 2022](https://make.wordpress.org/updates/2022/06/06/documentation-team-update-june-6-2022/)
-- [Plugin Review Team Update: 31 May 2022](https://make.wordpress.org/updates/2022/05/31/plugin-review-team-update-31-may-2022/)
 <!-- UPDATES:END -->
 
 ## Project
