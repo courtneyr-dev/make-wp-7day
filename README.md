@@ -42,7 +42,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/support/2022/05/xpost-announcement-incident-response-training/)
+- [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/support/2022/06/xpost-whats-new-on-learnwp-in-may-2022/)
 <!-- SUPPORT:END -->
 
 ## Documentation
