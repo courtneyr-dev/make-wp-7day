@@ -158,7 +158,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/openverse/2022/05/26/xpost-announcement-incident-response-training/)
+- [Community Meeting Recap &lpar;7 June 2022&rpar;](https://make.wordpress.org/openverse/2022/06/08/community-meeting-recap-7-june-2022/)
 <!-- OPENVERSE:END -->
 
 ## Photos
