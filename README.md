@@ -200,5 +200,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[Astra] Senior WordPress Plugin Developer](https://jobs.wordpress.net/job/astra-senior-wordpress-plugin-developer/)
 - [Hosting Support](https://jobs.wordpress.net/job/hosting-support-2/)
 - [Please help us to Update our WordPress version and themes](https://jobs.wordpress.net/job/please-help-us-to-update-our-wordpress-version-and-themes/)
-- [Senior Software Engineer / WordPress Engineer](https://jobs.wordpress.net/job/senior-software-engineer-wordpress-engineer/)
 <!-- JOBS:END -->
