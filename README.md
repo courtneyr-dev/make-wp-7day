@@ -133,10 +133,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- WPTV:START -->
 - [How to improve the SEO fitness of your site](https://wordpress.tv/2022/06/02/marieke-van-rakt-how-improve-seo-fitness-site/)
 - [Marco Narzisi: Free journalism, fake news and truth in the age of WordPress](https://wordpress.tv/2022/06/01/marco-narzisi-free-journalism-fake-news-and-truth-in-the-age-of-wordpress/)
-- [Chabi Angulo: La seguridad es importante](https://wordpress.tv/2022/05/31/chabi-angulo-la-seguridad-es-importante/)
-- [Alberto Gómez: Crear newsletter de pago](https://wordpress.tv/2022/05/31/alberto-gomez-crear-newsletter-de-pago/)
-- [Flavia Bernárdez: Cambiar upload y bloque de galería](https://wordpress.tv/2022/05/31/flavia-bernardez-cambiar-upload-y-bloque-de-galeria/)
-- [Miguel Alanís: Fuentes y estilos en FSE](https://wordpress.tv/2022/05/31/miguel-alanis-fuentes-y-estilos-en-fse/)
 <!-- WPTV:END -->
 
 ## Marketing
