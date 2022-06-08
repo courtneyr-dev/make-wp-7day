@@ -136,6 +136,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/marketing/2022/06/08/xpost-whats-new-on-learnwp-in-may-2022/)
 - [Agenda: Global Marketing Meeting, June 8, 2022](https://make.wordpress.org/marketing/2022/06/08/agenda-global-marketing-meeting-june-8-2022/)
 <!-- MARKETING:END -->
 
