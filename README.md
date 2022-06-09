@@ -124,7 +124,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TEST:START -->
 - [X-post: Test Team Update – 8 June 2022](https://make.wordpress.org/test/2022/06/08/xpost-test-team-update-8-june-2022/)
 - [Field Notes from WCEU 2022 Contributor Day](https://make.wordpress.org/test/2022/06/07/field-notes-from-wceu-2022-contributor-day/)
-- [Hallway Hangout: Discussion on Full Site Editing Issues/PRs/Designs &lpar;1 June&rpar;](https://make.wordpress.org/test/2022/06/02/hallway-hangout-discussion-on-full-site-editing-issues-prs-designs-1-june/)
 <!-- TEST:END -->
 
 ## TV
