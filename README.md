@@ -135,7 +135,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [How to improve the SEO fitness of your site](https://wordpress.tv/2022/06/02/marieke-van-rakt-how-improve-seo-fitness-site/)
+- [Creating a Front Page for a Block Theme](https://wordpress.tv/2022/06/09/creating-a-front-page-for-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
