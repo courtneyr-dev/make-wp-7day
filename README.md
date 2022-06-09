@@ -124,6 +124,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Interim Test Team Rep for remainder of the current term](https://make.wordpress.org/test/2022/06/09/interim-test-team-rep-for-remainder-of-the-current-term/)
 - [X-post: Test Team Update – 8 June 2022](https://make.wordpress.org/test/2022/06/08/xpost-test-team-update-8-june-2022/)
 - [Field Notes from WCEU 2022 Contributor Day](https://make.wordpress.org/test/2022/06/07/field-notes-from-wceu-2022-contributor-day/)
 <!-- TEST:END -->
