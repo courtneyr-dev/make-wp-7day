@@ -107,7 +107,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Creating a Front Page for a Block Theme](https://learn.wordpress.org/workshop/creating-a-front-page-for-a-block-theme/)
-- [Creating Custom Post Types Without Code](https://learn.wordpress.org/workshop/creating-custom-post-types-without-code/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
