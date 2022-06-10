@@ -119,7 +119,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Social Learning Spaces
 <!-- SLS:START -->
 - [Open Source Principles and WordPress](https://learn.wordpress.org/?meeting=open-source-principles-and-wordpress-3)
-- [Open Source Principles and WordPress](https://learn.wordpress.org/?meeting=open-source-principles-and-wordpress-2)
 <!-- SLS:END -->
 
 ## Test
