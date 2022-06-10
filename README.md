@@ -200,6 +200,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Woo Store New Products Builder Freelance](https://jobs.wordpress.net/job/woo-store-new-products-builder-freelance/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-4/)
 - [Content Writer &lpar;remote&rpar;](https://jobs.wordpress.net/job/content-writer-remote/)
-- [Product Design – Growth WordPress Team](https://jobs.wordpress.net/job/product-design-growth-wordpress-team/)
-- [Migration of data](https://jobs.wordpress.net/job/migration-of-data/)
 <!-- JOBS:END -->
