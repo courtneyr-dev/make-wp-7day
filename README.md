@@ -124,6 +124,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Hello Blocks!  Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-3)
 - [Using Block Patterns](https://learn.wordpress.org/?meeting=using-block-patterns-4)
 - [Open Source Principles and WordPress](https://learn.wordpress.org/?meeting=open-source-principles-and-wordpress-3)
 <!-- SLS:END -->
