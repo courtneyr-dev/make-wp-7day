@@ -82,7 +82,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/plugins/2022/05/26/xpost-announcement-incident-response-training/)
+- [What’s The Deal with Invalid Reviews?](https://make.wordpress.org/plugins/2022/06/15/whats-the-deal-with-invalid-reviews/)
 <!-- PLUGINS:END -->
 
 ## Community
