@@ -11,7 +11,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Editor Chat Agenda: 15 June 2022](https://make.wordpress.org/core/2022/06/13/editor-chat-agenda-8-june-2022-2/)
 - [Devchat summary, June 8, 2022](https://make.wordpress.org/core/2022/06/10/devchat-summary-june-8-2022/)
 - [What’s new in Gutenberg 13.4? &lpar;8 June&rpar;](https://make.wordpress.org/core/2022/06/10/whats-new-in-gutenberg-13-4-8-june/)
-- [Editor chat summary: 8 June, 2022](https://make.wordpress.org/core/2022/06/09/editor-chat-summary-8-june-2022/)
 <!-- CORE:END -->
 
 ## Design
