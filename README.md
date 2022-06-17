@@ -174,7 +174,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/photos/2022/05/26/xpost-announcement-incident-response-training/)
+- [Recap of team meeting, June 2](https://make.wordpress.org/photos/2022/06/17/recap-of-team-meeting-june-2/)
 <!-- PHOTOS:END -->
 
 ## Updates
