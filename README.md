@@ -109,7 +109,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Creating a Front Page for a Block Theme](https://learn.wordpress.org/workshop/creating-a-front-page-for-a-block-theme/)
+- [Choosing and Installing Theme](https://learn.wordpress.org/workshop/choosing-and-installing-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
