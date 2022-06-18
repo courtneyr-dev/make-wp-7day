@@ -90,7 +90,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts-2/)
 - [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts/)
 - [Recap of the APAC WPDiversity Network Building on June 9, 2022](https://make.wordpress.org/community/2022/06/13/recap-of-the-apac-wpdiversity-network-building-on-june-9-2022/)
-- [Report: Inclusion and Diverse Speaker Workshops May 2022](https://make.wordpress.org/community/2022/06/11/report-allyship-and-diverse-speaker-workshops-may-2022/)
 <!-- COMMUNITY:END -->
 
 ## Meta
