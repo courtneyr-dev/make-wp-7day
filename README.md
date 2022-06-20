@@ -78,7 +78,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- THEMES:START -->
 - [Complying with GDPR when using Google Fonts](https://make.wordpress.org/themes/2022/06/18/complying-with-gdpr-when-using-google-fonts/)
 - [Themes Team Meeting Notes – June 14, 2022](https://make.wordpress.org/themes/2022/06/14/themes-team-meeting-notes-june-14-2022/)
-- [Themes team meeting agenda for June 14, 2022](https://make.wordpress.org/themes/2022/06/13/themes-team-meeting-agenda-for-june-14-2022/)
 <!-- THEMES:END -->
 
 ## Plugins
