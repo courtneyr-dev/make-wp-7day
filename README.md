@@ -88,6 +88,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [4th biweekly APAC #WPDiversity Network Building &lpar;June 23, 2022&rpar;](https://make.wordpress.org/community/2022/06/20/4th-biweekly-apac-wpdiversity-network-building-june-23-2022/)
 - [Monthly Deputy / Organizer Training and Mini Sprints](https://make.wordpress.org/community/2022/06/18/monthly-deputy-organizer-training-and-mini-sprints/)
 - [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts-2/)
 - [X-post: Discussion: Promoting WordCamps with the official WordPress social accounts](https://make.wordpress.org/community/2022/06/17/xpost-discussion-promoting-wordcamps-with-the-official-wordpress-social-accounts/)
