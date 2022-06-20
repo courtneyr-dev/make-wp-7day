@@ -133,7 +133,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TEST:START -->
 - [X-post: Call for Testing: WordPress for Android 20.1](https://make.wordpress.org/test/2022/06/14/xpost-call-for-testing-wordpress-for-android-20-1/)
 - [X-post: Test Team Update – 13 June 2022](https://make.wordpress.org/test/2022/06/13/xpost-test-team-update-13-june-2022/)
-- [X-post: Call for Testing: WordPress for iOS 20.1](https://make.wordpress.org/test/2022/06/13/xpost-call-for-testing-wordpress-for-ios-20-1/)
 <!-- TEST:END -->
 
 ## TV
