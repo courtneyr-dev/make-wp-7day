@@ -139,6 +139,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Milana Cap: Developer documentation – Code reference handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-code-reference-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: Developer documentation – Common APIs handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-common-apis-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: Developer documentation – Plugin handbook – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-developer-documentation-plugin-handbook-onboarding-for-wordpress-documentation-team/)
+- [Milana Cap: End user documentation – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-end-user-documentation-onboarding-for-wordpress-documentation-team/)
 - [Milana Cap: Overview – onboarding for WordPress Documentation team](https://wordpress.tv/2022/06/21/milana-cap-overview-onboarding-for-wordpress-documentation-team/)
 - [Let’s build a homepage together!](https://wordpress.tv/2022/06/19/lets-build-a-homepage-together/)
 - [Choosing and Installing a Theme](https://wordpress.tv/2022/06/16/choosing-and-installing-a-theme/)
