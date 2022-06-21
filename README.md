@@ -185,10 +185,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Themes team update June 21, 2022](https://make.wordpress.org/updates/2022/06/21/themes-team-update-june-21-2022/)
 - [Test Team Update – 20 June 2022](https://make.wordpress.org/updates/2022/06/20/test-team-update-20-june-2022/)
 - [Plugin Review Team: 20 June 2022](https://make.wordpress.org/updates/2022/06/20/plugin-review-team-20-june-2022/)
 - [Documentation Team Update – June 20, 2022](https://make.wordpress.org/updates/2022/06/20/documentation-team-update-june-20-2022/)
-- [Themes team update June 14, 2022](https://make.wordpress.org/updates/2022/06/14/themes-team-update-june-14-2022/)
 <!-- UPDATES:END -->
 
 ## Project
