@@ -123,7 +123,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Social Learning Spaces
 <!-- SLS:START -->
 - [Explore the Block Directory](https://learn.wordpress.org/?meeting=explore-the-block-directory)
-- [Hello Blocks!  Coding a custom block](https://learn.wordpress.org/?meeting=hello-blocks-coding-a-custom-block-3)
 <!-- SLS:END -->
 
 ## Test
