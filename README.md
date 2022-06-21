@@ -12,7 +12,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Editor Weekly Bug Scrubs](https://make.wordpress.org/core/2022/06/16/proposal-editor-weekly-bug-scrubs/)
 - [Dev Chat Agenda, June 15, 2022](https://make.wordpress.org/core/2022/06/14/dev-chat-agenda-june-15-2022/)
 - [Performance team meeting summary 14 June 2022](https://make.wordpress.org/core/2022/06/14/performance-team-meeting-summary-14-june-2022/)
-- [Proposal: Disallow assignments in conditions and remove the Yoda condition requirement for PHP](https://make.wordpress.org/core/2022/06/14/upcoming-disallow-assignments-in-conditions-and-remove-the-yoda-condition-requirement-for-php/)
 <!-- CORE:END -->
 
 ## Design
