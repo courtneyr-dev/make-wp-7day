@@ -173,7 +173,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Openverse
 <!-- OPENVERSE:START -->
 - [Mitigating out of terms API usage](https://make.wordpress.org/openverse/2022/06/17/mitigating-out-of-terms-api-usage/)
-- [Community Meeting Recap &lpar;14 June 2022&rpar;](https://make.wordpress.org/openverse/2022/06/14/community-meeting-recap-14-june-2022/)
 <!-- OPENVERSE:END -->
 
 ## Photos
