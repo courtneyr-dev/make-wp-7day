@@ -128,6 +128,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Test
 <!-- TEST:START -->
+- [Week in Test – 22 June 2022](https://make.wordpress.org/test/2022/06/22/week-in-test-22-june-2022/)
 - [Test Team Chat Agenda for 21 June 2022](https://make.wordpress.org/test/2022/06/20/test-team-chat-agenda-for-21-june-2022/)
 - [X-post: Test Team Update – 20 June 2022](https://make.wordpress.org/test/2022/06/20/xpost-test-team-update-20-june-2022/)
 - [FSE Program: Sign up for usability testing by June 24th](https://make.wordpress.org/test/2022/06/20/fse-program-sign-up-for-usability-testing-by-june-24th/)
