@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [What’s new in Gutenberg 13.5? &lpar;22 June&rpar;](https://make.wordpress.org/core/2022/06/22/whats-new-in-gutenberg-13-5-22-june/)
 - [Dev chat agenda, June 22, 2022](https://make.wordpress.org/core/2022/06/21/devchat-agenda-june-22-2022/)
 - [Performance team meeting summary 21 June 2022](https://make.wordpress.org/core/2022/06/21/performance-team-meeting-summary-21-june-2022/)
 - [A Week in Core – June 20, 2022](https://make.wordpress.org/core/2022/06/21/a-week-in-core-june-20-2022/)
