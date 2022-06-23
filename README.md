@@ -100,6 +100,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Discussion: Tracking Social Learning Spaces](https://make.wordpress.org/training/2022/06/23/discussion-tracking-social-learning-spaces/)
 - [May 2022 Sprint Retrospective￼](https://make.wordpress.org/training/2022/06/21/may-2022-sprint-retrospective%ef%bf%bc/)
 - [Meeting Agenda for June 21 – 23, 2022](https://make.wordpress.org/training/2022/06/20/meeting-agenda-for-june-21-23-2022/)
 - [Training Team Meeting Recap – June 14 &amp; 16](https://make.wordpress.org/training/2022/06/16/training-team-meeting-recap-june-14-16/)
