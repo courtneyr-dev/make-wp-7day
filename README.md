@@ -86,6 +86,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [Recap: Community Deputy Training – All About Community Deputies](https://make.wordpress.org/community/2022/06/23/recap-community-deputy-training-all-about-community-deputies/)
 - [Announcement: Reactivating Meetup Venue Support Funds](https://make.wordpress.org/community/2022/06/22/announcement-reactivating-meetup-venue-support-funds/)
 - [4th biweekly APAC #WPDiversity Network Building &lpar;June 23, 2022&rpar;](https://make.wordpress.org/community/2022/06/20/4th-biweekly-apac-wpdiversity-network-building-june-23-2022/)
 - [Monthly Deputy / Organizer Training and Mini Sprints](https://make.wordpress.org/community/2022/06/18/monthly-deputy-organizer-training-and-mini-sprints/)
