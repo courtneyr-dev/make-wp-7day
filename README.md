@@ -81,7 +81,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
-- [What’s The Deal with Invalid Reviews?](https://make.wordpress.org/plugins/2022/06/15/whats-the-deal-with-invalid-reviews/)
+- [Google Drive is Flagging Plugins as ‘Viruses’](https://make.wordpress.org/plugins/2022/06/24/google-drive-is-flagging-plugins-as-viruses/)
 <!-- PLUGINS:END -->
 
 ## Community
