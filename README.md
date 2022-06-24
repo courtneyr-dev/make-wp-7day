@@ -114,7 +114,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [Anatomy of a Block Theme](https://learn.wordpress.org/workshop/anatomy-of-a-block-theme/)
-- [Choosing and Installing Theme](https://learn.wordpress.org/workshop/choosing-and-installing-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
