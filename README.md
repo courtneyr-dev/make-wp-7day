@@ -226,5 +226,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Full Time WordPress Designer/Developer](https://jobs.wordpress.net/job/full-time-wordpress-designer-developer/)
 - [Content Writer](https://jobs.wordpress.net/job/content-writer-18/)
 - [Development of an image-focused webpage](https://jobs.wordpress.net/job/development-of-an-image-focused-webpage/)
-- [Web Design &amp; Development](https://jobs.wordpress.net/job/web-design-development-3/)
 <!-- JOBS:END -->
