@@ -80,6 +80,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/plugins/2022/06/27/xpost-rollback-feature-testing-call-to-action/)
 - [Google Drive is Flagging Plugins as ‘Viruses’](https://make.wordpress.org/plugins/2022/06/24/google-drive-is-flagging-plugins-as-viruses/)
 <!-- PLUGINS:END -->
 
