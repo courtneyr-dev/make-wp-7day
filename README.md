@@ -137,6 +137,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
 - [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
 - [Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
 - [We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
