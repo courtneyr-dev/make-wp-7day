@@ -207,7 +207,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WP Briefing: Episode 33: Some Important Questions from WCEU](https://wordpress.org/news/2022/06/episode-33-some-important-questions-from-wceu/)
+- [WP Briefing: Episode 34: WordPress 6.1 is Coming!](https://wordpress.org/news/2022/06/episode-34-wordpress-6-1-is-coming/)
 <!-- NEWS:END -->
 
 ## Jobs
