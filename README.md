@@ -102,7 +102,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TRAINING:START -->
 - [Discussion: Tracking Social Learning Spaces](https://make.wordpress.org/training/2022/06/23/discussion-tracking-social-learning-spaces/)
 - [May 2022 Sprint Retrospective￼](https://make.wordpress.org/training/2022/06/21/may-2022-sprint-retrospective%ef%bf%bc/)
-- [Meeting Agenda for June 21 – 23, 2022](https://make.wordpress.org/training/2022/06/20/meeting-agenda-for-june-21-23-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
