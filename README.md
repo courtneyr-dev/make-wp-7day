@@ -181,7 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Openverse
 <!-- OPENVERSE:START -->
-- [Community Meeting Recap &lpar;21 June 2022&rpar;](https://make.wordpress.org/openverse/2022/06/21/community-meeting-recap-21-june-2022/)
+- [Community Meeting Recap &lpar;28 June 2022&rpar;](https://make.wordpress.org/openverse/2022/06/28/community-meeting-recap-28-june-2022/)
 <!-- OPENVERSE:END -->
 
 ## Photos
