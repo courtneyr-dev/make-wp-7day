@@ -142,7 +142,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
-- [Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
+- [Richard Midson: Is podcasting the future of WordPress?](https://wordpress.tv/2022/06/27/is-podcasting-the-future-of-wordpress/)
 - [Milan Ivanovic: Why we community?](https://wordpress.tv/2022/06/27/why-we-community/)
 - [Rodolfo Melogli: Let’s build &lpar;and sell&rpar; an online course](https://wordpress.tv/2022/06/27/rodolfo-melogli-lets-build-and-sell-an-online-course/)
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
@@ -160,7 +160,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live Studio: Sjoerd Blom interviewing one of the WCEU founders: Remkus de Vries](https://wordpress.tv/2022/06/22/live-studio-remkus-vries-sjoerd-blom/)
 - [Website Security For Solopreneurs](https://wordpress.tv/2022/06/21/bud-kraus-website-security-for-solopreneurs/)
 - [Milana Cap: WordPress through the terminal](https://wordpress.tv/2022/06/21/milana-cap-wordpress-through-the-terminal/)
-- [Stefano Minoia: Git and GitHub for theme development](https://wordpress.tv/2022/06/21/git-and-github-for-theme-development/)
 <!-- WPTV:END -->
 
 ## Marketing
