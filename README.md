@@ -110,7 +110,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
-- [Treinamento de Palestrantes](https://learn.wordpress.org/lesson-plan/treinamento-de-palestrantes/)
+- [Submitting Block Patterns to the Directory](https://learn.wordpress.org/lesson-plan/submitting-block-patterns-to-the-directory/)
 <!-- LESSONPLANS:END -->
 
 ### Workshops
