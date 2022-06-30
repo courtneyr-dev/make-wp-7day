@@ -165,7 +165,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alexandra Spalato: Build Gatsby WordPress sites with Gatsby WP Themes](https://wordpress.tv/2022/06/24/build-gatsby-wordpress-sites-with-gatsby-wp-themes/)
 - [Alain Schlesser: We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
 - [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
-- [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
 <!-- WPTV:END -->
 
 ## Marketing
