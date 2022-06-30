@@ -222,6 +222,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Full Stack Development](https://jobs.wordpress.net/job/__trashed-25/)
+- [Web Developer](https://jobs.wordpress.net/job/web-developer-198/)
 - [Tier 3 WordPress Technical Support Engineer](https://jobs.wordpress.net/job/tier-3-wordpress-technical-support-engineer/)
 - [I need a WordPress specialist to do some work on my WordPress site](https://jobs.wordpress.net/job/i-need-a-wordpress-specialist-to-do-some-work-on-my-wordpress-site/)
 - [WordPress troubleshooting](https://jobs.wordpress.net/job/wordpress-troubleshooting-6/)
