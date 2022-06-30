@@ -128,6 +128,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Your First Ecommerce Website](https://learn.wordpress.org/?meeting=your-first-ecommerce-website)
 - [Explore the Template Editor](https://learn.wordpress.org/?meeting=explore-the-template-editor)
 - [WordPress for Writers: Launching your Writer Website Redux](https://learn.wordpress.org/?meeting=wordpress-for-writers-launching-your-writer-website-redux)
 - [My First Recipe Blog](https://learn.wordpress.org/?meeting=my-first-recipe-blog)
