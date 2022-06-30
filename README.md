@@ -162,7 +162,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
 - [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
 - [Piccia Neri: Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
-- [Pablo Postigo: A glimpse into the future of WordPress from a frontend point of view](https://wordpress.tv/2022/06/23/a-glimpse-into-the-future-of-wordpress-from-a-frontend-point-of-view/)
 <!-- WPTV:END -->
 
 ## Marketing
