@@ -161,7 +161,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Alain Schlesser: We need to do better &lpar;really!&rpar;](https://wordpress.tv/2022/06/24/we-need-to-do-better-really/)
 - [Nestor Angulo: AI in the hacking world war](https://wordpress.tv/2022/06/23/nestor-angulo-ai-in-the-hacking-world-war/)
 - [Anatomy of a Block Theme](https://wordpress.tv/2022/06/23/anatomy-of-a-block-theme/)
-- [Piccia Neri: Design for conversions: how to be more profitable by putting people first](https://wordpress.tv/2022/06/23/design-for-conversions-how-to-be-more-profitable-by-putting-people-first/)
 <!-- WPTV:END -->
 
 ## Marketing
