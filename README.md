@@ -218,6 +218,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [People of WordPress: Leo Gopal](https://wordpress.org/news/2022/06/people-of-wordpress-leo-gopal/)
 - [WP Briefing: Episode 34: WordPress 6.1 is Coming!](https://wordpress.org/news/2022/06/episode-34-wordpress-6-1-is-coming/)
 <!-- NEWS:END -->
 
