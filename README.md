@@ -96,7 +96,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on June 22, 2022](https://make.wordpress.org/community/2022/06/30/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-june-22-2022/)
 - [Call for Translators: 2021-2022 Annual Meetup Surveys](https://make.wordpress.org/community/2022/06/24/call-for-translators-2021-2022-annual-meetup-surveys/)
 - [Monthly Organizer Newsletter: June 2022](https://make.wordpress.org/community/2022/06/24/monthly-organizer-newsletter-june-2022/)
-- [Recap: Community Deputy Training – All About Community Deputies](https://make.wordpress.org/community/2022/06/23/recap-community-deputy-training-all-about-community-deputies/)
 <!-- COMMUNITY:END -->
 
 ## Meta
