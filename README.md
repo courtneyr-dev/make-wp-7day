@@ -52,6 +52,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
+- [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/docs/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [Summary of Docs Team Biweekly Meeting June 21, 2022](https://make.wordpress.org/docs/2022/06/28/summary-of-docs-team-biweekly-meeting-june-21-2022/)
 <!-- DOCS:END -->
 
