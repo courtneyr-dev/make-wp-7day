@@ -181,7 +181,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Hosting
 <!-- HOSTING:START -->
-- [WordCamp Europe 2022 Contributor Day: Summary](https://make.wordpress.org/hosting/2022/06/06/wordcamp-europe-2022-contributor-day-summary/)
+- [Plan for adding WebP &amp; multiple MIME support for images](https://make.wordpress.org/hosting/2022/07/01/plan-for-adding-webp-multiple-mime-support-for-images/)
 <!-- HOSTING:END -->
 
 ## Tide
