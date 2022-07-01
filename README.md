@@ -100,7 +100,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
-- [Gutenberg Landing Page Launched](https://make.wordpress.org/meta/2022/06/16/gutenberg-landing-page-launched/)
+- [Exploration: improving DevHub](https://make.wordpress.org/meta/2022/07/01/exploration-improving-devhub/)
 <!-- META:END -->
 
 ## Training
