@@ -95,6 +95,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Social Learning Spaces on Learn WordPress](https://make.wordpress.org/training/2022/07/01/social-learning-spaces-on-learn-wordpress/)
 - [Rethinking the Lesson Plan Creation &amp; Updating Process](https://make.wordpress.org/training/2022/07/01/rethinking-the-lesson-plan-creation-updating-process/)
 - [Training Team Goals and Strategy Call](https://make.wordpress.org/training/2022/07/01/training-team-goals-and-strategy-call/)
 - [Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/training/2022/06/29/learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
