@@ -17,7 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
-- [X-post: FSE Program: Sign up for usability testing by June 24th](https://make.wordpress.org/design/2022/06/20/xpost-fse-program-sign-up-for-usability-testing-by-june-24th/)
+- [Open Sourcing Theme Designs](https://make.wordpress.org/design/2022/07/01/open-sourcing-theme-designs/)
 <!-- DESIGN:END -->
 
 ## Mobile
