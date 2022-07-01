@@ -96,6 +96,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Training Team Goals and Strategy Call](https://make.wordpress.org/training/2022/07/01/training-team-goals-and-strategy-call/)
 - [Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/training/2022/06/29/learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [Training Team Meeting Recap – June 21 &amp; 23](https://make.wordpress.org/training/2022/06/28/training-team-meeting-recap-june-21-23/)
 - [Meeting Agenda for June 28 – 30, 2022](https://make.wordpress.org/training/2022/06/27/meeting-agenda-for-june-28-30-2022/)
