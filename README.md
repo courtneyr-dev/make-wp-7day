@@ -124,7 +124,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Explore the Template Editor](https://learn.wordpress.org/?meeting=explore-the-template-editor)
 - [WordPress for Writers: Launching your Writer Website Redux](https://learn.wordpress.org/?meeting=wordpress-for-writers-launching-your-writer-website-redux)
 - [My First Recipe Blog](https://learn.wordpress.org/?meeting=my-first-recipe-blog)
-- [[Rescheduled] Design With Me: Create a WordPress Blog of Your Own](https://learn.wordpress.org/?meeting=rescheduled-design-with-me-create-a-wordpress-blog-of-your-own)
 <!-- SLS:END -->
 
 ## Test
