@@ -233,7 +233,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [I need a WordPress specialist to do some work on my WordPress site](https://jobs.wordpress.net/job/i-need-a-wordpress-specialist-to-do-some-work-on-my-wordpress-site/)
 - [WordPress troubleshooting](https://jobs.wordpress.net/job/wordpress-troubleshooting-6/)
 - [WordPress Plugin Customer Support](https://jobs.wordpress.net/job/wordpress-plugin-customer-support-5/)
-- [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-22/)
-- [[rtCamp] Digital Marketing Manager](https://jobs.wordpress.net/job/rtcamp-digital-marketing-manager-5/)
-- [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-35/)
 <!-- JOBS:END -->
