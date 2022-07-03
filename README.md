@@ -161,7 +161,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
 - [Live Studio: Takis Bouyouris interviewing WCEU Local Team: José Freitas and Marco Pereirinha](https://wordpress.tv/2022/06/27/live-studio-takis-bouyouris-interviewing-wceu-local-team-jose-freitas-and-marco-pereirinha/)
 - [Leo Postovoit: The Real Impact of Having Website Performance as a Mindset](https://wordpress.tv/2022/06/27/the-real-impact-of-having-website-performance-as-a-mindset/)
-- [Greg Ziolkowski: Level Up Block Building Skills](https://wordpress.tv/2022/06/26/greg-ziolkowski-level-up-block-building-skills/)
 <!-- WPTV:END -->
 
 ## Marketing
