@@ -163,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Rodolfo Melogli: Let’s build &lpar;and sell&rpar; an online course](https://wordpress.tv/2022/06/27/rodolfo-melogli-lets-build-and-sell-an-online-course/)
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
 - [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
-- [Live Studio: Takis Bouyouris interviewing WCEU Local Team: José Freitas and Marco Pereirinha](https://wordpress.tv/2022/06/27/live-studio-takis-bouyouris-interviewing-wceu-local-team-jose-freitas-and-marco-pereirinha/)
 <!-- WPTV:END -->
 
 ## Marketing
