@@ -164,7 +164,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Milan Ivanovic: Why we community?](https://wordpress.tv/2022/06/27/why-we-community/)
 - [Rodolfo Melogli: Let’s build &lpar;and sell&rpar; an online course](https://wordpress.tv/2022/06/27/rodolfo-melogli-lets-build-and-sell-an-online-course/)
 - [Introdução a visualização em lista](https://wordpress.tv/2022/06/27/introducao-a-visualizacao-em-lista/)
-- [Sean Blakeley: The block pattern revolution](https://wordpress.tv/2022/06/27/sean-blakeley-the-block-pattern-revolution/)
 <!-- WPTV:END -->
 
 ## Marketing
