@@ -64,6 +64,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
+- [Curating the Editor Experience](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/)
 - [Adding a delete button](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/5-adding-a-delete-button/)
 <!-- DEVHUB:END -->
 
