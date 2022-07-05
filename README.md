@@ -72,7 +72,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/themes/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [Create Block Theme](https://make.wordpress.org/themes/2022/06/30/create-block-theme/)
 - [Themes Team Meeting Notes – June 28, 2022](https://make.wordpress.org/themes/2022/06/29/themes-team-meeting-notes-june-28-2022/)
-- [Latest changes in Gutenberg + Themes: 13.1 to 13.5 releases](https://make.wordpress.org/themes/2022/06/28/latest-changes-in-gutenberg-themes-13-1-to-13-5-releases/)
 <!-- THEMES:END -->
 
 ## Plugins
