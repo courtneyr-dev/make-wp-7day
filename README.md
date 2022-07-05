@@ -136,7 +136,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/test/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 - [X-post: Call for Testing: WordPress for iOS 20.2](https://make.wordpress.org/test/2022/06/29/xpost-call-for-testing-wordpress-for-ios-20-2/)
 - [X-post: Call for Testing: WordPress for Android 20.2](https://make.wordpress.org/test/2022/06/28/xpost-call-for-testing-wordpress-for-android-20-2/)
-- [Week in Test – 27 June 2022](https://make.wordpress.org/test/2022/06/28/week-in-test-27-june-2022/)
 <!-- TEST:END -->
 
 ## TV
