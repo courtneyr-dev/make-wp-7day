@@ -110,7 +110,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [Using Schema with WordPress Theme.json](https://learn.wordpress.org/workshop/using-schema-with-wordpress-theme-json/)
+- [Using Schema with WordPress theme.json](https://learn.wordpress.org/workshop/using-schema-with-wordpress-theme-json/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
