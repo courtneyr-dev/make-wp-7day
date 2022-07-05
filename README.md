@@ -17,6 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Design Share: June 20–July 1](https://make.wordpress.org/design/2022/07/05/design-share-june-20-july-1/)
 - [Open Sourcing Theme Designs](https://make.wordpress.org/design/2022/07/01/open-sourcing-theme-designs/)
 <!-- DESIGN:END -->
 
