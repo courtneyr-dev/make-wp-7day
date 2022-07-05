@@ -42,7 +42,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for online Estore Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-online-estore-theme/)
 - [Good day everyone,](https://make.wordpress.org/polyglots/2022/06/29/good-day-everyone/)
 - [Agenda: Weekly Polyglots Chat – Jun. 29, 2022 &lpar;7:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/06/28/agenda-weekly-polyglots-chat-jun-29-2022-700-utc/)
-- [PTE Request for Cta Image Overlay And Text and Custom Post Types Listing Block](https://make.wordpress.org/polyglots/2022/06/28/pte-request-for-cta-image-overlay-and-text-and-custom-post-types-listing-block/)
 <!-- POLYGLOTS:END -->
 
 ## Support
