@@ -76,6 +76,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Plugins
 <!-- PLUGINS:START -->
+- [Proposal for a WordPress plugin checker](https://make.wordpress.org/plugins/2022/07/05/proposal-for-a-wordpress-plugin-checker/)
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/plugins/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 <!-- PLUGINS:END -->
 
