@@ -34,6 +34,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for iubenda plugin](https://make.wordpress.org/polyglots/2022/07/05/pte-request-for-iubenda-plugin/)
 - [PTE Request for the Dynamic Year Block plugin](https://make.wordpress.org/polyglots/2022/07/03/pte-request-for-the-dynamic-year-block-plugin/)
 - [Hi Polyglots people,](https://make.wordpress.org/polyglots/2022/06/30/hi-polyglots-people/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-several-plugins-4/)
