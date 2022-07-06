@@ -65,8 +65,16 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Developer Articles
 <!-- DEVHUB:START -->
-- [Curating the Editor Experience](https://developer.wordpress.org/block-editor/how-to-guides/curating-the-editor-experience/)
-- [Adding a delete button](https://developer.wordpress.org/block-editor/how-to-guides/data-basics/5-adding-a-delete-button/)
+- [IXR_Base64::IXR_Base64&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/ixr_base64/)
+- [IXR_Base64::getXml&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/getxml/)
+- [IXR_Base64::__construct&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_base64/__construct/)
+- [IXR_IntrospectionServer::methodHelp&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/methodhelp/)
+- [IXR_Base64](https://developer.wordpress.org/reference/classes/ixr_base64/)
+- [IXR_IntrospectionServer::methodSignature&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/methodsignature/)
+- [IXR_IntrospectionServer::call&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/call/)
+- [IXR_IntrospectionServer::addCallback&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/addcallback/)
+- [IXR_IntrospectionServer::IXR_IntrospectionServer&lpar;&rpar;](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/ixr_introspectionserver/)
+- [IXR_IntrospectionServer](https://developer.wordpress.org/reference/classes/ixr_introspectionserver/)
 <!-- DEVHUB:END -->
 
 ## Themes
