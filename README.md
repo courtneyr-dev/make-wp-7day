@@ -209,6 +209,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-19/)
 - [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-10/)
 - [Customer Support Engineer &lpar;Remote&rpar;](https://jobs.wordpress.net/job/customer-support-engineer-remote/)
 - [Plugins testing &amp; support engineer](https://jobs.wordpress.net/job/plugins-testing-support-engineer/)
