@@ -206,6 +206,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
+- [The Month in WordPress – June 2022](https://wordpress.org/news/2022/07/the-month-in-wordpress-june-2022/)
 - [People of WordPress: Leo Gopal](https://wordpress.org/news/2022/06/people-of-wordpress-leo-gopal/)
 <!-- NEWS:END -->
 
