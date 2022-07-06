@@ -42,7 +42,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [PTE Request for ElemensKit, MetForm &amp; ShopEngine](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-elemenskit-metform-shopengine/)
 - [PTE Request for ExS Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-exs-theme/)
 - [PTE Request for online Estore Theme](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-online-estore-theme/)
-- [Good day everyone,](https://make.wordpress.org/polyglots/2022/06/29/good-day-everyone/)
 <!-- POLYGLOTS:END -->
 
 ## Support
