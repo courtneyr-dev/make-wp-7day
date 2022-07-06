@@ -124,7 +124,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Creating your first WordPress Child Theme](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-child-theme)
 - [Contribute With Me: Build a WordPress Lesson Plan Together](https://learn.wordpress.org/?meeting=contribute-with-me-build-a-wordpress-lesson-plan-together)
 - [Your First Ecommerce Website](https://learn.wordpress.org/?meeting=your-first-ecommerce-website)
-- [Explore the Template Editor](https://learn.wordpress.org/?meeting=explore-the-template-editor)
 <!-- SLS:END -->
 
 ## Test
