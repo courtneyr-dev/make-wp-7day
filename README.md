@@ -55,7 +55,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary of Docs Team Biweekly Meeting July 5th, 2022](https://make.wordpress.org/docs/2022/07/05/summary-of-docs-team-biweekly-meeting-july-5th-2022/)
 - [Agenda for docs team bi-weekly meeting 5 July 2022](https://make.wordpress.org/docs/2022/07/05/agenda-for-docs-team-bi-weekly-meeting-5-july-2022/)
 - [X-post: Exploration: improving DevHub](https://make.wordpress.org/docs/2022/07/01/xpost-exploration-improving-devhub/)
-- [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/docs/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
 <!-- DOCS:END -->
 
 ### Support Articles
