@@ -42,7 +42,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi Polyglots people,](https://make.wordpress.org/polyglots/2022/06/30/hi-polyglots-people/)
 - [PTE Request for several plugins](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-several-plugins-4/)
 - [PTE Request for Kadence, Ascend,…](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-kadence-ascend/)
-- [PTE Request for ElemensKit, MetForm &amp; ShopEngine](https://make.wordpress.org/polyglots/2022/06/30/pte-request-for-elemenskit-metform-shopengine/)
 <!-- POLYGLOTS:END -->
 
 ## Support
