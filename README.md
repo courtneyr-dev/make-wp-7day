@@ -80,7 +80,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Themes
 <!-- THEMES:START -->
 - [X-post: Learn WordPress Development: Creating a Public Roadmap for Content Creation](https://make.wordpress.org/themes/2022/06/30/xpost-learn-wordpress-development-creating-a-public-roadmap-for-content-creation/)
-- [Create Block Theme](https://make.wordpress.org/themes/2022/06/30/create-block-theme/)
 <!-- THEMES:END -->
 
 ## Plugins
