@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [World Wide Web Day is Coming and WP Briefing Wants You!](https://make.wordpress.org/community/2022/07/07/world-wide-web-day-is-coming-and-wp-briefing-wants-you/)
 - [Community Team Meeting Agenda 7 July 2022](https://make.wordpress.org/community/2022/07/06/community-team-meeting-agenda-7-july-2022/)
 - [5th biweekly APAC #WPDiversity Network Building &lpar;July 14, 2022&rpar;](https://make.wordpress.org/community/2022/07/04/5th-biweekly-apac-wpdiversity-network-building-july-7-2022/)
 <!-- COMMUNITY:END -->
