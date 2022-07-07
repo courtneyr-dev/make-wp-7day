@@ -169,6 +169,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Marketing
 <!-- MARKETING:START -->
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/marketing/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 - [Agenda: Global Marketing Meeting, July 6, 2022](https://make.wordpress.org/marketing/2022/07/06/agenda-global-marketing-meeting-july-6-2022/)
 - [Notes: Global Marketing Meeting, June 29, 2022](https://make.wordpress.org/marketing/2022/07/04/notes-global-marketing-meeting-june-29-2022/)
 <!-- MARKETING:END -->
