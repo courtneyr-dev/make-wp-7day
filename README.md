@@ -193,7 +193,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Photos
 <!-- PHOTOS:START -->
-- [Recap of team meeting, June 2](https://make.wordpress.org/photos/2022/06/17/recap-of-team-meeting-june-2/)
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/photos/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- PHOTOS:END -->
 
 ## Updates
