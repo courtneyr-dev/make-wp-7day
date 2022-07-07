@@ -48,7 +48,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Support
 <!-- SUPPORT:START -->
-- [X-post: What’s new on LearnWP in May 2022](https://make.wordpress.org/support/2022/06/xpost-whats-new-on-learnwp-in-may-2022/)
+- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/support/2022/07/xpost-wcus2022-contributor-team-signup/)
 <!-- SUPPORT:END -->
 
 ## Documentation
