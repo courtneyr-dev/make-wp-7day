@@ -121,7 +121,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [User Management](https://learn.wordpress.org/workshop/user-management-2/)
-- [Using Schema with WordPress theme.json](https://learn.wordpress.org/workshop/using-schema-with-wordpress-theme-json/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
