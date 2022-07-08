@@ -162,7 +162,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Laurent Maillard: Agile marketing – how we made our agency a better place](https://wordpress.tv/2022/07/01/laurent-maillard-agile-marketing-how-we-made-our-agency-a-better-place/)
 - [Marco Berrocal: WP_Query: The power of flexibility](https://wordpress.tv/2022/07/01/marco-berrocal-wp_query-the-power-of-flexibility/)
 - [Nate Finch: Using WordPress as an API](https://wordpress.tv/2022/07/01/nate-finch-using-wordpress-as-an-api/)
-- [Using Schema with WordPress Theme.json](https://wordpress.tv/2022/06/30/using-schema-with-wordpress-theme-json/)
 <!-- WPTV:END -->
 
 ## Marketing
