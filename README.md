@@ -161,7 +161,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Live Studio. Evangelia Pappa interviewing Serbian Community: Nemanja Cimbaljevic, Milana Cap and Mil](https://wordpress.tv/2022/07/03/live-studio-serbian-community/)
 - [José Ramón Padrón, Evangelia Pappa: Live Studio: Evangelia Pappa interviewing Spanish Community: José Ramón Padrón](https://wordpress.tv/2022/07/03/jose-ramon-padron-evangelia-pappa-live-studio-evangelia-pappa-interviewing-spanish-community-jose-ramon-padron/)
 - [Paul Bearne: Finding your WordPress lifestyle – insider insights from a veteran coder](https://wordpress.tv/2022/07/03/paul-bearne-finding-your-wordpress-lifestyle-insider-insights-from-a-veteran-coder/)
-- [Daisy Olsen: Extending the WordPress Block Editor](https://wordpress.tv/2022/07/01/daisy-olsen-extending-the-wordpress-block-editor/)
 <!-- WPTV:END -->
 
 ## Marketing
