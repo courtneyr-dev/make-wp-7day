@@ -109,7 +109,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Meeting Agenda for July 5 – 7, 2022](https://make.wordpress.org/training/2022/07/04/meeting-agenda-for-july-5-7-2022/)
 - [Discussion: Naming content types on Learn WordPress](https://make.wordpress.org/training/2022/07/03/discussion-naming-content-types-on-learn-wordpress/)
 - [Social Learning Spaces on Learn WordPress](https://make.wordpress.org/training/2022/07/01/social-learning-spaces-on-learn-wordpress/)
-- [Rethinking the Lesson Plan Creation &amp; Updating Process](https://make.wordpress.org/training/2022/07/01/rethinking-the-lesson-plan-creation-updating-process/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
