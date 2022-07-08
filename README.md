@@ -147,6 +147,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
+- [Sofie Couwenbergh: How to create clear briefings for posts that’ll rank](https://wordpress.tv/2022/07/08/sofie-couwenbergh-how-to-create-clear-briefings-for-posts-thatll-rank/)
 - [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 - [User Management](https://wordpress.tv/2022/07/06/user-management/)
 - [Design With Me: Create a WordPress Blog of Your Own](https://wordpress.tv/2022/07/06/design-with-me-create-a-wordpress-blog-of-your-own/)
@@ -157,9 +159,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Paul Bearne: Finding your WordPress lifestyle – insider insights from a veteran coder](https://wordpress.tv/2022/07/03/paul-bearne-finding-your-wordpress-lifestyle-insider-insights-from-a-veteran-coder/)
 - [Daisy Olsen: Extending the WordPress Block Editor](https://wordpress.tv/2022/07/01/daisy-olsen-extending-the-wordpress-block-editor/)
 - [Vassilena Valchanova: Building data-driven content personas](https://wordpress.tv/2022/07/01/vassilena-valchanova-building-data-driven-content-personas/)
-- [Laurent Maillard: Agile marketing – how we made our agency a better place](https://wordpress.tv/2022/07/01/laurent-maillard-agile-marketing-how-we-made-our-agency-a-better-place/)
-- [Marco Berrocal: WP_Query: The power of flexibility](https://wordpress.tv/2022/07/01/marco-berrocal-wp_query-the-power-of-flexibility/)
-- [Nate Finch: Using WordPress as an API](https://wordpress.tv/2022/07/01/nate-finch-using-wordpress-as-an-api/)
 <!-- WPTV:END -->
 
 ## Marketing
