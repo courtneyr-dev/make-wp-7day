@@ -114,6 +114,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Migrating From a Page Builder to The Block Editor](https://learn.wordpress.org/lesson-plan/migrating-from-a-page-builder-to-the-block-editor/)
 - [Πώς να χρησιμοποιήσετε και να συνεισφέρετε στον κατάλογο φωτογραφιών του WordPress αλλά και στο Openverse](https://learn.wordpress.org/lesson-plan/%cf%80%cf%8e%cf%82-%ce%bd%ce%b1-%cf%87%cf%81%ce%b7%cf%83%ce%b9%ce%bc%ce%bf%cf%80%ce%bf%ce%b9%ce%ae%cf%83%ce%b5%cf%84%ce%b5-%ce%ba%ce%b1%ce%b9-%ce%bd%ce%b1-%cf%83%cf%85%ce%bd%ce%b5%ce%b9%cf%83%cf%86/)
 <!-- LESSONPLANS:END -->
 
