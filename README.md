@@ -98,7 +98,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Meta
 <!-- META:START -->
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/meta/2022/07/07/xpost-wcus2022-contributor-team-signup/)
-- [Exploration: improving DevHub](https://make.wordpress.org/meta/2022/07/01/exploration-improving-devhub/)
 <!-- META:END -->
 
 ## Training
