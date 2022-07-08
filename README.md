@@ -222,6 +222,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [WordPress Developer &amp; Support Specialist](https://jobs.wordpress.net/job/wordpress-developer-support-specialist-3/)
 - [[rtCamp] Senior WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-senior-wordpress-engineer-36/)
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-23/)
 - [[LifterLMS] Senior WordPress Developer](https://jobs.wordpress.net/job/lifterlms-senior-wordpress-developer/)
