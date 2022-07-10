@@ -42,7 +42,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Hi dear mentors, We have…](https://make.wordpress.org/polyglots/2022/07/06/hi-dear-mentors-we-have-89/)
 - [Weekly Polyglots Chat – July. 6, 2022 &lpar;13:00 UTC&rpar;](https://make.wordpress.org/polyglots/2022/07/06/weekly-polyglots-chat-july-6-2022-1300-utc/)
 - [PTE Request for iubenda plugin](https://make.wordpress.org/polyglots/2022/07/05/pte-request-for-iubenda-plugin/)
-- [PTE Request for the Dynamic Year Block plugin](https://make.wordpress.org/polyglots/2022/07/03/pte-request-for-the-dynamic-year-block-plugin/)
 <!-- POLYGLOTS:END -->
 
 ## Support
