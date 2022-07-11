@@ -35,6 +35,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Polyglots
 <!-- POLYGLOTS:START -->
+- [PTE Request for Payment Gateway for Cielo API on WooCommerce](https://make.wordpress.org/polyglots/2022/07/11/pte-request-for-payment-gateway-for-cielo-api-on-woocommerce/)
 - [Hello Polyglots, I ‘m the…](https://make.wordpress.org/polyglots/2022/07/11/hello-polyglots-i-m-the-8/)
 - [PTE Request for moneytigo](https://make.wordpress.org/polyglots/2022/07/10/pte-request-for-moneytigo/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/polyglots/2022/07/07/xpost-wcus2022-contributor-team-signup/)
