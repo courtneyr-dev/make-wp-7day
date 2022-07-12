@@ -80,6 +80,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for July 12, 2022](https://make.wordpress.org/themes/2022/07/12/themes-team-meeting-agenda-for-july-12-2022/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/themes/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- THEMES:END -->
 
