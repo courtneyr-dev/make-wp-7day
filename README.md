@@ -193,7 +193,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Openverse
 <!-- OPENVERSE:START -->
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/openverse/2022/07/07/xpost-wcus2022-contributor-team-signup/)
-- [Community Meeting Recap &lpar;5 July 2022&rpar;](https://make.wordpress.org/openverse/2022/07/05/community-meeting-recap-5-july-2022/)
 <!-- OPENVERSE:END -->
 
 ## Photos
