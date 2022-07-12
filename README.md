@@ -24,6 +24,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Mobile
 <!-- MOBILE:START -->
+- [Call for Testing: WordPress for Android 20.3](https://make.wordpress.org/mobile/2022/07/12/call-for-testing-wordpress-for-android-20-3/)
 - [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/mobile/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- MOBILE:END -->
 
