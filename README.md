@@ -120,6 +120,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [WordPress Action Hooks](https://learn.wordpress.org/workshop/wordpress-action-hooks/)
 - [User Management](https://learn.wordpress.org/workshop/user-management-2/)
 <!-- WORKSHOPS:END -->
 
