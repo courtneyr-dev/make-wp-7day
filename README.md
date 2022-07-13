@@ -245,5 +245,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[rtCamp] Senior Project Manager](https://jobs.wordpress.net/job/rtcamp-senior-project-manager-23/)
 - [[LifterLMS] Senior WordPress Developer](https://jobs.wordpress.net/job/lifterlms-senior-wordpress-developer/)
 - [Sr. WordPress Developer](https://jobs.wordpress.net/job/sr-wordpress-developer-19/)
-- [[rtCamp] Front End WordPress Engineer](https://jobs.wordpress.net/job/rtcamp-front-end-wordpress-engineer-10/)
 <!-- JOBS:END -->
