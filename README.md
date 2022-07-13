@@ -173,7 +173,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Protect your Website Visitors with Security Headers](https://wordpress.tv/2022/07/08/protect-your-website-visitors-with-security-headers/)
 - [Creating a paid newsletter subscription in WordPress](https://wordpress.tv/2022/07/08/creating-a-paid-newsletter-subscription-in-wordpress/)
 - [Sofie Couwenbergh: How to create clear briefings for posts that’ll rank](https://wordpress.tv/2022/07/08/sofie-couwenbergh-how-to-create-clear-briefings-for-posts-thatll-rank/)
-- [My First Recipe Blog](https://wordpress.tv/2022/07/06/destiny-kanno-my-first-recipe-blog/)
 <!-- WPTV:END -->
 
 ## Marketing
