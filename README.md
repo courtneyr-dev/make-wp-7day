@@ -235,6 +235,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Design WordPress + Woo e-site](https://jobs.wordpress.net/job/design-wordpress-woo-e-site/)
+- [Woocommerce Consulting, Design, Theme, SEO, Google Ads, SEO](https://jobs.wordpress.net/job/woocommerce-consulting-design-theme-seo-google-ads-seo/)
 - [Web/WordPress Developer &lpar;remote&rpar;](https://jobs.wordpress.net/job/web-wordpress-developer-remote/)
 - [Product Development &amp; Support](https://jobs.wordpress.net/job/product-development-support/)
 - [Plugin development](https://jobs.wordpress.net/job/plugin-development-21/)
