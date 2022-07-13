@@ -159,6 +159,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
+- [Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
+- [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
 - [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
 - [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
 - [Let’s code! Creating your first WordPress Child Theme](https://wordpress.tv/2022/07/11/lets-code-creating-your-first-wordpress-child-theme/)
