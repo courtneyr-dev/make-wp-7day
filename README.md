@@ -160,6 +160,8 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Dave Lockie: WordPress and web3 trends &lpar;disruption, challenges, opportunities&rpar;](https://wordpress.tv/2022/07/14/dave-lockie-wordpress-and-web3-trends-disruption-challenges-opportunities/)
+- [Felix Arntz: Enhancing performance in an open-source CMS ecosystem](https://wordpress.tv/2022/07/14/felix-arntz-enhancing-performance-in-an-open-source-cms-ecosystem/)
 - [Jonathan Wold: Growing in WordPress through partnerships](https://wordpress.tv/2022/07/14/jonathan-wold-growing-in-wordpress-through-partnerships/)
 - [Victor Santoyo: Security lessons learned from 2021](https://wordpress.tv/2022/07/13/victor-santoyo-security-lessons-learned-from-2021/)
 - [Vito Peleg: Why does a 5d build become a 4-6w project with clients?](https://wordpress.tv/2022/07/13/vito-peleg-why-does-a-5d-build-become-a-4-6w-project-with-clients/)
