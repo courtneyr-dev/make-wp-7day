@@ -94,7 +94,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- COMMUNITY:START -->
 - [Call for Supporters: Reactivating WordPress Meetups Around the World!](https://make.wordpress.org/community/2022/07/08/call-for-supporters-reactivating-wordpress-meetups-around-the-world/)
 - [Covid Prevention Stickers](https://make.wordpress.org/community/2022/07/08/covid-prevention-stickers/)
-- [Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/community/2022/07/07/wcus2022-contributor-team-signup/)
 <!-- COMMUNITY:END -->
 
 ## Meta
