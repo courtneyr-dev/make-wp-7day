@@ -130,6 +130,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [Optimizing your images for WordPress](https://learn.wordpress.org/?meeting=optimizing-your-images-for-wordpress)
 - [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required-part-2)
 - [Curating the Editor Experience](https://learn.wordpress.org/?meeting=curating-the-editor-experience)
 - [How To Join the WordPress Training Team: Our Workflows](https://learn.wordpress.org/?meeting=how-to-join-the-wordpress-training-team-our-workflows)
