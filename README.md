@@ -149,7 +149,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Week in Test: 11 July 2022](https://make.wordpress.org/test/2022/07/12/week-in-test-11-july-2022/)
 - [FSE Program Testing Call #15: Category Customization￼](https://make.wordpress.org/test/2022/07/11/fse-program-testing-call-15-category-customization/)
 - [X-post: Test Team Update: 11 July 2022](https://make.wordpress.org/test/2022/07/11/xpost-test-team-update-11-july-2022/)
-- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/test/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- TEST:END -->
 
 ## TV
