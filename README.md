@@ -198,7 +198,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Hosting
 <!-- HOSTING:START -->
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/hosting/2022/07/12/xpost-rollback-feature-testing-call-to-action/)
-- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/hosting/2022/07/07/xpost-wcus2022-contributor-team-signup/)
 <!-- HOSTING:END -->
 
 ## Tide
