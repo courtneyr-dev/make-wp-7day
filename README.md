@@ -103,7 +103,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Community Course Creation: A Proposal](https://make.wordpress.org/training/2022/07/12/community-course-creation-a-proposal/)
 - [Meeting Agenda July 12 – 14, 2022](https://make.wordpress.org/training/2022/07/12/meeting-agenda-july-12-14-2022/)
 - [Exploring WordPress Certifications](https://make.wordpress.org/training/2022/07/11/exploring-wordpress-certifications/)
-- [Training Team Meeting Recap – July 5 &amp; 7](https://make.wordpress.org/training/2022/07/08/training-team-meeting-recap-july-5-7/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
