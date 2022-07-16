@@ -174,7 +174,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
 - [Let’s code! Creating your first WordPress Child Theme](https://wordpress.tv/2022/07/11/lets-code-creating-your-first-wordpress-child-theme/)
 - [Udo Meisen: Datenschutz Update 2022](https://wordpress.tv/2022/07/10/udo-meisen-datenschutz-update-2022/)
-- [Ronan Chardonneau: Matomo alternative à Google Analytics ?](https://wordpress.tv/2022/07/09/ronan-chardonneau-matomo-alternative-a-google-analytics/)
 <!-- WPTV:END -->
 
 ## Marketing
