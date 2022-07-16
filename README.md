@@ -154,6 +154,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Writing content with the 10 Text blocks](https://wordpress.tv/2022/07/15/writing-content-with-the-10-text-blocks/)
 - [Explore the Block Directory](https://wordpress.tv/2022/07/15/explore-the-block-directory/)
 - [Nev Harris: Secrets to profitably pricing recurring revenue](https://wordpress.tv/2022/07/14/nev-harris-secrets-to-profitably-pricing-recurring-revenue/)
 - [Darren Ethier: The future of commerce in WordPress with Full Site Editing](https://wordpress.tv/2022/07/14/darren-ethier-the-future-of-commerce-in-wordpress-with-full-site-editing/)
