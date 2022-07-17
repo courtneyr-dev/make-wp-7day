@@ -153,6 +153,9 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mike Crantea: Optimization strategies for the Paint Web Vitals](https://wordpress.tv/2022/07/17/mike-crantea-optimization-strategies-for-the-paint-web-vitals/)
+- [Juan Pablo Gomez: You get a layout! Everyone gets a layout!](https://wordpress.tv/2022/07/17/juan-pablo-gomez-you-get-a-layout-everyone-gets-a-layout/)
+- [Adam Silverstein, Justin Ahinon: Optimize your WordPress](https://wordpress.tv/2022/07/17/adam-silverstein-justin-ahinon-optimize-your-wordpress/)
 - [Roberto Remedios: Traducciones en es-cr.wordpress.org](https://wordpress.tv/2022/07/16/roberto-remedios-traducciones-en-es-cr-wordpress-org/)
 - [Nick Diego: Builder Basics – Designing Advanced Layouts with Core Blocks](https://wordpress.tv/2022/07/15/nick-diego-builder-basics-designing-advanced-layouts-with-core-blocks/)
 - [Writing content with the 10 Text blocks](https://wordpress.tv/2022/07/15/writing-content-with-the-10-text-blocks/)
