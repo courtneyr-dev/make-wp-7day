@@ -30,7 +30,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- ACCESSIBILITY:START -->
 - [Call for Team Rep Nomination – July 2022](https://make.wordpress.org/accessibility/2022/07/15/call-team-rep-nomination-july-2022/)
 - [Accessibility Team Meeting Agenda: July 15, 2022](https://make.wordpress.org/accessibility/2022/07/14/accessibility-team-meeting-agenda-july-15-2022/)
-- [Accessibility Team Meeting Notes: July 1, 2022](https://make.wordpress.org/accessibility/2022/07/09/accessibility-team-meeting-notes-july-1-2022/)
 <!-- ACCESSIBILITY:END -->
 
 ## Polyglots
