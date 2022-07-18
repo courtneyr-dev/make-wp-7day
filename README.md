@@ -17,7 +17,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
-- [Project Kickoff: WordPress.org Homepage and Download page redesign](https://make.wordpress.org/design/2022/07/08/project-kickoff-wordpress-org-homepage-and-download-page-redesign/)
+- [Design Share: July 4–15](https://make.wordpress.org/design/2022/07/18/design-share-july-4-15/)
 <!-- DESIGN:END -->
 
 ## Mobile
