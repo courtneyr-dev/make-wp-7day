@@ -112,6 +112,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
+- [Horizontal Pyramid Gallery](https://learn.wordpress.org/tutorial/horizontal-pyramid-gallery/)
 - [WordPress Action Hooks](https://learn.wordpress.org/tutorial/wordpress-action-hooks/)
 <!-- WORKSHOPS:END -->
 
