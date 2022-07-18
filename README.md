@@ -53,7 +53,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Documentation
 <!-- DOCS:START -->
-- [X-post: Contributor Teams: Submit WCUS 2022 Table Leads Signup Form by July 29](https://make.wordpress.org/docs/2022/07/07/xpost-wcus2022-contributor-team-signup/)
+- [Agenda for docs team bi-weekly meeting 19 July 2022](https://make.wordpress.org/docs/2022/07/18/agenda-for-docs-team-bi-weekly-meeting-19-july-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
