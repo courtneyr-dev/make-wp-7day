@@ -144,7 +144,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [FSE Program Pattern and Template Part Usability Testing Summary](https://make.wordpress.org/test/2022/07/12/fse-program-pattern-and-template-part-usability-testing-summary/)
 - [Week in Test: 11 July 2022](https://make.wordpress.org/test/2022/07/12/week-in-test-11-july-2022/)
 - [FSE Program Testing Call #15: Category Customization￼](https://make.wordpress.org/test/2022/07/11/fse-program-testing-call-15-category-customization/)
-- [X-post: Test Team Update: 11 July 2022](https://make.wordpress.org/test/2022/07/11/xpost-test-team-update-11-july-2022/)
 <!-- TEST:END -->
 
 ## TV
