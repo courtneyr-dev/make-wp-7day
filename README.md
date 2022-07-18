@@ -98,6 +98,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Meeting Agenda July 19 – 21, 2022](https://make.wordpress.org/training/2022/07/18/meeting-agenda-july-19-21-2022/)
 - [Block Theme Development Course – Update](https://make.wordpress.org/training/2022/07/15/block-theme-development-course-update/)
 - [Brainstorming: Best practices for hosting Online Workshops](https://make.wordpress.org/training/2022/07/15/brainstorming-best-practices-for-hosting-online-workshops/)
 - [Training Team Meeting Recap – July 12 / July 14](https://make.wordpress.org/training/2022/07/14/training-team-meeting-recap-july-12-july-14/)
