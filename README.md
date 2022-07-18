@@ -174,7 +174,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Micah Wood: Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
 - [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
 - [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
-- [Isotta Peira: Inclusività agli eventi di WordPress](https://wordpress.tv/2022/07/11/isotta-peira-inclusivita-agli-eventi-di-wordpress/)
 <!-- WPTV:END -->
 
 ## Marketing
