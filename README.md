@@ -233,7 +233,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## News
 <!-- NEWS:START -->
 - [WordPress 6.0.1 Maintenance Release](https://wordpress.org/news/2022/07/wordpress-6-0-1-maintenance-release/)
-- [WP Briefing: Episode 35: Five for the Future’s True Intentions](https://wordpress.org/news/2022/07/episode-35-five-for-the-futures-true-intentions/)
 <!-- NEWS:END -->
 
 ## Jobs
