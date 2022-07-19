@@ -238,5 +238,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Senior Backend Developer &lpar; WordPress, WooCommerce, Laravel &rpar;](https://jobs.wordpress.net/job/senior-backend-developer-wordpress-woocommerce-laravel-3/)
 - [Design WordPress + Woo e-site](https://jobs.wordpress.net/job/design-wordpress-woo-e-site/)
 - [Woocommerce Consulting, Design, Theme, SEO, Google Ads, SEO](https://jobs.wordpress.net/job/woocommerce-consulting-design-theme-seo-google-ads-seo/)
-- [Web/WordPress Developer &lpar;remote&rpar;](https://jobs.wordpress.net/job/web-wordpress-developer-remote/)
 <!-- JOBS:END -->
