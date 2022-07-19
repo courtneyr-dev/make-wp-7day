@@ -103,7 +103,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Brainstorming: Best practices for hosting Online Workshops](https://make.wordpress.org/training/2022/07/15/brainstorming-best-practices-for-hosting-online-workshops/)
 - [Training Team Meeting Recap – July 12 / July 14](https://make.wordpress.org/training/2022/07/14/training-team-meeting-recap-july-12-july-14/)
 - [Community Course Creation: A Proposal](https://make.wordpress.org/training/2022/07/12/community-course-creation-a-proposal/)
-- [Meeting Agenda July 12 – 14, 2022](https://make.wordpress.org/training/2022/07/12/meeting-agenda-july-12-14-2022/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
