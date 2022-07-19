@@ -168,7 +168,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Maciek Palmowski: Deploying WordPress with confidence using CI/CD](https://wordpress.tv/2022/07/13/maciek-palmowski-deploying-wordpress-with-confidence-using-ci-cd/)
 - [Micah Wood: Automated Testing Made Easy](https://wordpress.tv/2022/07/13/automated-testing-made-easy/)
 - [Daisy Olsen: Build your first block theme](https://wordpress.tv/2022/07/13/daisy-olsen-build-your-first-block-theme/)
-- [WordPress Action Hooks](https://wordpress.tv/2022/07/12/wordpress-action-hooks/)
 <!-- WPTV:END -->
 
 ## Marketing
