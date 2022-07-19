@@ -227,6 +227,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Jobs
 <!-- JOBS:START -->
+- [Sr. Web Developer](https://jobs.wordpress.net/job/sr-web-developer-8/)
 - [Need help modifying plugins and site theme.](https://jobs.wordpress.net/job/need-help-modifying-plugins-and-site-theme/)
 - [[Astra] WordPress Support Manager](https://jobs.wordpress.net/job/astra-wordpress-support-manager/)
 - [Senior Full Stack Software Engineer &lpar;BiblioWeb&rpar;](https://jobs.wordpress.net/job/senior-full-stack-software-engineer-biblioweb/)
