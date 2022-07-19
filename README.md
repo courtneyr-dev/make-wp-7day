@@ -137,7 +137,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Test
 <!-- TEST:START -->
 - [X-post: Rollback Feature: Testing Call to Action](https://make.wordpress.org/test/2022/07/12/xpost-rollback-feature-testing-call-to-action/)
-- [X-post: Call for Testing: WordPress for iOS 20.3](https://make.wordpress.org/test/2022/07/12/xpost-call-for-testing-wordpress-for-ios-20-3/)
 <!-- TEST:END -->
 
 ## TV
