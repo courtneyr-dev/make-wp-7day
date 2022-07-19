@@ -11,7 +11,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Summary, Dev Chat, July 13, 2022](https://make.wordpress.org/core/2022/07/14/summary-dev-chat-july-13-2022/)
 - [Proposal: Persistent Object Cache and Full Page Cache Site Health Checks](https://make.wordpress.org/core/2022/07/13/proposal-persistent-object-cache-and-full-page-cache-site-health-checks/)
 - [Editor chat summary: Wednesday, 06 July 2022](https://make.wordpress.org/core/2022/07/13/editor-chat-summary-wednesday-06-july-2022/)
-- [Dev chat agenda for July 13, 2022](https://make.wordpress.org/core/2022/07/12/devchat-agenda-for-july-13-2022/)
 <!-- CORE:END -->
 
 ## Design
