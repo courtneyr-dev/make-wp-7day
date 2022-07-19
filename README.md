@@ -16,6 +16,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Design
 <!-- DESIGN:START -->
+- [Proposal: A new kind of default theme](https://make.wordpress.org/design/2022/07/19/proposal-a-new-kind-of-default-theme/)
 - [Design Share: July 4–15](https://make.wordpress.org/design/2022/07/18/design-share-july-4-15/)
 <!-- DESIGN:END -->
 
