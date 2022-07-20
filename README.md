@@ -140,6 +140,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [WordPress Filter Hooks](https://wordpress.tv/2022/07/20/wordpress-filter-hooks/)
 - [Explore the Template Editor](https://wordpress.tv/2022/07/19/explore-the-template-editor/)
 - [The ABCs of Blogging: Part One](https://wordpress.tv/2022/07/19/the-abcs-of-blogging-part-one/)
 - [Horizontal Pyramid Gallery](https://wordpress.tv/2022/07/17/horizontal-pyramid-gallery/)
