@@ -127,8 +127,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [[CANCELED – Moved to July 28] Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=19634)
 - [Power Up With Free Wireframe Templates And Advanced Blocks](https://learn.wordpress.org/?meeting=power-up-with-free-wireframe-templates-and-advanced-blocks)
 - [Optimizing your images for WordPress](https://learn.wordpress.org/?meeting=optimizing-your-images-for-wordpress)
-- [Builder Basics: Let’s Build a Custom Theme &lpar;No Coding Required&rpar; – Part 2](https://learn.wordpress.org/?meeting=builder-basics-lets-build-a-custom-theme-no-coding-required-part-2)
-- [Curating the Editor Experience](https://learn.wordpress.org/?meeting=curating-the-editor-experience)
 <!-- SLS:END -->
 
 ## Test
