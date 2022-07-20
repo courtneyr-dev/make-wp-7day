@@ -233,5 +233,4 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-764/)
 - [WordPress Developer](https://jobs.wordpress.net/job/wordpress-developer-763/)
 - [Senior Backend Developer &lpar; WordPress, WooCommerce, Laravel &rpar;](https://jobs.wordpress.net/job/senior-backend-developer-wordpress-woocommerce-laravel-3/)
-- [Design WordPress + Woo e-site](https://jobs.wordpress.net/job/design-wordpress-woo-e-site/)
 <!-- JOBS:END -->
