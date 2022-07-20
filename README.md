@@ -10,7 +10,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Performance Chat Agenda: 19 July 2022](https://make.wordpress.org/core/2022/07/18/performance-chat-agenda-19-july-2022/)
 - [Editor chat summary: 13 July, 2022](https://make.wordpress.org/core/2022/07/14/editor-chat-summary-13-july-2022/)
 - [Summary, Dev Chat, July 13, 2022](https://make.wordpress.org/core/2022/07/14/summary-dev-chat-july-13-2022/)
-- [Proposal: Persistent Object Cache and Full Page Cache Site Health Checks](https://make.wordpress.org/core/2022/07/13/proposal-persistent-object-cache-and-full-page-cache-site-health-checks/)
 <!-- CORE:END -->
 
 ## Design
