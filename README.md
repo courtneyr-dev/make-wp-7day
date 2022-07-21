@@ -3,6 +3,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Core
 <!-- CORE:START -->
+- [Proposal: Add a dominant color background to images.](https://make.wordpress.org/core/2022/07/21/proposal-add-a-dominant-color-background-to-images/)
 - [Editor chat summary: 20 July 2022](https://make.wordpress.org/core/2022/07/21/editor-chat-summary-13-july-2022-2/)
 - [Core Editor Improvement: Deeper customization with more template options](https://make.wordpress.org/core/2022/07/21/core-editor-improvement-deeper-customization-with-more-template-options/)
 - [[Request for feedback] Feature Notifications Proof of Concept](https://make.wordpress.org/core/2022/07/21/request-for-feedback-feature-notifications-proof-of-concept/)
