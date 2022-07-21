@@ -128,7 +128,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Creating your first WordPress Plugin](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-plugin)
 - [[CANCELED – Moved to July 28] Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=19634)
 - [Power Up With Free Wireframe Templates And Advanced Blocks](https://learn.wordpress.org/?meeting=power-up-with-free-wireframe-templates-and-advanced-blocks)
-- [Optimizing your images for WordPress](https://learn.wordpress.org/?meeting=optimizing-your-images-for-wordpress)
 <!-- SLS:END -->
 
 ## Test
