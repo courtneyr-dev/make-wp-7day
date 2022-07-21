@@ -140,6 +140,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
 - [Ryan Welcher: Creating a pre-publish checklist for Gutenberg](https://wordpress.tv/2022/07/21/ryan-welcher-creating-a-pre-publish-checklist-for-gutenberg/)
 - [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
 - [Alice Orrù: Copy tips for brilliant alt text and accessible writing](https://wordpress.tv/2022/07/21/alice-orru-copy-tips-for-brilliant-alt-text-and-accessible-writing/)
