@@ -140,6 +140,10 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
+- [Alice Orrù: Copy tips for brilliant alt text and accessible writing](https://wordpress.tv/2022/07/21/alice-orru-copy-tips-for-brilliant-alt-text-and-accessible-writing/)
+- [Creating communities with WordPress multisite](https://wordpress.tv/2022/07/21/creating-communities-with-wordpress-multisite/)
+- [Milana Cap, David Perez, Wendie Huis in ‘t Veld. Interviewing table leads: Milana Cap and David Perez](https://wordpress.tv/2022/07/21/milana-cap-david-perez-wendie-huis-in-t-veld-interviewing-table-leads-milana-cap-and-david-perez/)
 - [Optimizing your images for WordPress](https://wordpress.tv/2022/07/20/optimizing-your-images-for-wordpress/)
 - [Power Up With Free Wireframe Templates And Advanced Blocks](https://wordpress.tv/2022/07/20/power-up-with-free-wireframe-templates-and-advanced-blocks/)
 - [Your First Ecommerce Website – Part 1](https://wordpress.tv/2022/07/20/your-first-ecommerce-website-part-1/)
