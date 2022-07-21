@@ -92,7 +92,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Meta
 <!-- META:START -->
-- [X-post: Project Kickoff: WordPress.org Homepage and Download page redesign](https://make.wordpress.org/meta/2022/07/08/xpost-project-kickoff-wordpress-org-homepage-and-download-page-redesign/)
+- [Pattern Previews for Themes in the Directory – Beta](https://make.wordpress.org/meta/2022/07/21/pattern-previews-for-themes-in-the-directory-beta/)
 <!-- META:END -->
 
 ## Training
