@@ -103,7 +103,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Proposal: Merging Lesson Plans, Video Tutorials, and Slides](https://make.wordpress.org/training/2022/07/19/proposal-to-merging-lesson-plans-video-tutorials-and-slides/)
 - [Meeting Agenda July 19 – 21, 2022](https://make.wordpress.org/training/2022/07/18/meeting-agenda-july-19-21-2022/)
 - [Block Theme Development Course – Update](https://make.wordpress.org/training/2022/07/15/block-theme-development-course-update/)
-- [Brainstorming: Best practices for hosting Online Workshops](https://make.wordpress.org/training/2022/07/15/brainstorming-best-practices-for-hosting-online-workshops/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
