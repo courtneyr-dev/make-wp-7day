@@ -87,6 +87,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Community
 <!-- COMMUNITY:START -->
+- [July Meetup Organizer newsletter](https://make.wordpress.org/community/2022/07/22/july-meetup-organizer-newsletter/)
 - [Deputy Feedback Wanted: Streamlining WordCamp Phases](https://make.wordpress.org/community/2022/07/22/deputy-feedback-wanted-streamlining-wordcamp-phases/)
 - [Recap of the Diverse Speaker Training group &lpar;#WPDiversity&rpar; AMER/EMEA on July 13, 2022](https://make.wordpress.org/community/2022/07/20/recap-of-the-diverse-speaker-training-group-wpdiversity-amer-emea-on-july-13-2022/)
 - [Deputy / Organizer Training: Meetup/WordCamp Application Vetting](https://make.wordpress.org/community/2022/07/19/deputy-organizer-training-vetting-wordcamps/)
