@@ -140,6 +140,11 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Devin Walker, Joshua Strebel, Marieke van de Rakt, Shane Pearlman, Taeke Reijenga: Acquisitions in WordPress](https://wordpress.tv/2022/07/22/devin-walker-joshua-strebel-marieke-van-de-rakt-shane-pearlman-taeke-reijenga-acquisitions-in-wordpress/)
+- [Bernhard Kau, Taeke Reijenga, Sjoerd Blom: Live Studio, Sjoerd Blom interviewing WCEU Global Leads](https://wordpress.tv/2022/07/22/sjoerd-blom-interviewing-wceu-global-leads/)
+- [Paul Halfpenny, Imran Sayed, Evan Mullins, Ryan Welcher, Juanma Garrido: Lightning talks](https://wordpress.tv/2022/07/22/paul-halfpenny-imran-sayed-evan-mullins-ryan-welcher-juanma-garrido-lightning-talks/)
+- [Closing remarks](https://wordpress.tv/2022/07/22/closing-remarks-2/)
+- [Maja Benke: Accessibility for dyslexia](https://wordpress.tv/2022/07/22/maja-benke-accessibility-for-dyslexia/)
 - [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
 - [Ivan Popov: How headless WordPress benefits enterprises?](https://wordpress.tv/2022/07/22/ivan-popov-how-headless-wordpress-benefits-enterprises/)
 - [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
