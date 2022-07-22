@@ -127,7 +127,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Common APIs: Shortcodes](https://learn.wordpress.org/?meeting=lets-code-common-apis-shortcodes)
 - [Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=theme-development-workflows-for-different-types-of-developers)
 - [Let’s code! Creating your first WordPress Plugin](https://learn.wordpress.org/?meeting=lets-code-creating-your-first-wordpress-plugin)
-- [[CANCELED – Moved to July 28] Theme Development Workflows for Different Types of Developers](https://learn.wordpress.org/?meeting=19634)
 <!-- SLS:END -->
 
 ## Test
