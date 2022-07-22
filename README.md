@@ -140,6 +140,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Ivan Popov: How headless WordPress benefits enterprises?](https://wordpress.tv/2022/07/22/ivan-popov-how-headless-wordpress-benefits-enterprises/)
 - [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
 - [Ryan Welcher: Creating a pre-publish checklist for Gutenberg](https://wordpress.tv/2022/07/21/ryan-welcher-creating-a-pre-publish-checklist-for-gutenberg/)
 - [Simon Kraft, Flavia Bernárdez, Ronald Gijsel, Erika Ellacott, Ana Garcia López, Laura Sacco: Building a Sustainable Community through Meetups](https://wordpress.tv/2022/07/21/simon-kraft-flavia-bernardez-ronald-gijsel-erika-ellacott-ana-garcia-lopez-laura-sacco-building-a-sustainable-community-through-meetups/)
@@ -160,7 +161,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Roberto Remedios: Traducciones en es-cr.wordpress.org](https://wordpress.tv/2022/07/16/roberto-remedios-traducciones-en-es-cr-wordpress-org/)
 - [Nick Diego: Builder Basics – Designing Advanced Layouts with Core Blocks](https://wordpress.tv/2022/07/15/nick-diego-builder-basics-designing-advanced-layouts-with-core-blocks/)
 - [Writing content with the 10 Text blocks](https://wordpress.tv/2022/07/15/writing-content-with-the-10-text-blocks/)
-- [Explore the Block Directory](https://wordpress.tv/2022/07/15/explore-the-block-directory/)
 <!-- WPTV:END -->
 
 ## Marketing
