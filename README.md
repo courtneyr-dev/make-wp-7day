@@ -140,6 +140,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [David Viña: Aprende a facer webs con WordPress 6](https://wordpress.tv/2022/07/22/david-vina-aprende-a-facer-webs-con-wordpress-6/)
 - [Nick Diego: Curating the Editor Experience](https://wordpress.tv/2022/07/22/nick-diego-curating-the-editor-experience/)
 - [Devin Walker, Joshua Strebel, Marieke van de Rakt, Shane Pearlman, Taeke Reijenga: Acquisitions in WordPress](https://wordpress.tv/2022/07/22/devin-walker-joshua-strebel-marieke-van-de-rakt-shane-pearlman-taeke-reijenga-acquisitions-in-wordpress/)
 - [Bernhard Kau, Taeke Reijenga, Sjoerd Blom: Live Studio, Sjoerd Blom interviewing WCEU Global Leads](https://wordpress.tv/2022/07/22/sjoerd-blom-interviewing-wceu-global-leads/)
