@@ -168,7 +168,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Adam Silverstein, Justin Ahinon: Optimize your WordPress](https://wordpress.tv/2022/07/17/adam-silverstein-justin-ahinon-optimize-your-wordpress/)
 - [Roberto Remedios: Traducciones en es-cr.wordpress.org](https://wordpress.tv/2022/07/16/roberto-remedios-traducciones-en-es-cr-wordpress-org/)
 - [Nick Diego: Builder Basics – Designing Advanced Layouts with Core Blocks](https://wordpress.tv/2022/07/15/nick-diego-builder-basics-designing-advanced-layouts-with-core-blocks/)
-- [Writing content with the 10 Text blocks](https://wordpress.tv/2022/07/15/writing-content-with-the-10-text-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
