@@ -167,7 +167,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Juan Pablo Gomez: You get a layout! Everyone gets a layout!](https://wordpress.tv/2022/07/17/juan-pablo-gomez-you-get-a-layout-everyone-gets-a-layout/)
 - [Adam Silverstein, Justin Ahinon: Optimize your WordPress](https://wordpress.tv/2022/07/17/adam-silverstein-justin-ahinon-optimize-your-wordpress/)
 - [Roberto Remedios: Traducciones en es-cr.wordpress.org](https://wordpress.tv/2022/07/16/roberto-remedios-traducciones-en-es-cr-wordpress-org/)
-- [Nick Diego: Builder Basics – Designing Advanced Layouts with Core Blocks](https://wordpress.tv/2022/07/15/nick-diego-builder-basics-designing-advanced-layouts-with-core-blocks/)
 <!-- WPTV:END -->
 
 ## Marketing
