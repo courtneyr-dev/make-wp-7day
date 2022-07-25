@@ -56,7 +56,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
-- [Read More Block](https://wordpress.org/support/article/read-more-block/)
+- [Comment Date Block](https://wordpress.org/support/article/comment-date-block/)
 <!-- HELPHUB:END -->
 
 ### Developer Articles
