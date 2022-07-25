@@ -113,7 +113,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ### Workshops
 <!-- WORKSHOPS:START -->
 - [WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
-- [Horizontal Pyramid Gallery](https://learn.wordpress.org/tutorial/horizontal-pyramid-gallery/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
