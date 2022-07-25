@@ -56,6 +56,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Support Articles
 <!-- HELPHUB:START -->
+- [Comment  Author Name Block](https://wordpress.org/support/article/comment-author-name-block/)
 - [Comment Date Block](https://wordpress.org/support/article/comment-date-block/)
 <!-- HELPHUB:END -->
 
