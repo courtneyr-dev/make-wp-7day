@@ -218,7 +218,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## News
 <!-- NEWS:START -->
-- [WordPress 6.0.1 Maintenance Release](https://wordpress.org/news/2022/07/wordpress-6-0-1-maintenance-release/)
+- [WP Briefing: Episode 36: Beginner’s Guide to Contributions 2.0](https://wordpress.org/news/2022/07/episode-36-beginners-guide-to-contributions-2-0/)
 <!-- NEWS:END -->
 
 ## Jobs
