@@ -77,6 +77,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Themes team meeting agenda for July 26, 2022](https://make.wordpress.org/themes/2022/07/25/themes-team-meeting-agenda-for-july-26-2022/)
 - [X-post: Proposal: A new kind of default theme](https://make.wordpress.org/themes/2022/07/19/xpost-proposal-a-new-kind-of-default-theme/)
 <!-- THEMES:END -->
 
