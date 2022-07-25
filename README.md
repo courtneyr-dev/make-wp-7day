@@ -109,6 +109,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Lesson Plans
 <!-- LESSONPLANS:START -->
+- [Create a Basic Child Theme for Block Themes](https://learn.wordpress.org/lesson-plan/create-a-basic-child-theme-for-block-themes/)
 - [WebP images in WordPress](https://learn.wordpress.org/lesson-plan/webp-images-in-wordpress/)
 - [Υποβολή Μοτίβων μπλοκ &lpar;Block Patterns&rpar; στον κατάλογο.](https://learn.wordpress.org/lesson-plan/%cf%85%cf%80%ce%bf%ce%b2%ce%bf%ce%bb%ce%ae-%ce%bc%ce%bf%cf%84%ce%af%ce%b2%cf%89%ce%bd-%ce%bc%cf%80%ce%bb%ce%bf%ce%ba-block-patterns-%cf%83%cf%84%ce%bf%ce%bd-%ce%ba%ce%b1%cf%84%ce%ac%ce%bb%ce%bf/)
 <!-- LESSONPLANS:END -->
