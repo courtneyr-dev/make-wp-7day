@@ -52,7 +52,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Documentation
 <!-- DOCS:START -->
 - [Summary of Docs Team Biweekly Meeting July 19th, 2022](https://make.wordpress.org/docs/2022/07/19/summary-of-docs-team-biweekly-meeting-july-19th-2022/)
-- [Agenda for docs team bi-weekly meeting 19 July 2022](https://make.wordpress.org/docs/2022/07/18/agenda-for-docs-team-bi-weekly-meeting-19-july-2022/)
 <!-- DOCS:END -->
 
 ### Support Articles
