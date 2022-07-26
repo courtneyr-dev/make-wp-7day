@@ -102,7 +102,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [July 2022 Monthly Faculty Meeting](https://make.wordpress.org/training/2022/07/25/july-2022-monthly-faculty-meeting/)
 - [Training Team Meeting Recap – July 19 / July 21](https://make.wordpress.org/training/2022/07/25/training-team-meeting-recap-july-19-july-21/)
 - [Summary Update: Courses Currently in…](https://make.wordpress.org/training/2022/07/21/summary-update-courses-currently-in/)
-- [Proposal: Merging Lesson Plans, Video Tutorials, and Slides](https://make.wordpress.org/training/2022/07/19/proposal-to-merging-lesson-plans-video-tutorials-and-slides/)
 <!-- TRAINING:END -->
 
 ### Lesson Plans
