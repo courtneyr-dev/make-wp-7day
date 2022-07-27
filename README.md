@@ -145,6 +145,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Mel Choyce: Getting creative with block patterns](https://wordpress.tv/2022/07/27/mel-choyce-getting-creative-with-block-patterns/)
 - [Joe Campbell: The journey of becoming More Jersey](https://wordpress.tv/2022/07/26/joe-campbell-the-journey-of-becoming-more-jersey/)
 - [Luis Miguel Climent: ¿Tienes que hablar en público? Te doy algunos trucos](https://wordpress.tv/2022/07/25/luis-miguel-climent-tienes-que-hablar-en-publico-te-doy-algunos-trucos/)
 - [Matt Mullenweg, Josepha Haden: In Conversation](https://wordpress.tv/2022/07/25/matt-mullenweg-josepha-haden-in-conversation/)
@@ -164,8 +165,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Creating communities with WordPress multisite](https://wordpress.tv/2022/07/21/creating-communities-with-wordpress-multisite/)
 - [Milana Cap, David Perez, Wendie Huis in ‘t Veld. Interviewing table leads: Milana Cap and David Perez](https://wordpress.tv/2022/07/21/milana-cap-david-perez-wendie-huis-in-t-veld-interviewing-table-leads-milana-cap-and-david-perez/)
 - [Optimizing your images for WordPress](https://wordpress.tv/2022/07/20/optimizing-your-images-for-wordpress/)
-- [Power Up With Free Wireframe Templates And Advanced Blocks](https://wordpress.tv/2022/07/20/power-up-with-free-wireframe-templates-and-advanced-blocks/)
-- [Your First Ecommerce Website – Part 1](https://wordpress.tv/2022/07/20/your-first-ecommerce-website-part-1/)
 <!-- WPTV:END -->
 
 ## Marketing
