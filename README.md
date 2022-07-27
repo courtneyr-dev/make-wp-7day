@@ -100,6 +100,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Training
 <!-- TRAINING:START -->
+- [Information Sources for WP 6.1](https://make.wordpress.org/training/2022/07/27/information-sources-for-wp-6-1/)
 - [Meeting Agenda July 26 – 28, 2022](https://make.wordpress.org/training/2022/07/25/meeting-agenda-july-26-28-2022/)
 - [July 2022 Monthly Faculty Meeting](https://make.wordpress.org/training/2022/07/25/july-2022-monthly-faculty-meeting/)
 - [Training Team Meeting Recap – July 19 / July 21](https://make.wordpress.org/training/2022/07/25/training-team-meeting-recap-july-19-july-21/)
