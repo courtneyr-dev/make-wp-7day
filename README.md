@@ -200,6 +200,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Updates
 <!-- UPDATES:START -->
+- [Test Team Update: 26 July 2022](https://make.wordpress.org/updates/2022/07/27/test-team-update-26-july-2022/)
 - [Themes team update July 26, 2022](https://make.wordpress.org/updates/2022/07/26/themes-team-update-july-26-2022/)
 - [Plugin Review Team Update: 25 July 2022](https://make.wordpress.org/updates/2022/07/25/plugin-review-team-update-25-july-2022/)
 - [A Mid-Year Look at 2022 Goals](https://make.wordpress.org/updates/2022/07/25/a-mid-year-year-look-at-2022-goals/)
