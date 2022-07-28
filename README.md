@@ -76,6 +76,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Themes
 <!-- THEMES:START -->
+- [Using locally-hosted Google fonts in themes](https://make.wordpress.org/themes/2022/07/28/using-locally-hosted-google-fonts-in-themes/)
 - [Gutenberg 13.6 + Themes](https://make.wordpress.org/themes/2022/07/27/gutenberg-13-6-themes/)
 - [Themes Team Meeting Notes – July 26, 2022](https://make.wordpress.org/themes/2022/07/27/themes-team-meeting-notes-july-26-2022/)
 - [Themes team meeting agenda for July 26, 2022](https://make.wordpress.org/themes/2022/07/25/themes-team-meeting-agenda-for-july-26-2022/)
