@@ -129,6 +129,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [The Creative Side of Blocks](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks)
 - [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-3)
 - [Creating a landing page with a block theme](https://learn.wordpress.org/?meeting=creating-a-landing-page-with-a-block-theme)
 - [Let’s code! Common APIs: Shortcodes](https://learn.wordpress.org/?meeting=lets-code-common-apis-shortcodes)
