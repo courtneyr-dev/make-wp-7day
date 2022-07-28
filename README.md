@@ -214,7 +214,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ## Project
 <!-- PROJECT:START -->
-- [X-post: Announcement: Incident Response Training](https://make.wordpress.org/project/2022/05/26/xpost-announcement-incident-response-training/)
+- [Updates on the Five for the Future program, and proposed improvements](https://make.wordpress.org/project/2022/07/28/updates-on-the-five-for-the-future-program-and-proposed-improvements/)
 <!-- PROJECT:END -->
 
 ## Systems
