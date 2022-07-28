@@ -118,7 +118,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Workshops
 <!-- WORKSHOPS:START -->
-- [WordPress Filter Hooks](https://learn.wordpress.org/tutorial/wordpress-filter-hooks/)
+- [Building a home page with a block theme](https://learn.wordpress.org/tutorial/building-a-home-page-with-a-block-theme/)
 <!-- WORKSHOPS:END -->
 
 ### Courses
