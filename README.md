@@ -166,7 +166,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
 - [Ivan Popov: How headless WordPress benefits enterprises?](https://wordpress.tv/2022/07/22/ivan-popov-how-headless-wordpress-benefits-enterprises/)
 - [Tammie Lister: Growing the WordPress design system](https://wordpress.tv/2022/07/21/tammie-lister-growing-the-wordpress-design-system/)
-- [Ryan Welcher: Creating a pre-publish checklist for Gutenberg](https://wordpress.tv/2022/07/21/ryan-welcher-creating-a-pre-publish-checklist-for-gutenberg/)
 <!-- WPTV:END -->
 
 ## Marketing
