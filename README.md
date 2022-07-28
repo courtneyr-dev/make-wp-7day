@@ -96,7 +96,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 ## Meta
 <!-- META:START -->
 - [X-post: Project Update: WordPress.org Homepage and Download page mockups](https://make.wordpress.org/meta/2022/07/27/xpost-project-update-wordpress-org-homepage-and-download-page-mockups/)
-- [Pattern Previews for Themes in the Directory – Beta](https://make.wordpress.org/meta/2022/07/21/pattern-previews-for-themes-in-the-directory-beta/)
 <!-- META:END -->
 
 ## Training
