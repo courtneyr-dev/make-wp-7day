@@ -163,7 +163,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Closing remarks](https://wordpress.tv/2022/07/22/closing-remarks-2/)
 - [Maja Benke: Accessibility for dyslexia](https://wordpress.tv/2022/07/22/maja-benke-accessibility-for-dyslexia/)
 - [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
-- [Ivan Popov: How headless WordPress benefits enterprises?](https://wordpress.tv/2022/07/22/ivan-popov-how-headless-wordpress-benefits-enterprises/)
 <!-- WPTV:END -->
 
 ## Marketing
