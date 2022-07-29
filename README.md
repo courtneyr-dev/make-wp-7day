@@ -148,6 +148,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 <!-- TV:END -->
 ## WPTV videos
 <!-- WPTV:START -->
+- [Let’s Code: Common APIs – Shortcodes](https://wordpress.tv/2022/07/29/lets-code-common-apis-shortcodes/)
 - [JuanKa Díaz, José Conti, Nora Ferreirós, Núria Ramoneda: WP Barcelona Meetup. Nueva localización, nueva temporada](https://wordpress.tv/2022/07/28/juanka-diaz-jose-conti-nora-ferreiros-nuria-ramoneda-wp-barcelona-meetup-nueva-localizacion-nueva-temporada/)
 - [Building a home page with a block theme](https://wordpress.tv/2022/07/27/building-a-home-page-with-a-block-theme/)
 - [The ABCs of Blogging: Advanced Blogging &lpar;Part Two&rpar;](https://wordpress.tv/2022/07/27/the-abcs-of-blogging-advanced-blogging-part-two/)
