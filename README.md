@@ -162,7 +162,6 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 - [Paul Halfpenny, Imran Sayed, Evan Mullins, Ryan Welcher, Juanma Garrido: Lightning talks](https://wordpress.tv/2022/07/22/paul-halfpenny-imran-sayed-evan-mullins-ryan-welcher-juanma-garrido-lightning-talks/)
 - [Closing remarks](https://wordpress.tv/2022/07/22/closing-remarks-2/)
 - [Maja Benke: Accessibility for dyslexia](https://wordpress.tv/2022/07/22/maja-benke-accessibility-for-dyslexia/)
-- [Let’s code! Creating your first WordPress Plugin](https://wordpress.tv/2022/07/22/lets-code-creating-your-first-wordpress-plugin/)
 <!-- WPTV:END -->
 
 ## Marketing
