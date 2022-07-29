@@ -127,6 +127,7 @@ What's happening across [WordPress.org](https://wordpress.org)? This is a self-u
 
 ### Social Learning Spaces
 <!-- SLS:START -->
+- [The Wide World of WordPress Events](https://learn.wordpress.org/?meeting=the-wide-world-of-wordpress-events)
 - [An introduction to the 9 Design blocks](https://learn.wordpress.org/?meeting=an-introduction-to-the-9-design-blocks)
 - [The Creative Side of Blocks](https://learn.wordpress.org/?meeting=the-creative-side-of-blocks)
 - [Showcasing Content with Query Loops](https://learn.wordpress.org/?meeting=showcasing-content-with-query-loops-3)
